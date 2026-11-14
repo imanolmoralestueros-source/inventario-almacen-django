@@ -1,0 +1,2702 @@
+codigo,atributo,valor,unidad
+MAT-000001,Especificaciones principales,HSS M2 + 5% Co,
+MAT-000002,Especificaciones principales,"Ø 5.2 mm (13/64""), punta Split Point 135°",
+MAT-000003,Especificaciones principales,"Ø 6.5 mm (1/4""), punta Split Point 135°",
+MAT-000004,Especificaciones principales,"Ø 13 mm (1/2""), punta Split Point 135°",
+MAT-000005,Especificaciones principales,"Ø 1/2"" x 6"", punta de carburo",
+MAT-000006,Especificaciones principales,"Ø 11 mm, HSS M2, punta 130°, zanco P3",
+MAT-000007,Especificaciones principales,"Capacidad 60 kg, salida nominal 2.0 mV/V",
+MAT-000007,Sensibilidad nominal,2,mV/V
+MAT-000008,Especificaciones principales,Modelo S8KA5B1,
+MAT-000009,Especificaciones principales,"120/240 VAC, 50–60 Hz",
+MAT-000009,Frecuencia,50–60 Hz,
+MAT-000009,Tensión,120/240 VAC,
+MAT-000010,Especificaciones principales,"Pt100, salida relé, 100–240 VAC",
+MAT-000010,Polos / contactos / E/S,Pt100 / salida relé,
+MAT-000010,Tensión,100–240 VAC,
+MAT-000011,Datos eléctricos complementarios,5 µF ±5% / 50–60 Hz,
+MAT-000011,Especificaciones principales,"5 µF ±5%, 440 VAC, 50/60 Hz",
+MAT-000011,Tensión,440,VAC
+MAT-000012,Corriente / rango,10,A
+MAT-000012,Especificaciones principales,"2CO / DPDT, 10 A, bobina 24 VDC",
+MAT-000012,Polos / contactos / E/S,2CO / DPDT,
+MAT-000012,Tensión,24,VDC
+MAT-000013,Corriente / rango,3,A
+MAT-000013,Especificaciones principales,"4CO / 4PDT, 3 A, bobina 220 VAC, 14 pines",
+MAT-000013,Polos / contactos / E/S,4CO / 14 pines,
+MAT-000013,Tensión,220,VAC
+MAT-000014,Corriente / rango,8,A
+MAT-000014,Especificaciones principales,"8 A / 250 VAC, bobina 24 VDC",
+MAT-000014,Tensión,24,VDC
+MAT-000015,Corriente / rango,8,A
+MAT-000015,Especificaciones principales,"8 A / 250 VAC, bobina 230 VAC",
+MAT-000015,Tensión,230,VAC
+MAT-000016,Corriente / rango,20,A
+MAT-000016,Especificaciones principales,"20 A, hasta 690 VAC",
+MAT-000016,Tensión,Hasta 690 VAC,
+MAT-000017,Corriente / rango,Hasta 2.5 A,
+MAT-000017,Especificaciones principales,"3 polos, ajuste hasta 2.5 A",
+MAT-000017,Polos / contactos / E/S,3P,
+MAT-000018,Datos eléctricos complementarios,IP67 / IP69K,
+MAT-000018,Especificaciones principales,"10–30 VDC, M12, IP67/IP69K, Part No. 50134262",
+MAT-000018,Tensión,10–30 VDC,
+MAT-000019,Especificaciones principales,"BOP-2, IP55, FW V2.0",
+MAT-000020,Datos eléctricos complementarios,0.1 s a 10 días,
+MAT-000020,Especificaciones principales,"0.1 s a 10 días, 24–240 VAC/DC, 2 contactos",
+MAT-000020,Polos / contactos / E/S,2 contactos,
+MAT-000020,Tensión,24–240 VAC/DC,
+MAT-000021,Especificaciones principales,"CU240E-2 PN, PROFINET, 24 VDC, IP20",
+MAT-000021,Polos / contactos / E/S,PROFINET,
+MAT-000021,Tensión,24,VDC
+MAT-000022,Especificaciones principales,"Serie KK130, conexión para tubo Ø10 mm",
+MAT-000022,Polos / contactos / E/S,Tubo Ø10 mm,
+MAT-000023,Corriente / rango,16 AX,
+MAT-000023,Especificaciones principales,"1 módulo, 16 AX, 127/250/277 VAC",
+MAT-000023,Polos / contactos / E/S,1 módulo,
+MAT-000023,Tensión,127/250/277 VAC,
+MAT-000024,Corriente / rango,16,A
+MAT-000024,Especificaciones principales,"2P, 16 A, 127/250 VAC, 1 módulo",
+MAT-000024,Polos / contactos / E/S,2P / 1 módulo,
+MAT-000024,Tensión,127/250 VAC,
+MAT-000025,Corriente / rango,15,A
+MAT-000025,Especificaciones principales,"2P+T, 15 A",
+MAT-000025,Polos / contactos / E/S,2P+T,
+MAT-000026,Corriente / rango,16,A
+MAT-000026,Especificaciones principales,"2P+T, 16 A, 127/250 VAC, 3 módulos",
+MAT-000026,Polos / contactos / E/S,2P+T / 3 módulos,
+MAT-000026,Tensión,127/250 VAC,
+MAT-000027,Especificaciones principales,"3 módulos, IP55, tapa transparente",
+MAT-000027,Grado de protección,IP55,
+MAT-000028,Datos eléctricos complementarios,20 g / baja viscosidad,
+MAT-000028,Especificaciones principales,"20 g, baja viscosidad, fijación rápida",
+MAT-000029,Corriente / rango,5 A máx.,
+MAT-000029,Especificaciones principales,"5 A, 100 V, encapsulado TO-220",
+MAT-000029,Polos / contactos / E/S,NPN Darlington / TO-220,
+MAT-000029,Tensión,100 V máx.,
+MAT-000030,Corriente / rango,6,A
+MAT-000030,Especificaciones principales,"4CO, 6 A, bobina 230 VAC, 50/60 Hz",
+MAT-000030,Frecuencia,50/60 Hz,
+MAT-000030,Polos / contactos / E/S,4CO,
+MAT-000030,Tensión,230,VAC
+MAT-000031,Corriente / rango,6,A
+MAT-000031,Datos eléctricos complementarios,LED / botón de prueba,
+MAT-000031,Especificaciones principales,"4CO, 6 A, bobina 230 VAC, LED y botón de prueba",
+MAT-000031,Polos / contactos / E/S,4CO,
+MAT-000031,Tensión,230,VAC
+MAT-000032,Datos eléctricos complementarios,Ámbar / doble destello / IP6K9K,
+MAT-000032,Detalle técnico de identificación,Referencia OEM de aplicación en equipos STILL/Linde.,
+MAT-000032,Especificaciones principales,"Ámbar, doble destello, 10–110 VDC, IP6K9K",
+MAT-000032,Tensión,10–110 VDC,
+MAT-000033,Datos eléctricos complementarios,LED integrado,
+MAT-000033,Detalle técnico de identificación,Color verde confirmado por referencia y fotografía,
+MAT-000033,Especificaciones principales,Piloto luminoso plástico con LED verde integrado; montaje Ø22 mm.,
+MAT-000033,Tensión,230-240 VAC,
+MAT-000034,Corriente / rango,≤20 mA,
+MAT-000034,Datos eléctricos complementarios,LED,
+MAT-000034,Especificaciones principales,Piloto LED rojo integrado.,
+MAT-000034,Tensión,220-230 VAC,
+MAT-000035,Corriente / rango,≤20 mA,
+MAT-000035,Datos eléctricos complementarios,LED,
+MAT-000035,Detalle técnico de identificación,"Misma familia que XA2EVM4LC, pero cambia el color y la referencia",
+MAT-000035,Especificaciones principales,Piloto LED verde integrado.,
+MAT-000035,Tensión,220-230 VAC,
+MAT-000036,Corriente / rango,0.40-0.63 A,
+MAT-000036,Detalle técnico de identificación,Es el menor rango de corriente observado en este grupo,
+MAT-000036,Especificaciones principales,Relé térmico regulable para protección de motor.,
+MAT-000036,Polos / contactos / E/S,3 fases,
+MAT-000037,Corriente / rango,0.63-1 A,
+MAT-000037,Detalle técnico de identificación,Rango de ajuste confirmado en etiqueta,
+MAT-000037,Especificaciones principales,Relé térmico regulable para protección de motor.,
+MAT-000037,Polos / contactos / E/S,3 fases,
+MAT-000038,Corriente / rango,1.6-2.5 A,
+MAT-000038,Detalle técnico de identificación,No sustituye la protección contra cortocircuito,
+MAT-000038,Especificaciones principales,Relé térmico regulable para protección de motor.,
+MAT-000038,Polos / contactos / E/S,3 fases,
+MAT-000039,Corriente / rango,4-6 A,
+MAT-000039,Detalle técnico de identificación,Debe seleccionarse según la corriente nominal del motor,
+MAT-000039,Especificaciones principales,Relé térmico regulable para protección de motor.,
+MAT-000039,Polos / contactos / E/S,3 fases,
+MAT-000040,Corriente / rango,5.5-8 A,
+MAT-000040,Especificaciones principales,Relé térmico regulable para protección de motor.,
+MAT-000040,Polos / contactos / E/S,3 fases,
+MAT-000041,Corriente / rango,7-10 A,
+MAT-000041,Especificaciones principales,Relé térmico regulable para protección de motor.,
+MAT-000041,Polos / contactos / E/S,3 fases,
+MAT-000042,Corriente / rango,9-13 A,
+MAT-000042,Especificaciones principales,Relé térmico regulable para protección de motor.,
+MAT-000042,Polos / contactos / E/S,3 fases,
+MAT-000043,Especificaciones principales,"CPU compacta; E/S integradas: 14 DI 24 VDC, 10 DO 24 VDC y 2 AI 0-10 VDC.",
+MAT-000043,Polos / contactos / E/S,14 DI / 10 DO / 2 AI,
+MAT-000043,Tensión,24,VDC
+MAT-000044,Corriente / rango,25,A
+MAT-000044,Datos eléctricos complementarios,Curva C,
+MAT-000044,Especificaciones principales,Interruptor automático modular; curva C; 2 polos.,
+MAT-000044,Polos / contactos / E/S,2P,
+MAT-000045,Corriente / rango,32,A
+MAT-000045,Datos eléctricos complementarios,Curva C,
+MAT-000045,Especificaciones principales,Interruptor automático modular; curva C; 2 polos.,
+MAT-000045,Polos / contactos / E/S,2P,
+MAT-000046,Corriente / rango,4,A
+MAT-000046,Datos eléctricos complementarios,Curva C,
+MAT-000046,Especificaciones principales,Interruptor automático modular; curva C; 2 polos.,
+MAT-000046,Polos / contactos / E/S,2P,
+MAT-000047,Corriente / rango,50,A
+MAT-000047,Datos eléctricos complementarios,Curva C,
+MAT-000047,Especificaciones principales,Interruptor automático modular; curva C; 2 polos.,
+MAT-000047,Polos / contactos / E/S,2P,
+MAT-000048,Corriente / rango,6,A
+MAT-000048,Datos eléctricos complementarios,Curva C,
+MAT-000048,Detalle técnico de identificación,"Corrección fina: la referencia A9F74206 corresponde a C6, no C8",
+MAT-000048,Especificaciones principales,Interruptor automático modular; curva C; 2 polos.,
+MAT-000048,Polos / contactos / E/S,2P,
+MAT-000049,Corriente / rango,16,A
+MAT-000049,Datos eléctricos complementarios,6 kA / curva C,
+MAT-000049,Especificaciones principales,Interruptor automático bipolar; curva C; capacidad de corte marcada 6000 A.,
+MAT-000049,Polos / contactos / E/S,2P,
+MAT-000049,Tensión,400 VAC (marcado),
+MAT-000050,Corriente / rango,16,A
+MAT-000050,Datos eléctricos complementarios,Curva C,
+MAT-000050,Detalle técnico de identificación,La numeración 1-3-5 / 2-4-6 confirma tres polos,
+MAT-000050,Especificaciones principales,Interruptor automático tripolar; curva C.,
+MAT-000050,Polos / contactos / E/S,3P,
+MAT-000050,Tensión,400 VAC (marcado),
+MAT-000051,Corriente / rango,25 A / 30 mA,
+MAT-000051,Datos eléctricos complementarios,Tipo AC,
+MAT-000051,Detalle técnico de identificación,No proporciona por sí solo protección magnetotérmica contra sobrecarga/cortocircuito,
+MAT-000051,Especificaciones principales,Interruptor diferencial bipolar con botón TEST; sensibilidad 30 mA; tipo AC.,
+MAT-000051,Polos / contactos / E/S,2P,
+MAT-000052,Clase limitación energía,3,
+MAT-000052,Corriente / rango,63,A
+MAT-000052,Corriente nominal,63,A
+MAT-000052,Curva de disparo,C,
+MAT-000052,Datos eléctricos complementarios,6 kA / curva C,
+MAT-000052,Detalle técnico de identificación,El catálogo ABB Perú identifica la referencia de pedido 2CDS213001R0634 para SH203 C63 6 kA,
+MAT-000052,Diferenciador técnico,3P; 63 A; curva C; Icn 6 kA; clase 3,
+MAT-000052,Especificaciones principales,Interruptor automático tripolar; curva C; capacidad de corte 6 kA.,
+MAT-000052,Especificaciones principales,3P; 63 A; curva C; 6 kA; 400 Vac; Ui 440 V; Uimp 4 kV,
+MAT-000052,Grado de protección,Térmica + magnética,
+MAT-000052,Montaje,Riel DIN,
+MAT-000052,Número de polos,3P,
+MAT-000052,Número de polos,3,
+MAT-000052,Poder de corte,6,kA
+MAT-000052,Poder de corte Icn,6,kA
+MAT-000052,Polos / contactos / E/S,3P,
+MAT-000052,Tensión,~400 V,
+MAT-000052,Tensión,400,VAC
+MAT-000052,Tensión nominal,400,VAC
+MAT-000053,Corriente / rango,10 A a 250 VAC,
+MAT-000053,Especificaciones principales,Relé enchufable con 3 contactos conmutados.,
+MAT-000053,Polos / contactos / E/S,3CO,
+MAT-000053,Tensión,230 VAC 50/60 Hz,
+MAT-000054,Corriente / rango,10,A
+MAT-000054,Detalle técnico de identificación,"Compatible con relés de configuración adecuada, como el RUMC3 mostrado",
+MAT-000054,Especificaciones principales,Base de conexión para relé de 3 contactos conmutados; bornes A1/A2 y grupos de contactos.,
+MAT-000054,Polos / contactos / E/S,11 pines,
+MAT-000054,Tensión,250,V
+MAT-000055,Corriente / rango,10,A
+MAT-000055,Especificaciones principales,Base de 14 terminales para relés enchufables de 4 contactos conmutados.,
+MAT-000055,Polos / contactos / E/S,14 pines,
+MAT-000055,Tensión,250,V
+MAT-000056,Datos eléctricos complementarios,50 Hz / 8 W,
+MAT-000056,Detalle técnico de identificación,No tratar como equivalente directa a GEM-B-32: cambia la frecuencia nominal (50 Hz vs 60 Hz),
+MAT-000056,Especificaciones principales,Bobina electromagnética para electroválvula GEM-SOL.,
+MAT-000056,Tensión,24,VAC
+MAT-000057,Datos eléctricos complementarios,60 Hz / 8 W,
+MAT-000057,Detalle técnico de identificación,"Misma tensión y potencia que GEM-B-31, pero diseñada para 60 Hz; mantener como referencia separada",
+MAT-000057,Especificaciones principales,Bobina electromagnética para electroválvula GEM-SOL.,
+MAT-000057,Tensión,24,VAC
+MAT-000058,Detalle técnico de identificación,S/N HE4B00260: 3.0025 mV/V; S/N HE4B00290: 3.0018 mV/V. Son calibraciones individuales del mismo material,
+MAT-000058,Especificaciones principales,Celda de carga tipo shear beam; capacidad nominal 2 t; salida nominal alrededor de 3 mV/V.,
+MAT-000058,Polos / contactos / E/S,Puente extensométrico,
+MAT-000058,Sensibilidad nominal,3,mV/V
+MAT-000058,Tensión,Excitación típica según familia,
+MAT-000059,Corriente / rango,10-16 A,
+MAT-000059,Datos eléctricos complementarios,Clase 10,
+MAT-000059,Especificaciones principales,Tamaño S0; clase 10; disparador térmico 10-16 A; disparador de cortocircuito 208 A; bornes de tornillo.,
+MAT-000059,Polos / contactos / E/S,3P,
+MAT-000060,Corriente / rango,17-23 A,
+MAT-000060,Detalle técnico de identificación,El rango de protección es el diferenciador principal frente al GV2ME14,
+MAT-000060,Especificaciones principales,Guardamotor termomagnético 3P3D; rango térmico 17-23 A.,
+MAT-000060,Polos / contactos / E/S,3P3D,
+MAT-000060,Tensión,Hasta 690 VAC según familia,
+MAT-000061,Corriente / rango,6-10 A,
+MAT-000061,Detalle técnico de identificación,No intercambiar directamente con GV2ME21 por diferencia de rango de corriente,
+MAT-000061,Especificaciones principales,Guardamotor termomagnético 3P3D; rango térmico 6-10 A.,
+MAT-000061,Polos / contactos / E/S,3P3D,
+MAT-000061,Tensión,Hasta 690 VAC según fabricante,
+MAT-000062,Corriente / rango,Según diámetro,
+MAT-000062,Datos eléctricos complementarios,SMAW,
+MAT-000062,Especificaciones principales,Electrodo revestido inoxidable de bajo carbono; clasificación AWS A5.4 E308L-16.,
+MAT-000063,Corriente / rango,Según diámetro,
+MAT-000063,Datos eléctricos complementarios,SMAW,
+MAT-000063,Especificaciones principales,Electrodo revestido inoxidable de bajo carbono con molibdeno; AWS A5.4 E316L-16.,
+MAT-000064,Corriente / rango,Según diámetro,
+MAT-000064,Datos eléctricos complementarios,SMAW,
+MAT-000064,Especificaciones principales,Electrodo básico de bajo hidrógeno; AWS A5.1 E7018; apto para todas las posiciones.,
+MAT-000065,Corriente / rango,Según procedimiento,
+MAT-000065,Datos eléctricos complementarios,SMAW,
+MAT-000065,Detalle técnico de identificación,"Mantener separado de Nazca Pro 7018: misma clasificación AWS, pero producto comercial distinto",
+MAT-000065,Especificaciones principales,Electrodo básico de bajo hidrógeno; medida identificada 1/8 x 14 in (aprox. 3.25 x 350 mm).,
+MAT-000066,Corriente / rango,Según diámetro,
+MAT-000066,Datos eléctricos complementarios,SMAW,
+MAT-000066,Especificaciones principales,Electrodo celulósico de alta penetración; AWS A5.1 / ASME SFA-5.1 E6011; uso con CA o CC(+).,
+MAT-000067,Corriente / rango,65-90 A,
+MAT-000067,Datos eléctricos complementarios,SMAW,
+MAT-000067,Detalle técnico de identificación,Medida y rango de corriente contrastados con ficha técnica Würth,
+MAT-000067,Especificaciones principales,Electrodo rutílico AWS A5.1 E6013; diámetro 2.5 mm (3/32 in); longitud 350 mm; rango orientativo 65-90 A.,
+MAT-000068,Corriente / rango,Según diámetro,
+MAT-000068,Datos eléctricos complementarios,Recargue duro / SMAW,
+MAT-000068,Especificaciones principales,Electrodo de hardfacing con depósito rico en carburos de cromo; alta resistencia a abrasión severa.,
+MAT-000069,Corriente / rango,25 A / 30 mA,
+MAT-000069,Datos eléctricos complementarios,60 Hz / Tipo AC,
+MAT-000069,Detalle técnico de identificación,El sufijo completo 5SV5312-0MB se tomó de la etiqueta del equipo; la página oficial consultada confirma la base 5SV5312-0 y sus ratings principales.,
+MAT-000069,Especificaciones principales,RCCB bipolar; tipo AC; corriente nominal 25 A; sensibilidad diferencial IΔn 30 mA; botón TEST.,
+MAT-000069,Polos / contactos / E/S,2P,
+MAT-000069,Tensión,230,VAC
+MAT-000070,Corriente / rango,3,A
+MAT-000070,Datos eléctricos complementarios,6 kA / curva C,
+MAT-000070,Detalle técnico de identificación,"La identificación se basa en el marcado visible 5SX21, C3 y la referencia inferior del equipo.",
+MAT-000070,Especificaciones principales,MCB monopolar; curva C; poder de corte marcado 6000 A.,
+MAT-000070,Polos / contactos / E/S,1P,
+MAT-000070,Tensión,230/400 VAC,
+MAT-000071,Corriente / rango,0.3 A máx. por salida,
+MAT-000071,Datos eléctricos complementarios,200 bloques / RTC,
+MAT-000071,Especificaciones principales,"8 entradas digitales, 4 utilizables como analógicas 0–10 V; 4 salidas digitales a transistor; display y reloj en tiempo real.",
+MAT-000071,Polos / contactos / E/S,8DI (4AI) / 4DO transistor,
+MAT-000071,Tensión,24,VDC
+MAT-000072,Corriente / rango,2.5,A
+MAT-000072,Datos eléctricos complementarios,Salida ajustable aprox. 22.2–26.4 VDC,
+MAT-000072,Especificaciones principales,Fuente estabilizada monofásica para carril DIN.,
+MAT-000072,Tensión,Entrada 100–240 VAC / salida 24 VDC,
+MAT-000073,Corriente / rango,5,A
+MAT-000073,Datos eléctricos complementarios,Conexión rápida sin tornillos,
+MAT-000073,Especificaciones principales,Base frontal de 14 pines; montaje en carril DIN; terminales screwless clamp; corriente nominal 5 A.,
+MAT-000073,Polos / contactos / E/S,14 pines,
+MAT-000074,Corriente / rango,Entrada 14 mA / salida máx. 6 A,
+MAT-000074,Datos eléctricos complementarios,Potencia de conmutación máx. 1500 VA / 120 W,
+MAT-000074,Especificaciones principales,Módulo de 6.2 mm; 1 contacto conmutado NO/NC; bornes de tornillo; LED de estado; separación segura según EN 60947-1.,
+MAT-000074,Polos / contactos / E/S,1CO (11-12-14),
+MAT-000074,Tensión,Entrada 24 VDC / salida hasta 250 VAC/DC,
+MAT-000075,Corriente / rango,20,A
+MAT-000075,Datos eléctricos complementarios,2.5 mm² / impulso 6 kV,
+MAT-000075,Especificaciones principales,Borne de doble piso; conexión tension-clamp; 2 potenciales; 2 puntos de embornado por nivel; montaje TS35.,
+MAT-000075,Polos / contactos / E/S,2 niveles,
+MAT-000075,Tensión,500,V
+MAT-000076,Corriente / rango,16,A
+MAT-000076,Especificaciones principales,Base para relé enchufable; bornes de bobina A1/A2 y dos juegos de contactos 11/12/14 y 21/22/24; montaje en carril DIN.,
+MAT-000076,Polos / contactos / E/S,2 contactos conmutados,
+MAT-000076,Tensión,250,V
+MAT-000077,Datos eléctricos complementarios,COM3 230.4 kbps / IP67-IP67G-IP69K,
+MAT-000077,Especificaciones principales,Sensor con supresión de fondo y medición TOF; salida PNP; Light-ON/Dark-ON; IO-Link COM3; conector M8 de 4 pines; láser infrarrojo clase 1.,
+MAT-000077,Patrón de referencia,Papel blanco o negro de 200 × 200 mm,
+MAT-000077,Polos / contactos / E/S,PNP / IO-Link / M8 4 pines,
+MAT-000077,Rango de ajuste con papel blanco,100–1500,mm
+MAT-000077,Rango de ajuste con papel negro,100–1000,mm
+MAT-000077,Tensión,10–30 VDC,
+MAT-000078,Especificaciones principales,Cabeza tipo hongo roja Ø40 mm; enclavamiento mecánico; liberación por giro; montaje Ø22 mm.,
+MAT-000078,Polos / contactos / E/S,1 NC,
+MAT-000079,Especificaciones principales,Selector plástico negro; 3 posiciones mantenidas; montaje Ø22 mm.,
+MAT-000079,Polos / contactos / E/S,2 NA,
+MAT-000080,Detalle técnico de identificación,Referencia distinta al XB5AD33,
+MAT-000080,Especificaciones principales,Selector plástico negro; 2 posiciones mantenidas; montaje Ø22 mm.,
+MAT-000080,Polos / contactos / E/S,1 NA,
+MAT-000081,Alimentación,Batería 9 V,
+MAT-000081,Especificaciones principales,0–50 000 lx / 0–5 000 fc; sensor remoto; 4 tipos de fuente; RS-232,
+MAT-000081,Fuentes seleccionables,Tungsteno/luz diurna; fluorescente; sodio; mercurio,
+MAT-000081,Interfaz,RS-232,
+MAT-000081,Magnitud,Iluminancia,
+MAT-000081,Rango de iluminancia (foot-candle),200 / 2 000 / 5 000 fc,
+MAT-000081,Rango de iluminancia (lux),2 000 / 20 000 / 50 000 lx,
+MAT-000081,Sensor,Fotodiodo remoto corregido por coseno y color,
+MAT-000082,Alimentación,4 pilas AA,
+MAT-000082,Categoría de seguridad,CAT IV 600 V,
+MAT-000082,Especificaciones principales,"0,01 MΩ–10 GΩ; 50/100/250/500/1000 VDC; PI/DAR; CAT IV 600 V",
+MAT-000082,Funciones,PI; DAR; Compare Pass/Fail; bloqueo >30 V; descarga automática,
+MAT-000082,Medición de tensión,Hasta 600 V AC/DC,
+MAT-000082,Rango de aislamiento,"0,01 MΩ–10 GΩ",
+MAT-000082,Resistencia baja,"0,01 Ω–20 kΩ aprox.",
+MAT-000082,Tensiones prueba,50/100/250/500/1000 VDC,
+MAT-000083,Alimentación,CR2032 3 V,
+MAT-000083,Calculados,Punto de rocío; índice de calor; wind chill,
+MAT-000083,Especificaciones principales,"0,6–40,0 m/s; −29 a +70 °C; 5–95 %HR; punto de rocío; índice de calor; IP67",
+MAT-000083,Exactitud de humedad,±3 %HR,
+MAT-000083,Exactitud de temperatura,"±0,5 °C",
+MAT-000083,Grado de protección,IP67,
+MAT-000083,Humedad,5–95 %HR,
+MAT-000083,Temperatura,−29 a +70 °C,
+MAT-000083,Velocidad del aire,"0,6–40,0 m/s",
+MAT-000084,Categoría de seguridad,CAT III 600 V / CAT IV 300 V,
+MAT-000084,Corriente pinza,Hasta 400 A AC,
+MAT-000084,Detalle técnico de identificación,La pinza mide corriente AC; no mide corriente DC por mordaza.,
+MAT-000084,Especificaciones principales,400 A AC por pinza; 600 V AC/DC; 4 kΩ; True-RMS; CAT III 600 V / CAT IV 300 V,
+MAT-000084,Funciones,Hold; continuidad,
+MAT-000084,Mordaza,≈30 mm,
+MAT-000084,Resistencia,Hasta 4 kΩ,
+MAT-000084,Respuesta,True-RMS,
+MAT-000084,Tensión,Hasta 600 V AC/DC,
+MAT-000085,Alimentación,2×AAA,
+MAT-000085,Especificaciones principales,"0,5–19 999 rpm; 0,1/1 rpm de resolución; ±0,05 % + 1 dígito; m/min y ft/min",
+MAT-000085,Exactitud,"±0,05 % + 1 dígito",
+MAT-000085,Funciones,MAX/MIN/AVG/última lectura,
+MAT-000085,Muestreo,"≈0,8 s ≥60 rpm",
+MAT-000085,Rango de velocidad,"0,5–19 999 rpm",
+MAT-000085,Resolución,"0,1 rpm (hasta 999,9) / 1 rpm",
+MAT-000085,Unidades lineales,m/min; ft/min,
+MAT-000086,Alcance aguas abiertas,Hasta 8 km,
+MAT-000086,Alcance nominal (versión Perú),Hasta 35 km montaña-valle,
+MAT-000086,Alimentación,NiMH recargable o 3×AA,
+MAT-000086,Banda,UHF 462–467 MHz,
+MAT-000086,Canales (versión Perú),14,
+MAT-000086,Detalle técnico de identificación,"El alcance real depende fuertemente de obstáculos, topografía e interferencias.",
+MAT-000086,Especificaciones principales,UHF 462–467 MHz; IP67; 14 canales (Perú); alcance nominal hasta 35 km en condiciones ideales,
+MAT-000086,Funciones,Linterna hidroactivada; PTT Power Boost; iVOX/VOX; Dual Watch; alerta de emergencia,
+MAT-000086,Grado de protección,IP67; flotante,
+MAT-000087,Capacitancia,Hasta 9999 µF,
+MAT-000087,Categoría de seguridad,CAT III 600 V,
+MAT-000087,Corriente,Hasta 10 A AC/DC; 20 A máx. 30 s,
+MAT-000087,Especificaciones principales,600 V AC/DC; 10 A AC/DC; 40 MΩ; True-RMS; VoltAlert; AutoVolt/LoZ; CAT III 600 V,
+MAT-000087,Frecuencia,Hasta 50 kHz,
+MAT-000087,Funciones,VoltAlert; AutoVolt; LoZ; MIN/MAX/AVG; continuidad; diodo,
+MAT-000087,Resistencia,Hasta 40 MΩ,
+MAT-000087,Respuesta,True-RMS,
+MAT-000087,Tensión,Hasta 600 V AC/DC,
+MAT-000088,Corriente secundaria teórica,"≈1,46 A",
+MAT-000088,Entrada,230,VAC
+MAT-000088,Especificaciones principales,Entrada 230 Vac; salida 24 Vac; 35 VA; 50/60 Hz; riel DIN; fusible T250 mA,
+MAT-000088,Frecuencia,50/60 Hz,
+MAT-000088,Fusible,T 250 mA,
+MAT-000088,Montaje,Riel DIN,
+MAT-000088,Potencia,35,VA
+MAT-000088,Salida,24,VAC
+MAT-000089,Alimentación,230 Vac 50/60 Hz,
+MAT-000089,Comunicación,MODBUS/LON opcional,
+MAT-000089,Consumo,"≈2,5 VA",
+MAT-000089,Entrada digital,1,
+MAT-000089,Entradas de temperatura,2,
+MAT-000089,Especificaciones principales,230 Vac; 4 salidas; 2 entradas de temperatura; 1 entrada digital; preparado para NTC,
+MAT-000089,Funciones,Refrigeración; deshielo; ventilador; alarma/iluminación,
+MAT-000089,Salidas,4,
+MAT-000089,Sensores,NTC incluidos; admite otras configuraciones según manual,
+MAT-000090,Cuerpo,Acero,
+MAT-000090,DN,15,
+MAT-000090,Entrada,1/2 in butt weld,
+MAT-000090,Especificaciones principales,"DN15; entrada 1/2"" butt weld; salida G3/4 A; 40 bar; −50 a +150 °C; R717",
+MAT-000090,Presión máxima,40 bar / 580 psig,
+MAT-000090,Refrigerante,R717 (amoníaco),
+MAT-000090,Salida,G3/4 A,
+MAT-000090,Seguridad,Cierre rápido por resorte; alivio interno ≈16 bar diferencial,
+MAT-000090,Temperatura,−50 a +150 °C,
+MAT-000091,Alimentación,Batería 9 V,
+MAT-000091,Capacitancia,Hasta ≈20 µF,
+MAT-000091,Corriente,Hasta 20 A AC/DC,
+MAT-000091,Detalle técnico de identificación,La unidad fotografiada no evidencia True-RMS ni NCV; no se registran esas funciones.,
+MAT-000091,Display,1999 cuentas,
+MAT-000091,Especificaciones principales,1000 VDC; 750 VAC; 20 A AC/DC; hasta 200 MΩ; capacitancia; frecuencia; temperatura,
+MAT-000091,Frecuencia,Hasta ≈20 kHz,
+MAT-000091,Nota,No registrar True-RMS/NCV para esta unidad,
+MAT-000091,Resistencia,Hasta ≈200 MΩ,
+MAT-000091,Temperatura,≈−20 a +1000 °C con termocupla,
+MAT-000091,Tensión AC,Hasta 750 V,
+MAT-000091,Tensión DC,Hasta 1000 V,
+MAT-000092,Compatibilidad,WEG CFW500 / MW500,
+MAT-000092,Comunicación,RS-485,
+MAT-000092,Entrada analógica,1,
+MAT-000092,Entradas digitales,5,
+MAT-000092,Especificaciones principales,5 DI; 1 AI; 1 AO; 4 relés; 1 salida transistor; RS-485; fuentes auxiliares 10/24 V,
+MAT-000092,Fuentes auxiliares,10 V y 24 V,
+MAT-000092,Salida analógica,1,
+MAT-000092,Salida transistor,1,
+MAT-000092,Salidas de relé,4,
+MAT-000093,Carcasa,AISI 304 SS,
+MAT-000093,Conexión,"1/2"" NPT inferior",
+MAT-000093,Dial,"4.5"" / 115 mm",
+MAT-000093,Especificaciones principales,"0–160 psi / 0–11 bar; dial 4.5""; 1/2"" NPT inferior; SS; glicerina; IP66; ±1 % FS",
+MAT-000093,Exactitud,±1 % FS,
+MAT-000093,Grado de protección,NEMA 4X / IP66,
+MAT-000093,Internos,316L SS,
+MAT-000093,Rango,0–160 psi / 0–11 bar,
+MAT-000093,Relleno,Glicerina,
+MAT-000094,Capacidad de corte,Pendiente de confirmación específica del lote,
+MAT-000094,Clase de utilización,gG,
+MAT-000094,Corriente,63,A
+MAT-000094,Especificaciones principales,NH00; 63 A; clase gG; 500 VAC; doble indicador,
+MAT-000094,Indicación,Doble indicador,
+MAT-000094,Normas,IEC 60269,
+MAT-000094,Tamaño,NH00,
+MAT-000094,Tensión,500,VAC
+MAT-000095,Código,018F0091,
+MAT-000095,Detalle técnico de identificación,Solo para servicio y prueba funcional; no sustituye permanentemente a la bobina.,
+MAT-000095,Especificaciones principales,Imán permanente para accionamiento manual de válvula solenoide durante servicio/prueba,
+MAT-000095,Función,Accionamiento manual de válvula solenoide para servicio/prueba,
+MAT-000095,Restricción,Solo servicio y prueba funcional; MOPD limitado,
+MAT-000095,Tipo,Imán permanente,
+MAT-000096,Carcasa,AISI 304 SS,
+MAT-000096,Conexión,"1/4"" NPT inferior",
+MAT-000096,Detalle técnico de identificación,No es un manómetro totalmente relleno de glicerina; usa tecnología StabiliZR.,
+MAT-000096,Dial,"2.5"" / 63 mm",
+MAT-000096,Especificaciones principales,"0–300 psi / 0–21 bar; 2.5""; 1/4"" NPT inferior; SS; IP66; ±1,5 % FS",
+MAT-000096,Exactitud,"±1,5 % FS",
+MAT-000096,Grado de protección,NEMA 4X / IP66,
+MAT-000096,Internos,316L SS,
+MAT-000096,Rango,0–300 psi / 0–21 bar,
+MAT-000096,Tecnología,StabiliZR; cámara interna amortiguada con silicona,
+MAT-000096,Temperatura proceso,−40 a +120 °C,
+MAT-000097,Escalas,bar; psig; °C,
+MAT-000097,Especificaciones principales,Alta presión; relleno de silicona; salida vertical; escalas para R22/R134a/R404A/R407C,
+MAT-000097,Montaje,Salida vertical,
+MAT-000097,Refrigerantes,R22; R134a; R404A; R407C,
+MAT-000097,Relleno,Silicona,
+MAT-000097,Temperatura de trabajo,−20 a +60 °C,
+MAT-000097,Tipo,Manómetro de alta para refrigeración,
+MAT-000098,Alimentación,115/230 Vac 50/60 Hz,
+MAT-000098,Capacidad motor,Hasta 2 HP,
+MAT-000098,Corriente de salida,16 A resistiva / 12 A inductiva,
+MAT-000098,Especificaciones principales,115/230 Vac; 1 salida; 16 A resistiva / 12 A inductiva; hasta 2 HP; frío/calor,
+MAT-000098,Funciones,Frío/calor; deshielo natural; bloqueo de funciones,
+MAT-000098,Protección frontal,IP65,
+MAT-000098,Rango de temperatura,−50 a +105 °C; hasta 200 °C con SB59,
+MAT-000098,Salida,1 relé,
+MAT-000099,Alimentación,90–264 Vac 50/60 Hz,
+MAT-000099,Comunicación,RS-485 / Sitrad,
+MAT-000099,Especificaciones principales,Alim. 90–264 Vac; monitoreo 90–600 Vrms; True-RMS; 35–80 Hz; datalogger; RS-485,
+MAT-000099,Frecuencia,35–80 Hz,
+MAT-000099,Medición,True-RMS,
+MAT-000099,Monitoreo,90–600 Vrms,
+MAT-000099,Protecciones,Sub/sobretensión; pérdida de fase; secuencia; asimetría modular y angular,
+MAT-000099,Registro,Datalogger + RTC,
+MAT-000100,Alimentación,115/230 Vac,
+MAT-000100,Canales,Hasta 4 sensores,
+MAT-000100,Comunicación,RS-485 / Sitrad,
+MAT-000100,Detalle técnico de identificación,La caja identifica el equipo TI-44E plus; una anotación manuscrita de 'cable sensor' no prevalece sobre la etiqueta del fabricante.,
+MAT-000100,Especificaciones principales,115/230 Vac; hasta 4 sensores; −50 a +200 °C según sensor; promedio/diferencial; RS-485,
+MAT-000100,Funciones,Valor individual; promedio; diferencial; MIN/MAX; offset por canal,
+MAT-000100,Protección frontal,IP65,
+MAT-000100,Rango,−50 a +200 °C según sensor,
+MAT-000101,Alimentación,Sin batería propia,
+MAT-000101,Detalle técnico de identificación,Mantener separada de EasyProg /02 por revisión/código diferente.,
+MAT-000101,Especificaciones principales,"Programación/copia de parámetros; interfaces USB, RS-485 y Serial TTL",
+MAT-000101,Funciones,Copiar/guardar/cargar programaciones,
+MAT-000101,Interfaz,USB; RS-485; Serial TTL,
+MAT-000101,Revisión,04,
+MAT-000101,Uso,Controladores Full Gauge compatibles,
+MAT-000102,Detalle técnico de identificación,Mantener separada de EasyProg /04 por revisión/código diferente.,
+MAT-000102,Especificaciones principales,"Programación/copia de parámetros; interfaces USB, RS-485 y Serial TTL",
+MAT-000102,Funciones,Copiar/guardar/cargar programaciones,
+MAT-000102,Interfaz,USB; RS-485; Serial TTL,
+MAT-000102,Nota,Mantener separada de revisión /04,
+MAT-000102,Revisión,02,
+MAT-000102,Uso,Controladores Full Gauge compatibles,
+MAT-000103,Alimentación,115/230 Vac,
+MAT-000103,Comunicación,Serial / Sitrad,
+MAT-000103,Especificaciones principales,115/230 Vac; 4 salidas; NTC/PT100; RS-485; control multietapa; modo Soak,
+MAT-000103,Funciones,4 etapas; frío/calor/ventilación/alarma; modo Soak,
+MAT-000103,Protección frontal,IP65,
+MAT-000103,Rango NTC,Hasta −50 a +200 °C según sensor,
+MAT-000103,Rango PT100,−200 a +300 °C,
+MAT-000103,Salidas,4,
+MAT-000103,Sensores,NTC/PT100,
+MAT-000104,Alimentación,115/230 Vac,
+MAT-000104,Comunicación,Sitrad,
+MAT-000104,Entradas digitales,2,
+MAT-000104,Especificaciones principales,115/230 Vac; control de refrigeración/deshielo; 2 sensores; 2 DI; datalogger; reloj; Sitrad,
+MAT-000104,Funciones,Deshielo inteligente; Fast Freezing; puerta; horómetro; RTC; agenda; datalogger,
+MAT-000104,Salida de deshielo,10,A
+MAT-000104,Salida de refrigeración,16 A; compresor hasta ≈1 HP,
+MAT-000104,Sensores,2 principales; posibilidad de tercer sensor según configuración,
+MAT-000105,Alimentación,115/230 Vac,
+MAT-000105,Comunicación,RS-485 / Sitrad,
+MAT-000105,Especificaciones principales,115/230 Vac; 16 A / hasta 2 HP; datalogger; RS-485/Sitrad; deshielo natural,
+MAT-000105,Funciones,Frío/calor; deshielo natural; temporizador; puerta abierta,
+MAT-000105,Registro,Datalogger,
+MAT-000105,Salida,16 A / hasta 2 HP,
+MAT-000106,Ajuste,−10 a +50 °C,
+MAT-000106,Carga 120VAC,15(2) A,
+MAT-000106,Carga 250VAC,10(2) A,
+MAT-000106,Contacto,NO,
+MAT-000106,Especificaciones principales,Contacto NO; ajuste −10 a +50 °C; 120 Vac 15(2) A; 250 Vac 10(2) A; IP20; DIN,
+MAT-000106,Función,Cierra contacto al aumentar temperatura,
+MAT-000106,Grado de protección,IP20,
+MAT-000106,Montaje,Riel DIN,
+MAT-000107,Accionamiento,Pulsar / girar para liberar,
+MAT-000107,Contacto,1 NC,
+MAT-000107,Diámetro de perforación,22.5,mm
+MAT-000107,Especificaciones principales,Hongo rojo Ø40 mm; push-turn; 1 NC; IP66; montaje superficial,
+MAT-000107,Grado de protección,IP66,
+MAT-000107,Iluminación,No,
+MAT-000107,Montaje,Superficial,
+MAT-000107,Normas,Fabricante indica NO cumplimiento ISO 13850,
+MAT-000107,Operador,Hongo rojo Ø40 mm,
+MAT-000108,Código,032F2324,
+MAT-000108,Detalle técnico de identificación,No registrar como válvula completa ni como bobina.,
+MAT-000108,Especificaciones principales,Kit de repuesto para válvula piloto solenoide EVM normalmente cerrada,
+MAT-000108,Función,Repuesto interno para válvula piloto solenoide NC,
+MAT-000108,Nota,No es válvula completa ni bobina,
+MAT-000108,Tipo,Kit de reparación,
+MAT-000108,Válvula compatible,EVM NC,
+MAT-000109,Alimentación,12–240 Vac/Vdc,
+MAT-000109,Capacidad de contacto,5 A / 250 V,
+MAT-000109,Detalle técnico de identificación,La anotación manuscrita de 'monitoreo de tensiones' no corresponde a la referencia del fabricante.,
+MAT-000109,Especificaciones principales,"12–240 Vac/Vdc; 0,05 s–100 h; 7 funciones; 2 contactos conmutados; 5 A/250 V",
+MAT-000109,Funciones,7,
+MAT-000109,Montaje,Riel DIN,
+MAT-000109,Rango de tiempo,"0,05 s–100 h",
+MAT-000109,Rangos de tiempo,7,
+MAT-000109,Salidas,2 contactos conmutados,
+MAT-000109,Temperatura,−20 a +60 °C,
+MAT-000110,Clase de disparo,10,
+MAT-000110,Compatibilidad,AF80 / AF96,
+MAT-000110,Contactos auxiliares,1 NC + 1 NO,
+MAT-000110,Especificaciones principales,57–68 A; clase 10; 3 polos; 1 NC + 1 NO; 690 V; para AF80/AF96,
+MAT-000110,Funciones,Pérdida de fase; reset manual/auto; STOP,
+MAT-000110,Número de polos,3,
+MAT-000110,Rango de ajuste,57–68 A,
+MAT-000110,Tensión de aislamiento,690,V
+MAT-000111,Clase de disparo,10,
+MAT-000111,Compatibilidad,AF80 / AF96,
+MAT-000111,Contactos auxiliares,1 NC + 1 NO,
+MAT-000111,Especificaciones principales,75–87 A; clase 10; 3 polos; 1 NC + 1 NO; para AF80/AF96,
+MAT-000111,Funciones,Pérdida de fase; reset manual/auto; STOP,
+MAT-000111,Número de polos,3,
+MAT-000111,Rango de ajuste,75–87 A,
+MAT-000112,Clase de disparo,10,
+MAT-000112,Compatibilidad,AF09…AF38,
+MAT-000112,Contactos auxiliares,1 NC + 1 NO,
+MAT-000112,Especificaciones principales,10–13 A; clase 10; 3 polos; 1 NC + 1 NO; 690 V; familia AF09…AF38,
+MAT-000112,Funciones,Pérdida de fase; reset manual/auto,
+MAT-000112,Número de polos,3,
+MAT-000112,Rango de ajuste,10–13 A,
+MAT-000112,Tensión de aislamiento,690,V
+MAT-000113,Clase de disparo,10,
+MAT-000113,Compatibilidad,AF09…AF38,
+MAT-000113,Contactos auxiliares,1 NC + 1 NO,
+MAT-000113,Especificaciones principales,24–29 A; clase 10; 3 polos; 1 NC + 1 NO; familia AF09…AF38,
+MAT-000113,Funciones,Pérdida de fase; reset manual/auto,
+MAT-000113,Número de polos,3,
+MAT-000113,Rango de ajuste,24–29 A,
+MAT-000114,Clase de disparo,10,
+MAT-000114,Compatibilidad,AF09…AF38,
+MAT-000114,Contactos auxiliares,1 NC + 1 NO,
+MAT-000114,Especificaciones principales,"2,3–3,1 A; clase 10; 3 polos; 1 NC + 1 NO; familia AF09…AF38",
+MAT-000114,Funciones,Pérdida de fase; reset manual/auto,
+MAT-000114,Número de polos,3,
+MAT-000114,Rango de ajuste,"2,3–3,1 A",
+MAT-000115,Corriente nominal,4,A
+MAT-000115,Curva de disparo,C,
+MAT-000115,Especificaciones principales,2P; 4 A; curva C; 6 kA @ 400 Vac; IEC/EN 60898-1,
+MAT-000115,Grado de protección,Térmica + magnética,
+MAT-000115,Montaje,Riel DIN,
+MAT-000115,Número de polos,2P,
+MAT-000115,Poder de corte,6,kA
+MAT-000115,Tensión,400,VAC
+MAT-000116,Corriente nominal,16,A
+MAT-000116,Curva de disparo,C,
+MAT-000116,Especificaciones principales,2P; 16 A; curva C; 6 kA; 400 Vac; Ui 440 V,
+MAT-000116,Grado de protección,Térmica + magnética,
+MAT-000116,Montaje,Riel DIN,
+MAT-000116,Número de polos,2P,
+MAT-000116,Poder de corte,6,kA
+MAT-000116,Tensión,400,VAC
+MAT-000117,Corriente nominal,100,A
+MAT-000117,Curva de disparo,C,
+MAT-000117,Especificaciones principales,3P; 100 A; curva C; 6 kA @ 400 Vac; 10 kA @ 230 Vac; IEC 60898-1 / 60947-2,
+MAT-000117,Normas,IEC/EN 60898-1 e IEC/EN 60947-2,
+MAT-000117,Número de polos,3P,
+MAT-000117,Poder de corte,6 kA @ 400 Vac; 10 kA @ 230 Vac,
+MAT-000117,Sección de conductor,Hasta 50 mm² rígido (según configuración),
+MAT-000117,Tensión,400,VAC
+MAT-000119,Corriente nominal,25,A
+MAT-000119,Curva de disparo,C,
+MAT-000119,Especificaciones principales,3P; 25 A; curva C; 6 kA; 400 Vac; Ui 440 V,
+MAT-000119,Grado de protección,Térmica + magnética,
+MAT-000119,Montaje,Riel DIN,
+MAT-000119,Número de polos,3P,
+MAT-000119,Poder de corte,6,kA
+MAT-000119,Tensión,400,VAC
+MAT-000120,Corriente nominal,40,A
+MAT-000120,Detalle técnico de identificación,RCCB: no incorpora protección propia contra sobrecarga/cortocircuito.,
+MAT-000120,Especificaciones principales,2P; 40 A; IΔn 30 mA; Tipo AC; IEC/EN 61008; riel DIN,
+MAT-000120,Montaje,Riel DIN,
+MAT-000120,Normas,IEC/EN 61008,
+MAT-000120,Nota,No protege por sí mismo contra sobrecarga/cortocircuito,
+MAT-000120,Número de polos,2P,
+MAT-000120,Sensibilidad,30 mA,
+MAT-000120,Tipo,RCCB,
+MAT-000120,Tipo diferencial,AC,
+MAT-000121,Corriente nominal,10,A
+MAT-000121,Curva de disparo,C,
+MAT-000121,Especificaciones principales,3P; 10 A; curva C; 6 kA; 400 Vac; IEC/EN 60898-1,
+MAT-000121,Grado de protección,Térmica + magnética,
+MAT-000121,Montaje,Riel DIN,
+MAT-000121,Número de polos,3P,
+MAT-000121,Poder de corte,6,kA
+MAT-000121,Tensión,400,VAC
+MAT-000122,Auxiliares integrados,0 NO + 0 NC,
+MAT-000122,Corriente AC-1,50,A
+MAT-000122,Corriente AC-3,38 A @ 400 V,
+MAT-000122,Especificaciones principales,"3P NO; 38 A AC-3 @ 400 V; 18,5 kW; AC-1 50 A; bobina 100–250 Vac/Vdc; 0 auxiliares integrados",
+MAT-000122,Polos principales,3 NO,
+MAT-000122,Potencia de motor,"18,5 kW @ 400 V",
+MAT-000122,Tensión de bobina,100–250 Vac 50/60 Hz / Vdc,
+MAT-000123,Auxiliares integrados,1 NO,
+MAT-000123,Corriente AC-1,30,A
+MAT-000123,Corriente AC-3,18 A @ 400 V,
+MAT-000123,Especificaciones principales,"3P NO; 18 A AC-3 @ 400 V; 7,5 kW; AC-1 30 A; bobina 100–250 Vac/Vdc; 1 NO auxiliar",
+MAT-000123,Polos principales,3 NO,
+MAT-000123,Potencia de motor,"7,5 kW @ 400 V",
+MAT-000123,Tensión de bobina,100–250 Vac / Vdc,
+MAT-000124,Auxiliares integrados,1 NO,
+MAT-000124,Corriente AC-1,25,A
+MAT-000124,Corriente AC-3,9 A @ 400 V,
+MAT-000124,Especificaciones principales,3P NO; 9 A AC-3 @ 400 V; 4 kW; AC-1 25 A; bobina 100–250 Vac/Vdc; 1 NO auxiliar,
+MAT-000124,Polos principales,3 NO,
+MAT-000124,Potencia de motor,4 kW @ 400 V,
+MAT-000124,Tensión de bobina,100–250 Vac / Vdc,
+MAT-000125,Corriente nominal,25,A
+MAT-000125,Detalle técnico de identificación,RCCB: no incorpora protección propia contra sobrecarga/cortocircuito.,
+MAT-000125,Especificaciones principales,2P; 25 A; IΔn 30 mA; Tipo AC; IEC 61008; riel DIN,
+MAT-000125,Montaje,Riel DIN,
+MAT-000125,Normas,IEC 61008,
+MAT-000125,Nota,No protege por sí mismo contra sobrecarga/cortocircuito,
+MAT-000125,Número de polos,2P,
+MAT-000125,Sensibilidad,30 mA,
+MAT-000125,Tipo,RCCB,
+MAT-000125,Tipo diferencial,AC,
+MAT-000126,Corriente nominal,32,A
+MAT-000126,Curva de disparo,C,
+MAT-000126,Especificaciones principales,2P; 32 A; curva C; 6 kA; 400 Vac,
+MAT-000126,Grado de protección,Térmica + magnética,
+MAT-000126,Montaje,Riel DIN,
+MAT-000126,Número de polos,2P,
+MAT-000126,Poder de corte,6,kA
+MAT-000126,Tensión,400,VAC
+MAT-000127,Corriente nominal,4,A
+MAT-000127,Curva de disparo,C,
+MAT-000127,Especificaciones principales,3P; 4 A; curva C; 230/400 Vac; 6 kA IEC 60898-1; 10 kA IEC 60947-2,
+MAT-000127,Grado de protección,Térmica + magnética,
+MAT-000127,Montaje,Riel DIN,
+MAT-000127,Número de polos,3P,
+MAT-000127,Poder de corte,6 kA IEC 60898-1; 10 kA IEC 60947-2,
+MAT-000127,Tensión,230/400 Vac,
+MAT-000128,Clasificación técnica,"EN 388: 3132 (abrasión 3, corte 1, rasgado 3, perforación 2)",
+MAT-000128,Color,Amarillo,
+MAT-000128,Datos técnicos de catálogo,"Cuero búfalo amarillo, puño corto, aprox. 24 cm; costuras reforzadas.",
+MAT-000128,Descripción técnica complementaria,"Guante de seguridad tipo ingeniero/driver para riesgos mecánicos. La identificación por marca, tipo, material y norma es consistente con la ficha del fabricante.",
+MAT-000128,Dimensiones y espesor,Largo aprox. 24 cm; ancho de puño 12 cm ±5%; espesor 0.9–1.1 mm según ficha,
+MAT-000128,Fecha de consolidación de origen,2026-09-15,
+MAT-000128,Limitación documentada,No asumir protección química o eléctrica. Evitar humedad/aceites salvo validación específica.,
+MAT-000128,Marcado y datos de empaque,"Marcado visible: STEELPRO SAFETY, EN 388:2016 + A1:2018, 3132, CE.",
+MAT-000128,Material y construcción,Cuero de búfalo,
+MAT-000128,Normas y certificaciones,EN ISO 21420:2020; EN 388:2016 + A1:2018,
+MAT-000128,Presentación registrada,Bolsa x12 pares (según ficha),
+MAT-000128,Recubrimiento y acabado,Sin recubrimiento; costuras reforzadas y elástico dorsal,
+MAT-000129,Clasificación técnica,EN 388: 4133,
+MAT-000129,Color,Mostaza / marrón claro,
+MAT-000129,Datos técnicos de catálogo,"Cuero carnaza, elástico dorsal, pulgar tipo ala, aprox. 24 cm.",
+MAT-000129,Descripción técnica complementaria,Guante industrial de carnaza con mayor resistencia declarada a abrasión y perforación que el Driver Amarillo.,
+MAT-000129,Dimensiones y espesor,Largo aprox. 24 cm; ancho de puño 11.5 cm ±5%,
+MAT-000129,Fecha de consolidación de origen,2026-09-15,
+MAT-000129,Limitación documentada,"No asumir protección química o eléctrica; evitar agua, aceites y químicos sin evaluación.",
+MAT-000129,Marcado y datos de empaque,"Marcado visible: STEELPRO SAFETY, EN 388, 4133, CE.",
+MAT-000129,Material y construcción,Cuero carnaza,
+MAT-000129,Normas y certificaciones,EN 388:2016 + A1:2018,
+MAT-000129,Presentación registrada,Bolsa x12 pares (según ficha),
+MAT-000129,Recubrimiento y acabado,Sin recubrimiento; elástico dorsal y ribete,
+MAT-000130,Clasificación técnica,ANSI A2 / ISO 13997 B; EN 388: 4X42B,
+MAT-000130,Color,Negro,
+MAT-000130,Datos técnicos de catálogo,"Lavable, táctil, refuerzo pulgar/índice, 18 gg.",
+MAT-000130,Descripción técnica complementaria,"Guante anticorte de alta destreza con recubrimiento microespumado, refuerzo en zona pulgar/índice y compatibilidad táctil.",
+MAT-000130,Dimensiones y espesor,Calibre 18 (18 gg),
+MAT-000130,Fecha de consolidación de origen,2026-09-15,
+MAT-000130,Limitación documentada,No sustituye guantes químicos ni dieléctricos.,
+MAT-000130,Marcado y datos de empaque,"Etiqueta visible: Honeywell CoreShield A2/B, CS22-7518B, talla 9, ANSI A2, EN388 4X42B, EN16350.",
+MAT-000130,Material y construcción,Tejido técnico calibre 18,
+MAT-000130,Normas y certificaciones,ANSI/ISEA 105-2024; EN 388; EN 16350; OEKO-TEX Standard 100,
+MAT-000130,Recubrimiento y acabado,Nitrilo microespumado negro en palma,
+MAT-000131,Clasificación técnica,EN 388: 3121X,
+MAT-000131,Color,Negro,
+MAT-000131,Datos técnicos de catálogo,"Construcción transpirable, PU en palma, buena destreza.",
+MAT-000131,Descripción técnica complementaria,"Guante multipropósito sin costuras, orientado a sensibilidad táctil y agarre.",
+MAT-000131,Fecha de consolidación de origen,2026-09-15,
+MAT-000131,Limitación documentada,No es guante anticorte de alto nivel ni protección química especializada.,
+MAT-000131,Marcado y datos de empaque,"Marcado: KLEENGUARD G40 PU+, 30222017, 39559, 8/M, EN388 3121X.",
+MAT-000131,Material y construcción,Tejido de punto transpirable,
+MAT-000131,Normas y certificaciones,EN 388:2016 + A1:2018,
+MAT-000131,Recubrimiento y acabado,Poliuretano (PU) en palma,
+MAT-000132,Clasificación técnica,EN 388: 4X43D; ISO 13997 nivel D,
+MAT-000132,Color,Gris,
+MAT-000132,Datos técnicos de catálogo,"HPPE + PU, nivel D de corte.",
+MAT-000132,Descripción técnica complementaria,Guante de alta resistencia al corte con buena destreza para manipulación de elementos filosos.,
+MAT-000132,Fecha de consolidación de origen,2026-09-15,
+MAT-000132,Limitación documentada,No asumir protección química o eléctrica.,
+MAT-000132,Marcado y datos de empaque,"Marcado visible: Allsafe Professional, AC-341, talla 8, EN388 4X43D.",
+MAT-000132,Material y construcción,HPPE (polietileno de alto rendimiento),
+MAT-000132,Normas y certificaciones,EN 388:2016; ISO 13997; EN ISO 21420,
+MAT-000132,Recubrimiento y acabado,"Poliuretano (PU), libre de DMF según ficha",
+MAT-000133,Clasificación técnica,Marcado físico 4543D; ficha vigente 4X43D,
+MAT-000133,Color,Gris,
+MAT-000133,Datos técnicos de catálogo,Ficha vigente reporta EN388 4X43D.,
+MAT-000133,Descripción técnica complementaria,"Guante anticorte con PU, diseñado para alta resistencia mecánica sin sacrificar flexibilidad.",
+MAT-000133,Fecha de consolidación de origen,2026-09-15,
+MAT-000133,Limitación documentada,No es guante químico ni dieléctrico.,
+MAT-000133,Marcado y datos de empaque,"Etiqueta visible: STEELPRO SAFETY MULTIFLEX CUT-5 PU, talla L, EN420, EN388 4543D.",
+MAT-000133,Material y construcción,UHMWPE/HDPE + fibra de vidrio + nylon + elastano,
+MAT-000133,Normas y certificaciones,EN 420 / EN 388 (marcado físico); ficha vigente EN 388:2016,
+MAT-000133,Recubrimiento y acabado,Poliuretano gris en palma y puntas de dedos,
+MAT-000134,Clasificación técnica,No estéril; libre de látex; ambidiestro; un solo uso,
+MAT-000134,Color,Azul / celeste,
+MAT-000134,Datos técnicos de catálogo,Características generales coinciden con guante de nitrilo de examen.,
+MAT-000134,Descripción técnica complementaria,"Guante desechable de nitrilo para examen, ambidiestro, sin polvo y no estéril.",
+MAT-000134,Fecha de consolidación de origen,2026-09-15,
+MAT-000134,Limitación documentada,No asumir protección anticorte ni resistencia química específica sin tabla de compatibilidad.,
+MAT-000134,Marcado y datos de empaque,"Empaque: Alkhofar, nitrilo para examen, talla M, x100, libre de polvo, no estéril.",
+MAT-000134,Material y construcción,Nitrilo sintético,
+MAT-000134,Presentación registrada,100 unidades,
+MAT-000134,Recubrimiento y acabado,Dedos texturizados; libre de polvo,
+MAT-000135,Clasificación técnica,No estéril; libre de látex; ambidiestro; un solo uso,
+MAT-000135,Color,Azul / celeste,
+MAT-000135,Datos técnicos de catálogo,Características generales coinciden con guante de nitrilo de examen.,
+MAT-000135,Descripción técnica complementaria,"Misma familia de guante de examen Alkhofar, diferenciada por talla L.",
+MAT-000135,Fecha de consolidación de origen,2026-09-15,
+MAT-000135,Limitación documentada,No asumir protección anticorte ni resistencia química específica sin tabla de compatibilidad.,
+MAT-000135,Marcado y datos de empaque,"Empaque: Alkhofar, nitrilo para examen, talla L, x100, libre de polvo, no estéril.",
+MAT-000135,Material y construcción,Nitrilo sintético,
+MAT-000135,Presentación registrada,100 unidades,
+MAT-000135,Recubrimiento y acabado,Dedos texturizados; libre de polvo,
+MAT-000136,Color,Naranja / negro,
+MAT-000136,Datos técnicos de catálogo,"Comercialmente se describe con costura resistente/Kevlar, forro y ~15"".",
+MAT-000136,Descripción técnica complementaria,Guante de cuero descarne para soldadura con refuerzos en zonas de desgaste.,
+MAT-000136,Dimensiones y espesor,"Aprox. 15"" de longitud según ficha comercial",
+MAT-000136,Fecha de consolidación de origen,2026-09-15,
+MAT-000136,Limitación documentada,No registrar temperatura máxima sin certificación específica.,
+MAT-000136,Marcado y datos de empaque,"Etiqueta: STEELPRO SAFETY, cód. 300850670008, talla STD, 100% cuero, cuero descarne, lote 02/2025, EAN 799045023251.",
+MAT-000136,Material y construcción,100% cuero descarne,
+MAT-000136,País de origen,China,
+MAT-000136,Recubrimiento y acabado,Refuerzos negros; costuras reforzadas,
+MAT-000137,Clasificación técnica,EN388 2001X; Tipo A JKLOPT; microorganismos/virus; EPP Cat. III,
+MAT-000137,Color,Verde,
+MAT-000137,Datos técnicos de catálogo,"0.38 mm, 330 mm, nitrilo sin soporte, food contact según fabricante.",
+MAT-000137,Descripción técnica complementaria,Guante reutilizable de nitrilo para protección química Tipo A con buen agarre en húmedo.,
+MAT-000137,Dimensiones y espesor,Espesor aprox. 0.38 mm; longitud aprox. 330 mm,
+MAT-000137,Fecha de consolidación de origen,2026-09-15,
+MAT-000137,Limitación documentada,La compatibilidad química debe verificarse por sustancia y tiempo de permeación.,
+MAT-000137,Marcado y datos de empaque,"Bolsa: 727 S7, x12 pares, lote 125168, 2025-06 / 2030-06, EN388 2001X, JKLOPT, CE2777.",
+MAT-000137,Material y construcción,"100% nitrilo, sin soporte textil y sin forro",
+MAT-000137,Normas y certificaciones,EN 388:2016+A1:2018; EN ISO 374-1:2016+A1:2018; EN ISO 374-5:2016; CE 2777,
+MAT-000137,Presentación registrada,12 pares,
+MAT-000137,Recubrimiento y acabado,Superficie texturizada tipo bisque,
+MAT-000138,Clasificación técnica,EN388 2001X; Tipo A JKLOPT; microorganismos/virus; EPP Cat. III,
+MAT-000138,Color,Verde,
+MAT-000138,Datos técnicos de catálogo,"0.38 mm, 330 mm, nitrilo sin soporte.",
+MAT-000138,Descripción técnica complementaria,"Mismo modelo SHOWA 727, variante talla M/8.",
+MAT-000138,Dimensiones y espesor,Espesor aprox. 0.38 mm; longitud aprox. 330 mm,
+MAT-000138,Fecha de consolidación de origen,2026-09-15,
+MAT-000138,Limitación documentada,Verificar tabla de permeación química.,
+MAT-000138,Marcado y datos de empaque,"Bolsa: 727 M8, x12 pares, lote 125076, 2025-03 / 2030-03, EN388 2001X, JKLOPT.",
+MAT-000138,Material y construcción,"100% nitrilo, sin soporte textil y sin forro",
+MAT-000138,Normas y certificaciones,EN 388:2016+A1:2018; EN ISO 374-1:2016+A1:2018; EN ISO 374-5:2016; CE 2777,
+MAT-000138,Presentación registrada,12 pares,
+MAT-000138,Recubrimiento y acabado,Superficie texturizada tipo bisque,
+MAT-000139,Clasificación técnica,EN388 2001X; Tipo A JKLOPT; microorganismos/virus; EPP Cat. III,
+MAT-000139,Color,Verde,
+MAT-000139,Datos técnicos de catálogo,"0.38 mm, 330 mm, nitrilo sin soporte.",
+MAT-000139,Descripción técnica complementaria,"Mismo modelo SHOWA 727, variante talla L/9.",
+MAT-000139,Dimensiones y espesor,Espesor aprox. 0.38 mm; longitud aprox. 330 mm,
+MAT-000139,Fecha de consolidación de origen,2026-09-15,
+MAT-000139,Limitación documentada,Verificar tabla de permeación química.,
+MAT-000139,Marcado y datos de empaque,"Bolsa: 727 L9, x12 pares, lote 125190, 2025-07 / 2030-07, EN388 2001X, JKLOPT.",
+MAT-000139,Material y construcción,"100% nitrilo, sin soporte textil y sin forro",
+MAT-000139,Normas y certificaciones,EN 388:2016+A1:2018; EN ISO 374-1:2016+A1:2018; EN ISO 374-5:2016; CE 2777,
+MAT-000139,Presentación registrada,12 pares,
+MAT-000139,Recubrimiento y acabado,Superficie texturizada tipo bisque,
+MAT-000140,Clasificación técnica,BFE ≥98%; resistente a salpicaduras,
+MAT-000140,Color,Azul,
+MAT-000140,Datos técnicos de catálogo,Sin fuente externa específica consolidada.,
+MAT-000140,Descripción técnica complementaria,Mascarilla facial desechable de 3 capas y 3 pliegues.,
+MAT-000140,Fecha de consolidación de origen,2026-09-15,
+MAT-000140,Limitación documentada,No clasificar como respirador NIOSH/FFP ni asumir nivel quirúrgico específico sin norma visible.,
+MAT-000140,Marcado y datos de empaque,"Caja: SWORK, mascarilla descartable, 3 capas, BFE ≥98%, CE y NTP, resistente a salpicaduras, x50.",
+MAT-000140,Material y construcción,Multicapa no tejida (composición exacta no visible),
+MAT-000140,Normas y certificaciones,CE y NTP indicados en empaque,
+MAT-000140,Presentación registrada,50 unidades,
+MAT-000141,Color,Negro con detalle naranja,
+MAT-000141,Datos técnicos de catálogo,Catálogos peruanos describen barbiquejo A&A con mentonera y ganchos plásticos.,
+MAT-000141,Descripción técnica complementaria,Accesorio de retención para casco con mentonera y cinta elástica.,
+MAT-000141,Fecha de consolidación de origen,2026-09-15,
+MAT-000141,Limitación documentada,La compatibilidad debe validarse con el casco específico y su sistema de anclaje.,
+MAT-000141,Marcado y datos de empaque,Marca A&A moldeada en la mentonera; cinta negra con línea naranja.,
+MAT-000141,Material y construcción,Cinta elástica + mentonera plástica,
+MAT-000142,Clasificación técnica,Protección UV no confirmada,
+MAT-000142,Color,Naranja / negro,
+MAT-000142,Datos técnicos de catálogo,Referencia externa solo para función genérica de cubrenuca.,
+MAT-000142,Descripción técnica complementaria,Accesorio textil para uso conjunto con casco de seguridad.,
+MAT-000142,Fecha de consolidación de origen,2026-09-15,
+MAT-000142,Limitación documentada,"No afirmar UPF, composición ni certificación hasta localizar etiqueta.",
+MAT-000142,Marcado y datos de empaque,Pieza naranja/negra sin etiqueta visible.,
+MAT-000142,Material y construcción,Textil (composición no identificada),
+MAT-000143,Clasificación técnica,Luna clara / alta transmisión de luz,
+MAT-000143,Color,Transparente,
+MAT-000143,Datos técnicos de catálogo,Variante clara SG-351AF-CL.,
+MAT-000143,Descripción técnica complementaria,Lente panorámico PIVO AF de policarbonato con tratamiento antiempañante.,
+MAT-000143,Fecha de consolidación de origen,2026-09-15,
+MAT-000143,Limitación documentada,No confundir con la variante gris/oscura.,
+MAT-000143,Marcado y datos de empaque,"Empaque visible: Armor, PIVO AF, Anti Fog, filtro UV; ANSI Z87.1+ en empaque.",
+MAT-000143,Material y construcción,Policarbonato,
+MAT-000143,Normas y certificaciones,ANSI Z87.1+,
+MAT-000143,Recubrimiento y acabado,Antiempañante (AF); filtro UVA/UVB,
+MAT-000144,Clasificación técnica,Luna gris para reducción de luminosidad/deslumbramiento,
+MAT-000144,Color,Gris,
+MAT-000144,Datos técnicos de catálogo,Variante gris SG-351AF-GY.,
+MAT-000144,Descripción técnica complementaria,"Misma familia PIVO AF, variante de luna gris/oscura.",
+MAT-000144,Fecha de consolidación de origen,2026-09-15,
+MAT-000144,Limitación documentada,No usar como filtro de soldadura; no confundir con luna clara.,
+MAT-000144,Marcado y datos de empaque,Empaque visible: PIVO AF; se observaron unidades de luna oscura.,
+MAT-000144,Material y construcción,Policarbonato,
+MAT-000144,Normas y certificaciones,ANSI Z87.1+,
+MAT-000144,Recubrimiento y acabado,Antiempañante (AF); filtro UVA/UVB,
+MAT-000145,Clasificación técnica,NRR 26 dB; SNR 25 dB; NRRsf 14 dB; CA N.º 35.981,
+MAT-000145,Color,Verde / azul según empaque,
+MAT-000145,Datos técnicos de catálogo,"Tres aletas, TPE, cordón de poliéster.",
+MAT-000145,Descripción técnica complementaria,"Tapón endoaural premoldeado de tres aletas, lavable y reutilizable.",
+MAT-000145,Fecha de consolidación de origen,2026-09-15,
+MAT-000145,Limitación documentada,El nivel efectivo depende del ajuste correcto y del programa de conservación auditiva.,
+MAT-000145,Marcado y datos de empaque,"Empaque: LIBUS QUANTUM, 1 par, NRR/SNR y normas impresas.",
+MAT-000145,Material y construcción,Elastómero termoplástico; cordón de poliéster,
+MAT-000145,Normas y certificaciones,ANSI S3.19-1974; EN 352-2:2002; ABNT NBR 16076:2016,
+MAT-000145,Presentación registrada,1 par,
+MAT-000146,Color,Transparente / negro,
+MAT-000146,Datos técnicos de catálogo,Fuente externa solo orientativa de familia; modelo exacto no confirmado.,
+MAT-000146,Descripción técnica complementaria,Antiparra tipo goggle Steelpro con luna transparente y banda elástica.,
+MAT-000146,Fecha de consolidación de origen,2026-09-15,
+MAT-000146,Limitación documentada,"No asignar modelo (K-2, One, Everest, etc.) ni norma exacta hasta encontrar código/etiqueta.",
+MAT-000146,Marcado y datos de empaque,"Bolsa: STEELPRO SAFETY, Safety Goggles / Antiparras de Seguridad.",
+MAT-000146,Material y construcción,Material de lente no confirmado,
+MAT-000146,Normas y certificaciones,Pendiente de confirmar,
+MAT-000147,Color,Gris natural,
+MAT-000147,Datos técnicos de catálogo,Aprox. 90 x 60 cm; correas de cuero para cuello y cintura.,
+MAT-000147,Descripción técnica complementaria,"Mandil de cuero para cubrir pecho, abdomen y parte de piernas frente a chispas y fricción.",
+MAT-000147,Dimensiones y espesor,Aprox. 90 x 60 cm; espesor 0.98 mm ±5% según ficha,
+MAT-000147,Fecha de consolidación de origen,2026-09-15,
+MAT-000147,Limitación documentada,No asumir nivel térmico específico sin norma certificada.,
+MAT-000147,Marcado y datos de empaque,"Etiqueta: Steelpro Safety, 100% cuero, MANDIL DESCARNE, EAN 799045023132.",
+MAT-000147,Material y construcción,100% cuero descarne al cromo,
+MAT-000148,Clasificación técnica,EN388 4131B; Tipo B JKL; EPP Cat. III,
+MAT-000148,Color,Azul,
+MAT-000148,Datos técnicos de catálogo,"1.30 mm, 620 mm, libre de silicona según ficha.",
+MAT-000148,Descripción técnica complementaria,Guante largo de PVC con forro jersey para protección química del brazo.,
+MAT-000148,Dimensiones y espesor,Espesor aprox. 1.30 mm; longitud aprox. 620 mm,
+MAT-000148,Fecha de consolidación de origen,2026-09-15,
+MAT-000148,Limitación documentada,Verificar permeación por químico específico.,
+MAT-000148,Marcado y datos de empaque,"Empaque: DELTA PLUS PETRO VE766, PVC on cotton jersey lining, 0% latex, talla 8/M, JKL.",
+MAT-000148,Material y construcción,Soporte de algodón jersey,
+MAT-000148,Normas y certificaciones,EN 388; EN ISO 374-1; EN ISO 374-5,
+MAT-000148,Recubrimiento y acabado,Recubrimiento total de PVC texturizado,
+MAT-000149,Clasificación técnica,EN388 4131B; Tipo B JKL; EPP Cat. III,
+MAT-000149,Color,Azul,
+MAT-000149,Datos técnicos de catálogo,"1.30 mm, 620 mm, PVC sobre jersey.",
+MAT-000149,Descripción técnica complementaria,"Mismo modelo PETRO VE766, variante talla 9/L.",
+MAT-000149,Dimensiones y espesor,Espesor aprox. 1.30 mm; longitud aprox. 620 mm,
+MAT-000149,Fecha de consolidación de origen,2026-09-15,
+MAT-000149,Limitación documentada,Verificar permeación por químico específico.,
+MAT-000149,Marcado y datos de empaque,"Empaque: PETRO VE766, talla 9/L, JKL.",
+MAT-000149,Material y construcción,Soporte de algodón jersey,
+MAT-000149,Normas y certificaciones,EN 388; EN ISO 374-1; EN ISO 374-5,
+MAT-000149,Recubrimiento y acabado,Recubrimiento total de PVC texturizado,
+MAT-000150,Clasificación técnica,≥99.97% para partículas; alivio OV solo a niveles molestos,
+MAT-000150,Color,Rosado,
+MAT-000150,Datos técnicos de catálogo,Compatible con varias medias máscaras y máscaras completas 3M de conexión bayoneta.,
+MAT-000150,Descripción técnica complementaria,Filtro rosado para conexión bayoneta 3M. Función principal: partículas P100.,
+MAT-000150,Dimensiones y espesor,Tamaño estándar,
+MAT-000150,Fecha de consolidación de origen,2026-09-15,
+MAT-000150,Limitación documentada,NO es cartucho para protección respiratoria contra concentraciones peligrosas de vapores orgánicos.,
+MAT-000150,Marcado y datos de empaque,"Bolsa 3M: 2097/07184, Particulate Filter P100 with Nuisance Level Organic Vapor Relief, cont. 2 filtros.",
+MAT-000150,Material y construcción,Medio filtrante P100 con carbón para alivio de olores/vapores orgánicos molestos,
+MAT-000150,Normas y certificaciones,NIOSH P100,
+MAT-000150,Presentación registrada,2 filtros,
+MAT-000151,Clasificación técnica,ABEK1 + PF,
+MAT-000151,Datos técnicos de catálogo,Conexión indicada para respirador V-800 en la ficha consultada.,
+MAT-000151,Descripción técnica complementaria,Filtro combinado para respirador con protección ABEK1 y prefiltro de partículas.,
+MAT-000151,Fecha de consolidación de origen,2026-09-15,
+MAT-000151,Limitación documentada,Debe usarse con respirador compatible y dentro de concentraciones autorizadas.,
+MAT-000151,Marcado y datos de empaque,"Empaque: REDLINE Professional, FILTRO MULTIGAS Y PARTICULAS, MODELO V-7800 ABEK1 + PF, EN14387:2004.",
+MAT-000151,Material y construcción,Cartucho combinado multigás + prefiltro de partículas,
+MAT-000151,Normas y certificaciones,EN 14387:2004,
+MAT-000151,Presentación registrada,2 filtros,
+MAT-000152,Clasificación técnica,OV (Organic Vapor),
+MAT-000152,Color,Negro,
+MAT-000152,Datos técnicos de catálogo,Compatible con respiradores Honeywell North 5500/7700/RU8500 y máscaras completas compatibles.,
+MAT-000152,Descripción técnica complementaria,"Cartucho químico para vapores orgánicos, no filtro de partículas por sí solo.",
+MAT-000152,Fecha de consolidación de origen,2026-09-15,
+MAT-000152,Limitación documentada,Para partículas requiere configuración compatible adicional; respetar programa de cambio de cartuchos.,
+MAT-000152,Marcado y datos de empaque,"Etiqueta física: Honeywell, Made in Mexico, Part No. N75001L, NIOSH OV.",
+MAT-000152,Material y construcción,Cartucho adsorbente para vapores orgánicos,
+MAT-000152,Normas y certificaciones,NIOSH,
+MAT-000152,País de origen,México,
+MAT-000152,Presentación registrada,Se utiliza normalmente en par,
+MAT-000153,Clasificación técnica,Respirador reutilizable; protección depende del cartucho/filtro,
+MAT-000153,Color,Gris,
+MAT-000153,Datos técnicos de catálogo,Sistema lock-down/drop-down; libre de látex según ficha.,
+MAT-000153,Descripción técnica complementaria,Media máscara reutilizable de doble puerto con sello flexible y arnés de 4 puntos.,
+MAT-000153,Fecha de consolidación de origen,2026-09-15,
+MAT-000153,Limitación documentada,La máscara por sí sola no define contaminante protegido.,
+MAT-000153,Marcado y datos de empaque,Bolsa: MSA Advantage 420; etiqueta de talla M asociada a P/N 10102183.,
+MAT-000153,Material y construcción,Pieza facial elastomérica; sistema de doble cartucho,
+MAT-000153,Normas y certificaciones,NIOSH,
+MAT-000154,Clasificación técnica,Conexión bayoneta 3M; válvula 3M Cool Flow,
+MAT-000154,Color,Azul / gris,
+MAT-000154,Datos técnicos de catálogo,Compatible con varias series 3M 2000/5000/7000 y cartuchos 6000.,
+MAT-000154,Descripción técnica complementaria,Media máscara premium de silicona con conexión bayoneta y válvula de exhalación.,
+MAT-000154,Fecha de consolidación de origen,2026-09-15,
+MAT-000154,Limitación documentada,Usar únicamente filtros/cartuchos 3M compatibles y seleccionados para el contaminante.,
+MAT-000154,Marcado y datos de empaque,"Bolsa: 7502/37082, Half Facepiece, Silicone, Medium.",
+MAT-000154,Material y construcción,Silicona,
+MAT-000154,Normas y certificaciones,NIOSH,
+MAT-000155,Clasificación técnica,Tipo 4-B / 5-B / 6-B; EN1073-2 Clase 2,
+MAT-000155,Color,Blanco con costuras azules,
+MAT-000155,Datos técnicos de catálogo,HDPE no tejido; configuración TY198T.,
+MAT-000155,Descripción técnica complementaria,"Traje desechable con capucha, elásticos, costuras selladas, presillas de pulgar, cierre y solapa adhesiva.",
+MAT-000155,Fecha de consolidación de origen,2026-09-15,
+MAT-000155,Limitación documentada,No es protección química universal; revisar permeación y tipo de exposición.,
+MAT-000155,Marcado y datos de empaque,"Empaque: DuPont Tyvek 600 Plus, TY198T, talla M, origen Vietnam, Cat. III, tipos 4-B/5-B/6-B.",
+MAT-000155,Material y construcción,Tyvek de polietileno de alta densidad (HDPE) no tejido,
+MAT-000155,Normas y certificaciones,EPP Cat. III; EN 14126; EN 1073-2,
+MAT-000155,País de origen,Vietnam,
+MAT-000156,Clasificación técnica,Tipo 4-B / 5-B / 6-B; EN1073-2 Clase 2,
+MAT-000156,Color,Blanco con costuras azules,
+MAT-000156,Datos técnicos de catálogo,Mismas prestaciones de TY198T.,
+MAT-000156,Descripción técnica complementaria,"Mismo TY198T, variante talla L/G.",
+MAT-000156,Fecha de consolidación de origen,2026-09-15,
+MAT-000156,Limitación documentada,No es protección química universal.,
+MAT-000156,Marcado y datos de empaque,"Empaque: DuPont Tyvek 600 Plus, TY198T, talla L/G, origen Vietnam.",
+MAT-000156,Material y construcción,Tyvek de polietileno de alta densidad (HDPE) no tejido,
+MAT-000156,Normas y certificaciones,EPP Cat. III; EN 14126; EN 1073-2,
+MAT-000156,País de origen,Vietnam,
+MAT-000157,Clasificación técnica,Tipo 4 / 5 / 6; calcetines integrados,
+MAT-000157,Color,Blanco con costuras azules,
+MAT-000157,Datos técnicos de catálogo,"Cat. III; símbolos Type 4/5/6, EN1073-2, EN14126, EN1149-5 visibles.",
+MAT-000157,Descripción técnica complementaria,Tyvek 600 Plus con calcetines integrados y solapa exterior para cubrir botas.,
+MAT-000157,Fecha de consolidación de origen,2026-09-15,
+MAT-000157,Limitación documentada,No asumir resistencia universal a químicos; seleccionar por riesgo.,
+MAT-000157,Marcado y datos de empaque,"Empaque: Tyvek 600 Plus with socks, LG, ref. PLTV6PS_111, 06/2024, lote MT01164369, Made in Cambodia.",
+MAT-000157,Material y construcción,Tyvek (HDPE no tejido),
+MAT-000157,Normas y certificaciones,EPP Cat. III; EN 14605; EN ISO 13982-1; EN 13034; EN 1073-2; EN 14126; EN 1149-5,
+MAT-000157,País de origen,Camboya,
+MAT-000158,Clasificación técnica,Tipo 4 / 5 / 6; calcetines integrados,
+MAT-000158,Color,Blanco con costuras azules,
+MAT-000158,Datos técnicos de catálogo,"Cat. III; símbolos Type 4/5/6, EN1073-2, EN14126, EN1149-5 visibles.",
+MAT-000158,Descripción técnica complementaria,"Misma configuración Tyvek 600 Plus with socks, variante XL.",
+MAT-000158,Fecha de consolidación de origen,2026-09-15,
+MAT-000158,Limitación documentada,No asumir resistencia universal a químicos.,
+MAT-000158,Marcado y datos de empaque,"Empaque: Tyvek 600 Plus with socks, XL, ref. PLTV6PS_111, 05/2024, lote MT01151550, Made in Cambodia.",
+MAT-000158,Material y construcción,Tyvek (HDPE no tejido),
+MAT-000158,Normas y certificaciones,EPP Cat. III; EN 14605; EN ISO 13982-1; EN 13034; EN 1073-2; EN 14126; EN 1149-5,
+MAT-000158,País de origen,Camboya,
+MAT-000159,Color,Gris con correas marrón/naranja,
+MAT-000159,Datos técnicos de catálogo,"Cuero gris, correas ajustables, talla estándar, aprox. 30 x 28 cm.",
+MAT-000159,Descripción técnica complementaria,Protector de cuero para colocar sobre calzado durante soldadura.,
+MAT-000159,Dimensiones y espesor,Aprox. 30 cm alto x 28 cm ancho según ficha comercial,
+MAT-000159,Fecha de consolidación de origen,2026-09-15,
+MAT-000159,Limitación documentada,No sustituye calzado de seguridad ni protección térmica certificada adicional.,
+MAT-000159,Marcado y datos de empaque,"Referencia visual aportada desde Promart con nombre 'Escarpines de soldador', marca SM.",
+MAT-000159,Material y construcción,100% cuero tratado químicamente,
+MAT-000159,Presentación registrada,1 par,
+MAT-000160,Clasificación técnica,Máscara completa de doble puerto; protección depende del cartucho/filtro,
+MAT-000160,Color,Gris,
+MAT-000160,Datos técnicos de catálogo,P/N 10083782 aparece en familia Advantage 4200 Full-Facepiece.,
+MAT-000160,Descripción técnica complementaria,"Máscara full-face de silicona con doble puerto, visor panorámico y arnés de caucho.",
+MAT-000160,Fecha de consolidación de origen,2026-09-15,
+MAT-000160,Limitación documentada,La protección química/particulada depende de cartuchos y límites de uso; seleccionar según evaluación de riesgo.,
+MAT-000160,Marcado y datos de empaque,"Etiqueta: MSA Advantage 4000, TWIN-PORT FULL FACE MASK, Assembly 10083782, MEDIUM, SILICONE, head harness RUBBER, 10/23.",
+MAT-000160,Material y construcción,Silicona; arnés de cabeza de caucho,
+MAT-000160,Normas y certificaciones,NIOSH,
+MAT-000160,País de origen,EE. UU. (dirección corporativa en etiqueta),
+MAT-000161,Clasificación técnica,Desechable,
+MAT-000161,Color,Azul,
+MAT-000161,Datos técnicos de catálogo,Fabricante de clip caps de PP no tejido.,
+MAT-000161,Descripción técnica complementaria,Gorro sanitario desechable plegado tipo clip cap.,
+MAT-000161,Fecha de consolidación de origen,2026-09-15,
+MAT-000161,Limitación documentada,Lote observado vencido al 20/05/2026; no debe considerarse disponible para uso sin política formal de disposición.,
+MAT-000161,Marcado y datos de empaque,"Etiqueta: ALFYMEDIX, GORRO DE ENFERMERA DESCARTABLE CLIP CAP, 100 unids, lote GEA2105, fab. 20-05-2021, exp. 20-05-2026.",
+MAT-000161,Material y construcción,Polipropileno (PP) no tejido según fabricante,
+MAT-000161,País de origen,China,
+MAT-000161,Presentación registrada,100 unidades,
+MAT-000162,Abrasivo,Carburo de silicio negro,
+MAT-000162,Descripción técnica,"Disco abrasivo removedor de pintura y óxido para amoladora angular, Ø115 mm, agujero 22.23 mm, espesor 13 mm, carburo de silicio negro y 12,500 RPM máx. Diseñado para limpieza y preparación superficial procurando reducir el ataque al metal base.",
+MAT-000162,Diámetro exterior,115,mm
+MAT-000162,Diámetro exterior,4.5,in
+MAT-000162,Diámetro interior,22.23,mm
+MAT-000162,Espesor,13,mm
+MAT-000162,País de fabricación,China,
+MAT-000162,RPM máxima,12500,rpm
+MAT-000163,Abrasivo base,Óxido de aluminio,
+MAT-000163,Agujero,22.23,mm
+MAT-000163,Descripción técnica,"Disco abrasivo de corte Tipo 41, 180 × 3.2 × 22.23 mm, especificación A30T-BF, abrasivo base de óxido de aluminio, 8,500 RPM y 80 m/s máx.",
+MAT-000163,Diámetro,180,mm
+MAT-000163,Especificación abrasiva,A30T-BF,
+MAT-000163,Espesor,3.2,mm
+MAT-000163,Normas,EN 12413,
+MAT-000163,País de fabricación,Filipinas,
+MAT-000163,RPM máxima,8500,rpm
+MAT-000163,Tipo,41,
+MAT-000163,UPC,028874945609,
+MAT-000163,Velocidad periférica máxima,80,m/s
+MAT-000164,Abrasivo,Óxido de aluminio,
+MAT-000164,Agujero,22.23,mm
+MAT-000164,Descripción técnica,"Disco de corte Norton BNA 32, 115 × 3.0 × 22.23 mm, óxido de aluminio, Tipo 41, reforzado con 2 telas, 13,300 RPM y 80 m/s máx.",
+MAT-000164,Diámetro,115,mm
+MAT-000164,Espesor,3,mm
+MAT-000164,Material de trabajo,Acero al carbono / acero inoxidable,
+MAT-000164,País de fabricación,Brasil,
+MAT-000164,Refuerzo,2 telas/mallas,
+MAT-000164,RPM máxima,13300,rpm
+MAT-000164,Tipo,41,
+MAT-000164,Velocidad periférica máxima,80,m/s
+MAT-000165,Abrasivo,Óxido de aluminio zirconado,
+MAT-000165,Agujero,22.23,mm
+MAT-000165,Ángulo de trabajo recomendado,15–25,°
+MAT-000165,Descripción técnica,"Disco flap Norton de 115 × 22.23 mm, grano P40, abrasivo de óxido de aluminio zirconado (tecnología Norzon), 13,300 RPM y 80 m/s máx. Norzon se registra como tecnología abrasiva, no como marca.",
+MAT-000165,Diámetro,115,mm
+MAT-000165,Grano,40,P
+MAT-000165,Material de trabajo,Acero / acero inoxidable,
+MAT-000165,País de fabricación,Brasil,
+MAT-000165,RPM máxima,13300,rpm
+MAT-000165,Tecnología abrasiva,Norzon,
+MAT-000165,Velocidad periférica máxima,80,m/s
+MAT-000166,Abrasivo base,Óxido de aluminio,
+MAT-000166,Agujero,22.23,mm
+MAT-000166,Descripción técnica,"Disco abrasivo de desbaste Tipo 27, 115 × 6.3 × 22.23 mm, especificación A24R-BF, óxido de aluminio, 13,300 RPM y 80 m/s máx.",
+MAT-000166,Diámetro,115,mm
+MAT-000166,Especificación abrasiva,A24R-BF,
+MAT-000166,Espesor,6.3,mm
+MAT-000166,Normas,EN 12413,
+MAT-000166,País de fabricación,Filipinas,
+MAT-000166,RPM máxima,13300,rpm
+MAT-000166,Tipo,27,
+MAT-000166,UPC,028874945401,
+MAT-000166,Velocidad periférica máxima,80,m/s
+MAT-000167,Capacidad,2,módulos
+MAT-000167,Descripción técnica,"Envolvente BTicino IDROBOX para 2 módulos, montaje superficial, protección IP55 y construcción termoplástica. Unidad observada Made in Italy.",
+MAT-000167,Grado de protección,IP55,
+MAT-000167,Material,Termoplástico,
+MAT-000167,Montaje,Sobreponer / superficial,
+MAT-000167,País de fabricación,Italia,
+MAT-000168,Código de barras,7505181300609,
+MAT-000168,Color,Blanco,
+MAT-000168,Corriente nominal,16,AX
+MAT-000168,Descripción técnica,"Conmutador BTicino Màtix AM5003, 1 módulo y 1 polo, 16AX; tensiones impresas 127/250/277 V~. Color blanco, construcción termoplástica, Made in Mexico.",
+MAT-000168,Material,Termoplástico,
+MAT-000168,Módulos,1,módulo
+MAT-000168,Número de polos,1,polo
+MAT-000168,País de fabricación,México,
+MAT-000168,Tensiones impresas,127 / 250 / 277,V~
+MAT-000169,Ancho,19,mm
+MAT-000169,Descripción técnica,"Cinta Scotch 23 de caucho EPR, 19 mm × 9.15 m × 0.76 mm, negra y autofusionable. Diseñada para aislamiento eléctrico y sellado; documentación 3M contempla empalmes desde 600 V hasta 69 kV.",
+MAT-000169,Espesor,0.76,mm
+MAT-000169,Longitud,9.15,m
+MAT-000169,Material,EPR (caucho etileno-propileno),
+MAT-000169,Rango de aplicación en empalmes,600 V a 69 kV,
+MAT-000169,Temperatura continua máxima,90,°C
+MAT-000169,Temperatura de emergencia,130,°C
+MAT-000170,Altura total,58,mm
+MAT-000170,Capacidad nominal,1.3,Ah
+MAT-000170,Carga cíclica,7.30–7.40,V @25°C
+MAT-000170,Carga flotante,6.85–6.95,V @25°C
+MAT-000170,Corriente inicial de carga,<0.39,A
+MAT-000170,Descripción técnica,"Batería sellada de plomo-ácido VRLA AGM, 6 V y 1.3 Ah a C20. Dimensiones de fabricante 97 × 24 × 52 mm, altura total 58 mm, terminal F1. Carga cíclica 7.30–7.40 V y flotación 6.85–6.95 V a 25 °C.",
+MAT-000170,Dimensiones,97 × 24 × 52,mm
+MAT-000170,Régimen,C20 / 20HR,
+MAT-000170,Tensión nominal,6,V
+MAT-000170,Terminal,F1,
+MAT-000171,Conductores,L1 / L2 / L3 / PE,
+MAT-000171,Configuración,3P+E,
+MAT-000171,Corriente nominal,16,A
+MAT-000171,Descripción técnica,"Inserto hembra de 4 polos 3P+E con terminales L1, L2, L3 y PE, 16 A, 690 V~, conexión posterior por tornillo y cuerpo marcado PA6 GF. No se atribuye IEC 60309 ni grado IP sin evidencia adicional.",
+MAT-000171,Marcación de fabricante,Marcación 10479,
+MAT-000171,Marcación moldeada,10479,
+MAT-000171,Material aislante marcado,PA6 GF,
+MAT-000171,Número de polos,4,polos
+MAT-000171,Tensión nominal,690,V~
+MAT-000171,Tipo de conexión,Bornes de tornillo,
+MAT-000172,Bornera de tierra,Sí,
+MAT-000172,Capacidad,2–5,polos
+MAT-000172,Capacidad máxima,5,polos
+MAT-000172,Descripción técnica,"Tablero adosable de 2 a 5 polos, riel DIN, puerta semitransparente y bornera de tierra. Construcción plástica de alto impacto, 132 × 181 × 71 mm, 0.280 kg e IP43 según ficha técnica. Producto peruano.",
+MAT-000172,Dimensiones,132 × 181 × 71,mm
+MAT-000172,Grado de protección,IP43,
+MAT-000172,Montaje,Adosable / superficial,
+MAT-000172,País de fabricación,Perú,
+MAT-000172,Peso,0.28,kg
+MAT-000172,Puerta,Semitransparente ahumada,
+MAT-000172,Sistema interno,Riel DIN,
+MAT-000173,Calibre de alambre,0.5,mm
+MAT-000173,Descripción técnica,"Carda circular de 4"", alambre de acero al carbono de 0.5 mm, 20 trenzas, rosca 5/8""-11 y 14,000 RPM máx. Acabado áspero para limpieza agresiva.",
+MAT-000173,Diámetro,4,in
+MAT-000173,Diámetro,101.6,mm
+MAT-000173,Espesor,"19/32""",
+MAT-000173,Longitud del alambre,21,mm
+MAT-000173,Material del alambre,Acero al carbono,
+MAT-000173,Número de trenzas,20,trenzas
+MAT-000173,País de fabricación,China,
+MAT-000173,Rosca,"5/8""-11",
+MAT-000173,RPM máxima,14000,rpm
+MAT-000174,Ancho nominal,2.5,mm
+MAT-000174,Color,Natural,
+MAT-000174,Descripción técnica,"Cintillo de nylon 6.6 (PA66), 100 × 2.5 mm, color natural, resistencia a tracción indicada de 11 kg, rango -40 °C a +85 °C y clasificación UL94 V-2. Presentación de 100 piezas.",
+MAT-000174,Inflamabilidad,UL 94 V-2,
+MAT-000174,Longitud nominal,100,mm
+MAT-000174,Material,Nylon 6.6 / PA66,
+MAT-000174,Resistencia a tracción,11,kg
+MAT-000174,Temperatura de servicio,-40 a +85,°C
+MAT-000175,Ancho medido,12.46,mm
+MAT-000175,Ancho medido,0.4905,in
+MAT-000175,Ancho nominal,12.7,mm
+MAT-000175,Ancho nominal,0.5,in
+MAT-000175,Descripción técnica,"Correa cerrada de perfil XL, paso 5.08 mm, longitud de paso 279.4 mm (11""), 55 dientes y ancho nominal 12.7 mm (1/2""). Ancho medido aprox. 12.46 mm (0.4905""). Marcada Made in Japan.",
+MAT-000175,Longitud de paso,279.4,mm
+MAT-000175,Longitud de paso,11,in
+MAT-000175,Marcación de fabricante,Marcación física 110XL,
+MAT-000175,Número de dientes,55,dientes
+MAT-000175,País de fabricación,Japón,
+MAT-000175,Paso,5.08,mm
+MAT-000175,Perfil,XL,
+MAT-000176,Ancho,0.5,in
+MAT-000176,Descripción técnica,"Cinta PTFE para roscas, ancho 1/2"", espesor 0.120 mm y longitud 8 yd (~7.32 m). Identificada para servicio con gas y combustibles.",
+MAT-000176,Espesor,0.12,mm
+MAT-000176,Longitud,8,yd
+MAT-000176,Longitud aproximada,7.32,m
+MAT-000176,Material,PTFE,
+MAT-000176,Referencia comercial registrada,Referencia comercial 126127,
+MAT-000176,Servicio,Gas natural / propano / gasolina / diésel,
+MAT-000177,Ancho,12,mm
+MAT-000177,Certificación impresa,ISO 9001 Certified Quality System,
+MAT-000177,Color de cinta,Blanco,
+MAT-000177,Descripción técnica,"Cinta PTFE blanca, 12 mm de ancho × 0.075 mm de espesor × 12 m de longitud. Se registra como sellador general de roscas; no se asume certificación específica para gas.",
+MAT-000177,Espesor,0.075,mm
+MAT-000177,Longitud,12,m
+MAT-000177,Material,PTFE,
+MAT-000178,Ancho nominal,0.75,in
+MAT-000178,Ancho nominal,19.05,mm
+MAT-000178,Código de barras,7754675000393,
+MAT-000178,Densidad comercial,0.8,g/cm³
+MAT-000178,Descripción técnica,"Cinta PTFE para gas, línea Original Heavy Duty, ancho nominal 3/4"" (19.05 mm), longitud 6.6 m y densidad comercial indicada de 0.8 g/cm³. Espesor pendiente.",
+MAT-000178,Longitud,6.6,m
+MAT-000178,Material,PTFE,
+MAT-000179,Ancho medido,12.26,mm
+MAT-000179,Ancho nominal,12.7,mm
+MAT-000179,Descripción técnica,"Correa Optibelt ZR de policloropreno, cordones de fibra de vidrio y tejido protector en dientes. Paso 5.08 mm, longitud de paso 279.4 mm, 55 dientes y ancho nominal 12.7 mm. Ancho medido ~12.26 mm (0.4825""). Unidades observadas de Alemania y Rumania.",
+MAT-000179,Elemento de tracción,Fibra de vidrio,
+MAT-000179,Longitud de paso,279.4,mm
+MAT-000179,Marcación de fabricante,Marcación física ZR 110 XL,
+MAT-000179,Material base,Policloropreno,
+MAT-000179,Número de dientes,55,dientes
+MAT-000179,País de fabricación observado,Alemania / Rumania,
+MAT-000179,Paso,5.08,mm
+MAT-000179,Perfil,XL trapezoidal,
+MAT-000179,Recubrimiento de dientes,Tejido de poliamida,
+MAT-000179,Serie,ZR,
+MAT-000180,Ancho nominal,12.7,mm
+MAT-000180,Ancho nominal,0.5,in
+MAT-000180,Descripción técnica,"Correa Optibelt ZR 90 XL de perfil trapezoidal, paso 5.08 mm, longitud de paso 228.6 mm (9""), 45 dientes y ancho nominal 12.7 mm (0.5""). Unidades observadas Made in Germany.",
+MAT-000180,Longitud de paso,228.6,mm
+MAT-000180,Longitud de paso,9,in
+MAT-000180,Marcación de fabricante,Marcación física ZR 90 XL,
+MAT-000180,Número de dientes,45,dientes
+MAT-000180,País de fabricación observado,Alemania,
+MAT-000180,Paso,5.08,mm
+MAT-000180,Perfil,XL trapezoidal,
+MAT-000180,Serie,ZR,
+MAT-000181,Ancho nominal,38.1,mm
+MAT-000181,Ancho nominal,1.5,in
+MAT-000181,Descripción técnica,"Correa Optibelt ZR 90 XL de paso 5.08 mm, longitud de paso 228.6 mm, 45 dientes y ancho informado de 1.5"" (38.1 mm). El ancho la convierte en un ítem distinto de la variante de 0.5"".",
+MAT-000181,Longitud de paso,228.6,mm
+MAT-000181,Marcación de fabricante,Marcación física ZR 90 XL,
+MAT-000181,Número de dientes,45,dientes
+MAT-000181,Paso,5.08,mm
+MAT-000181,Perfil,XL trapezoidal,
+MAT-000181,Serie,ZR,
+MAT-000182,Altura de diente nominal,1.1,mm
+MAT-000182,Altura total nominal,2.3,mm
+MAT-000182,Descripción técnica,"Correa Optibelt OMEGA de perfil 3M, paso 3.00 mm, longitud de paso 252 mm, 84 dientes, altura total nominal 2.30 mm y altura de diente 1.10 mm. Unidad observada Made in Romania.",
+MAT-000182,Elemento de tracción,Fibra de vidrio,
+MAT-000182,Longitud de paso,252,mm
+MAT-000182,Marcación de fabricante,Marcación física OMEGA 252 3M,
+MAT-000182,Número de dientes,84,dientes
+MAT-000182,País de fabricación observado,Rumania,
+MAT-000182,Paso,3,mm
+MAT-000182,Perfil,3M,
+MAT-000182,Serie,OMEGA,
+MAT-000183,Capacidad o rango,M-20.5; ancho medido ≈9.7 mm,
+MAT-000183,Clasificación técnica,Correa trapezoidal en V,
+MAT-000183,Color,Negro,
+MAT-000183,Datos técnicos de catálogo,Perfil M; ancho medido aprox. 9.7 mm; correa sin fin | Correa trapezoidal en V,
+MAT-000183,Descripción técnica complementaria,"Correa trapezoidal en V perfil M, medida M-20.5. Perfil M; ancho medido aprox. 9.7 mm; correa sin fin. Construcción/material: Elastómero/caucho reforzado con elemento resistente interno.",
+MAT-000183,Dimensiones y espesor,Ancho medido aprox. 9.7 mm,
+MAT-000183,Función técnica,Transmite movimiento y par entre poleas por fricción.,
+MAT-000183,Limitación documentada,Falta confirmar fabricante y longitud normalizada exacta.,
+MAT-000183,Marcado y datos de empaque,Marca: No identificada | Modelo: M-20.5 | P/N: M-20.5 | Medida/rango: M-20.5; ancho medido ≈9.7 mm | Presentación: 3 unidades visibles del mismo tipo,
+MAT-000183,Material y construcción,Elastómero/caucho reforzado con elemento resistente interno,
+MAT-000183,Presentación registrada,3 unidades visibles del mismo tipo,
+MAT-000184,Capacidad o rango,"230 x 280 mm (9"" x 11"")",
+MAT-000184,Clasificación técnica,Abrasivo muy grueso / desbaste fuerte,
+MAT-000184,Color,Gris/negro,
+MAT-000184,Datos técnicos de catálogo,Abrasivo: óxido de aluminio; granulometría GR.40; nivel relativo: Muy grueso | Abrasivo muy grueso / desbaste fuerte,
+MAT-000184,Descripción técnica complementaria,"Lija para metal Abralit GR.40, 230 x 280 mm. Abrasivo: óxido de aluminio; granulometría GR.40; nivel relativo: Muy grueso. Construcción/material: Óxido de aluminio sobre soporte abrasivo.",
+MAT-000184,Dimensiones y espesor,"230 x 280 mm (9"" x 11"")",
+MAT-000184,Función técnica,"Remoción rápida de material, óxido y preparación inicial de metal.",
+MAT-000184,Marcado y datos de empaque,"Marca: Abralit / CPPQ-Qroma | Modelo: GR.40 | P/N: 7752835018707 | Medida/rango: 230 x 280 mm (9"" x 11"") | Presentación: GR.40: paquete x25 hojas visible; otras presentaciones no asumir sin empaque",
+MAT-000184,Material y construcción,Óxido de aluminio sobre soporte abrasivo,
+MAT-000184,Presentación registrada,GR.40: paquete x25 hojas visible; otras presentaciones no asumir sin empaque,
+MAT-000184,Recubrimiento y acabado,Abrasivo de óxido de aluminio,
+MAT-000185,Capacidad o rango,"230 x 280 mm (9"" x 11"")",
+MAT-000185,Clasificación técnica,Abrasivo grueso / desbaste,
+MAT-000185,Color,Gris/negro,
+MAT-000185,Datos técnicos de catálogo,Abrasivo: óxido de aluminio; granulometría GR.60; nivel relativo: Grueso | Abrasivo grueso / desbaste,
+MAT-000185,Descripción técnica complementaria,"Lija para metal Abralit GR.60, 230 x 280 mm. Abrasivo: óxido de aluminio; granulometría GR.60; nivel relativo: Grueso. Construcción/material: Óxido de aluminio sobre soporte abrasivo.",
+MAT-000185,Dimensiones y espesor,"230 x 280 mm (9"" x 11"")",
+MAT-000185,Función técnica,Desbaste y nivelación de superficies metálicas.,
+MAT-000185,Marcado y datos de empaque,"Marca: Abralit / CPPQ-Qroma | Modelo: GR.60 | P/N: 7752835018721 | Medida/rango: 230 x 280 mm (9"" x 11"") | Presentación: GR.40: paquete x25 hojas visible; otras presentaciones no asumir sin empaque",
+MAT-000185,Material y construcción,Óxido de aluminio sobre soporte abrasivo,
+MAT-000185,Presentación registrada,GR.40: paquete x25 hojas visible; otras presentaciones no asumir sin empaque,
+MAT-000185,Recubrimiento y acabado,Abrasivo de óxido de aluminio,
+MAT-000186,Capacidad o rango,"230 x 280 mm (9"" x 11"")",
+MAT-000186,Clasificación técnica,Abrasivo medio,
+MAT-000186,Color,Gris/negro,
+MAT-000186,Datos técnicos de catálogo,Abrasivo: óxido de aluminio; granulometría GR.100; nivel relativo: Medio | Abrasivo medio,
+MAT-000186,Descripción técnica complementaria,"Lija para metal Abralit GR.100, 230 x 280 mm. Abrasivo: óxido de aluminio; granulometría GR.100; nivel relativo: Medio. Construcción/material: Óxido de aluminio sobre soporte abrasivo.",
+MAT-000186,Dimensiones y espesor,"230 x 280 mm (9"" x 11"")",
+MAT-000186,Función técnica,Preparación intermedia y afinado de superficies metálicas.,
+MAT-000186,Marcado y datos de empaque,"Marca: Abralit / CPPQ-Qroma | Modelo: GR.100 | P/N: 7752835018745 | Medida/rango: 230 x 280 mm (9"" x 11"") | Presentación: GR.40: paquete x25 hojas visible; otras presentaciones no asumir sin empaque",
+MAT-000186,Material y construcción,Óxido de aluminio sobre soporte abrasivo,
+MAT-000186,Presentación registrada,GR.40: paquete x25 hojas visible; otras presentaciones no asumir sin empaque,
+MAT-000186,Recubrimiento y acabado,Abrasivo de óxido de aluminio,
+MAT-000187,Capacidad o rango,"230 x 280 mm (9"" x 11"")",
+MAT-000187,Clasificación técnica,Abrasivo medio-fino,
+MAT-000187,Color,Gris/negro,
+MAT-000187,Datos técnicos de catálogo,Abrasivo: óxido de aluminio; granulometría GR.120; nivel relativo: Medio-fino | Abrasivo medio-fino,
+MAT-000187,Descripción técnica complementaria,"Lija para metal Abralit GR.120, 230 x 280 mm. Abrasivo: óxido de aluminio; granulometría GR.120; nivel relativo: Medio-fino. Construcción/material: Óxido de aluminio sobre soporte abrasivo.",
+MAT-000187,Dimensiones y espesor,"230 x 280 mm (9"" x 11"")",
+MAT-000187,Función técnica,Acabado y preparación fina previa a pintura o tratamiento.,
+MAT-000187,Marcado y datos de empaque,"Marca: Abralit / CPPQ-Qroma | Modelo: GR.120 | P/N: 7752835018752 | Medida/rango: 230 x 280 mm (9"" x 11"") | Presentación: GR.40: paquete x25 hojas visible; otras presentaciones no asumir sin empaque",
+MAT-000187,Material y construcción,Óxido de aluminio sobre soporte abrasivo,
+MAT-000187,Presentación registrada,GR.40: paquete x25 hojas visible; otras presentaciones no asumir sin empaque,
+MAT-000187,Recubrimiento y acabado,Abrasivo de óxido de aluminio,
+MAT-000188,Capacidad o rango,"230 x 280 mm (9"" x 11"")",
+MAT-000188,Clasificación técnica,Lija tela esmeril para fierro; grano 80,
+MAT-000188,Color,Gris,
+MAT-000188,Condición técnica documentada,Mantener P80 como material distinto de 60-2.,
+MAT-000188,Datos técnicos de catálogo,Grano 80; lija para fierro; soporte de tela; abrasivo de óxido de aluminio calcinado | Lija tela esmeril para fierro; grano 80,
+MAT-000188,Descripción técnica complementaria,"Lija tela esmeril para fierro ZULKAR, grano 80, 230 x 280 mm. Grano 80; lija para fierro; soporte de tela; abrasivo de óxido de aluminio calcinado. Construcción/material: Óxido de aluminio calcinado sobre soporte de tela.",
+MAT-000188,Dimensiones y espesor,"230 x 280 mm (9"" x 11"")",
+MAT-000188,Función técnica,Desbaste medio y preparación de superficies metálicas.,
+MAT-000188,Limitación documentada,Código de producto de fabricante no visible,
+MAT-000188,Marcado y datos de empaque,"Marca: ZULKAR | Modelo: ESMERIL | P/N: P80 | Medida/rango: 230 x 280 mm (9"" x 11"") | Presentación: Caja x50 hojas",
+MAT-000188,Material y construcción,Óxido de aluminio calcinado sobre soporte de tela,
+MAT-000188,Presentación registrada,Caja x50 hojas,
+MAT-000188,Recubrimiento y acabado,Óxido de aluminio calcinado sobre tela,
+MAT-000189,Capacidad o rango,230 x 280 mm,
+MAT-000189,Clasificación técnica,Lija tela esmeril; designación 60-2,
+MAT-000189,Color,Gris,
+MAT-000189,Condición técnica documentada,60-2 es la designación comercial/técnica; no son dos granulometrías.,
+MAT-000189,Datos técnicos de catálogo,Grano 60; designación tradicional de esmeril N.º 2; impresión 60-2 repetida en la hoja | Lija tela esmeril; designación 60-2,
+MAT-000189,Descripción técnica complementaria,"Lija tela esmeril para fierro ZULKAR, grano 60-2, 230 x 280 mm. Grano 60; designación tradicional de esmeril N.º 2; impresión 60-2 repetida en la hoja. Construcción/material: Tela abrasiva; óxido de aluminio calcinado.",
+MAT-000189,Dimensiones y espesor,230 x 280 mm,
+MAT-000189,Función técnica,Desbaste de metal y remoción de óxido/pintura.,
+MAT-000189,Limitación documentada,Función exacta del código impreso 11972,
+MAT-000189,Marcado y datos de empaque,Marca: ZULKAR | Modelo: ESMERIL | P/N: 60-2 | Código secundario: 11972 | Medida/rango: 230 x 280 mm | Presentación: Caja x50 hojas,
+MAT-000189,Material y construcción,Tela abrasiva; óxido de aluminio calcinado,
+MAT-000189,Presentación registrada,Caja x50 hojas,
+MAT-000189,Recubrimiento y acabado,Óxido de aluminio calcinado sobre tela,
+MAT-000190,Clasificación técnica,Actuador electromagnético lineal,
+MAT-000190,Color,Negro / gris,
+MAT-000190,Condición técnica documentada,No asumir polaridad ni tensión por color de conductores. Recomendable medir resistencias entre pares.,
+MAT-000190,Conexión e interfaz,"Cable de 4 conductores: rojo, verde, blanco y negro",
+MAT-000190,Datos técnicos de catálogo,"Conjunto de bobina/núcleo en bastidor metálico; 4 conductores visibles: rojo, verde, blanco y negro | Actuador electromagnético lineal",
+MAT-000190,Descripción técnica complementaria,"Actuador electromagnético lineal tipo solenoide con bastidor. Conjunto de bobina/núcleo en bastidor metálico; 4 conductores visibles: rojo, verde, blanco y negro. Construcción/material: Bastidor metálico, bobina encapsulada y cable de 4 conductores.",
+MAT-000190,Función técnica,La bobina genera un campo magnético que desplaza una armadura/núcleo.,
+MAT-000190,Limitación documentada,"No asumir tensión, polaridad, potencia ni función de cada conductor sin medición.",
+MAT-000190,Marcado y datos de empaque,Marca: No identificada | Alimentación/señal: No determinada | Presentación: 1 conjunto,
+MAT-000190,Material y construcción,"Bastidor metálico, bobina encapsulada y cable de 4 conductores",
+MAT-000190,Presentación registrada,1 conjunto,
+MAT-000191,Capacidad o rango,5 ft ≈ 1.52 m,
+MAT-000191,Clasificación técnica,Conector de anclaje para protección contra caídas,
+MAT-000191,Color,Amarillo,
+MAT-000191,Datos técnicos de catálogo,Conector de anclaje; capacidad indicada 400 lb / 310 lb según etiqueta/normativa | ANSI Z359.11; cumplimiento OSHA indicado en etiqueta | Conector de anclaje para protección contra caídas,
+MAT-000191,Descripción técnica complementaria,"Faja conectora de anclaje MSA de nylon, 5 ft, anillo D simple. Conector de anclaje; capacidad indicada 400 lb / 310 lb según etiqueta/normativa. Construcción/material: Nylon amarillo; anillo D metálico.",
+MAT-000191,Dimensiones y espesor,Longitud nominal 5 ft ≈ 1.52 m,
+MAT-000191,Función técnica,Crea/adapta un punto de anclaje para conectar el sistema anticaídas.,
+MAT-000191,Limitación documentada,"No es eslinga de izaje. Requiere inspección de tejido, costuras, anillo D y etiquetas antes de uso.",
+MAT-000191,Marcado y datos de empaque,Marca: MSA | Modelo: Anchorage Connector Strap | P/N: 505282 | Código secundario: S/N 02523122 | Medida/rango: 5 ft ≈ 1.52 m | Presentación: 1 unidad; fecha fabricación 03/2018 | Lote/serie: S/N 02523122,
+MAT-000191,Material y construcción,Nylon amarillo; anillo D metálico,
+MAT-000191,Normas y certificaciones,ANSI Z359.11; cumplimiento OSHA indicado en etiqueta,
+MAT-000191,País de origen,México,
+MAT-000191,Presentación registrada,1 unidad; fecha fabricación 03/2018,
+MAT-000192,Alimentación y señal,24,VDC
+MAT-000192,Clasificación técnica,Tarjeta electrónica de salidas / I/O,
+MAT-000192,Color,Negro / conectores verdes,
+MAT-000192,Conexión e interfaz,Bornes 24V/GND; salidas L1-L8; conector multipolar,
+MAT-000192,Datos técnicos de catálogo,"8 salidas L1-L8; bornes 24V/GND; selectores 1/8 STEP, TEN, UNIT; banco DIP | Tarjeta electrónica de salidas / I/O",
+MAT-000192,Descripción técnica complementaria,"Tarjeta de salida MAF RODA CPS05, 24 VDC, 8 canales. 8 salidas L1-L8; bornes 24V/GND; selectores 1/8 STEP, TEN, UNIT; banco DIP. Construcción/material: PCB con relés/terminales y electrónica de control.",
+MAT-000192,Función técnica,Interfaz de salida del sistema de clasificación; gobierna canales asociados al proceso de salida de fruta.,
+MAT-000192,Limitación documentada,Mantener revisión HW por unidad; no asumir intercambiabilidad total V1.0/V3.0.,
+MAT-000192,Marcado y datos de empaque,"Marca: MAF RODA Agrobotic | Modelo: CPS 05 | P/N: 4800178 | Código secundario: Etiqueta secundaria visible en una unidad: 520001400069 | Alimentación/señal: 24 VDC | Presentación: 3 unidades observadas, con revisiones V1.0 y V3.0",
+MAT-000192,Material y construcción,PCB con relés/terminales y electrónica de control,
+MAT-000192,Presentación registrada,"3 unidades observadas, con revisiones V1.0 y V3.0",
+MAT-000193,Alimentación y señal,24,VDC
+MAT-000193,Clasificación técnica,Tarjeta electrónica de salidas / I/O,
+MAT-000193,Color,Negro / conectores verdes,
+MAT-000193,Conexión e interfaz,Bornes 24V/GND; salidas L1-L8; conector multipolar,
+MAT-000193,Datos técnicos de catálogo,"8 salidas L1-L8; bornes 24V/GND; selectores 1/8 STEP, TEN, UNIT; banco DIP | Tarjeta electrónica de salidas / I/O",
+MAT-000193,Descripción técnica complementaria,"Tarjeta de salida MAF RODA CPS05, 24 VDC, 8 canales. 8 salidas L1-L8; bornes 24V/GND; selectores 1/8 STEP, TEN, UNIT; banco DIP. Construcción/material: PCB con relés/terminales y electrónica de control.",
+MAT-000193,Función técnica,Interfaz de salida del sistema de clasificación; gobierna canales asociados al proceso de salida de fruta.,
+MAT-000193,Limitación documentada,Mantener revisión HW por unidad; no asumir intercambiabilidad total V1.0/V3.0.,
+MAT-000193,Marcado y datos de empaque,"Marca: MAF RODA Agrobotic | Modelo: CPS 05 | P/N: 4800178 | Código secundario: Etiqueta secundaria visible en una unidad: 520001400069 | Alimentación/señal: 24 VDC | Presentación: 3 unidades observadas, con revisiones V1.0 y V3.0",
+MAT-000193,Material y construcción,PCB con relés/terminales y electrónica de control,
+MAT-000193,Presentación registrada,"3 unidades observadas, con revisiones V1.0 y V3.0",
+MAT-000194,Clasificación técnica,Selector modular de panel,
+MAT-000194,Color,Negro,
+MAT-000194,Datos técnicos de catálogo,"Selector modular no iluminado; 2 posiciones; acción mantenida | UL Type 1, 3R, 4, 4X, 12, 13; CE; cULus; UKCA | Selector modular de panel",
+MAT-000194,Descripción técnica complementaria,"Selector modular ABB, 2 posiciones mantenidas, maneta corta negra. Selector modular no iluminado; 2 posiciones; acción mantenida. Construcción/material: Operador modular para panel.",
+MAT-000194,Función técnica,Permite seleccionar manualmente uno de dos estados mantenidos en un circuito de mando.,
+MAT-000194,Marcado y datos de empaque,Marca: ABB | Modelo: M2SS2-10B | P/N: 1SFA611201R1006 | Presentación: QTY 1 según empaque,
+MAT-000194,Material y construcción,Operador modular para panel,
+MAT-000194,Normas y certificaciones,"UL Type 1, 3R, 4, 4X, 12, 13; CE; cULus; UKCA",
+MAT-000194,País de origen,China,
+MAT-000194,Presentación registrada,QTY 1 según empaque,
+MAT-000195,Clasificación técnica,Pulsador luminoso de panel,
+MAT-000195,Color,Verde,
+MAT-000195,Datos técnicos de catálogo,"Pulsador momentáneo luminoso; color verde; bisel metálico cromado | UL Type 1, 3R, 4, 4X, 12, 13; CE; cULus; UKCA | Pulsador luminoso de panel",
+MAT-000195,Descripción técnica complementaria,"Pulsador luminoso rasante ABB verde, bisel metálico cromado. Pulsador momentáneo luminoso; color verde; bisel metálico cromado. Construcción/material: Operador de panel.",
+MAT-000195,Función técnica,Genera una orden momentánea y señalización luminosa en panel.,
+MAT-000195,Marcado y datos de empaque,Marca: ABB | Modelo: MP1-31G | P/N: 1SFA611100R3102,
+MAT-000195,Material y construcción,Operador de panel,
+MAT-000195,Normas y certificaciones,"UL Type 1, 3R, 4, 4X, 12, 13; CE; cULus; UKCA",
+MAT-000195,País de origen,Suecia,
+MAT-000196,Clasificación técnica,Pulsador luminoso de panel,
+MAT-000196,Color,Rojo,
+MAT-000196,Datos técnicos de catálogo,"Pulsador momentáneo luminoso; color rojo; bisel metálico cromado | UL Type 1, 3R, 4, 4X, 12, 13; CE; cULus; UKCA | Pulsador luminoso de panel",
+MAT-000196,Descripción técnica complementaria,"Pulsador luminoso rasante ABB rojo, bisel metálico cromado. Pulsador momentáneo luminoso; color rojo; bisel metálico cromado. Construcción/material: Operador de panel.",
+MAT-000196,Función técnica,Genera una orden momentánea y señalización luminosa en panel.,
+MAT-000196,Marcado y datos de empaque,Marca: ABB | Modelo: MP1-31R | P/N: 1SFA611100R3101,
+MAT-000196,Material y construcción,Operador de panel,
+MAT-000196,Normas y certificaciones,"UL Type 1, 3R, 4, 4X, 12, 13; CE; cULus; UKCA",
+MAT-000196,País de origen,Suecia,
+MAT-000197,Clasificación técnica,Accesorio modular de mando,
+MAT-000197,Color,Negro,
+MAT-000197,Datos técnicos de catálogo,Soporte para 3 elementos; ampliable según configuración de la gama modular | CE; cULus; UKCA | Accesorio modular de mando,
+MAT-000197,Descripción técnica complementaria,"Portabloques ABB para dispositivos modulares, 3 posiciones. Soporte para 3 elementos; ampliable según configuración de la gama modular. Construcción/material: Portabloques modular.",
+MAT-000197,Función técnica,Sujeta los bloques de contacto detrás del operador de pulsador/selector.,
+MAT-000197,Marcado y datos de empaque,Marca: ABB | Modelo: MCBH-00 | P/N: 1SFA611605R1100 | Presentación: Bolsa QTY 10,
+MAT-000197,Material y construcción,Portabloques modular,
+MAT-000197,Normas y certificaciones,CE; cULus; UKCA,
+MAT-000197,País de origen,Suecia,
+MAT-000197,Presentación registrada,Bolsa QTY 10,
+MAT-000198,Clasificación técnica,Bloque de contacto normalmente abierto,
+MAT-000198,Color,Negro / verde,
+MAT-000198,Datos técnicos de catálogo,1 contacto normalmente abierto; torque de apriete 0.9 N·m; IP20; reemplaza CBK-CB10 | CE; cULus; UKCA; IP20 | Bloque de contacto normalmente abierto,
+MAT-000198,Descripción técnica complementaria,"Bloque de contacto ABB 1 NA (1 NO), montaje frontal. 1 contacto normalmente abierto; torque de apriete 0.9 N·m; IP20; reemplaza CBK-CB10. Construcción/material: Bloque de contacto modular.",
+MAT-000198,Función técnica,Cierra el circuito cuando el operador mecánico lo acciona.,
+MAT-000198,Marcado y datos de empaque,Marca: ABB | Modelo: MCB-10 | P/N: 1SFA611610R1001 | Presentación: Bolsa QTY 10,
+MAT-000198,Material y construcción,Bloque de contacto modular,
+MAT-000198,Normas y certificaciones,CE; cULus; UKCA; IP20,
+MAT-000198,País de origen,Suecia,
+MAT-000198,Presentación registrada,Bolsa QTY 10,
+MAT-000199,Clasificación técnica,Bloque de contacto normalmente cerrado,
+MAT-000199,Color,Negro / rojo,
+MAT-000199,Datos técnicos de catálogo,1 contacto normalmente cerrado; torque de apriete 0.9 N·m; IP20; reemplaza CBK-CB01 | CE; cULus; UKCA; IP20 | Bloque de contacto normalmente cerrado,
+MAT-000199,Descripción técnica complementaria,"Bloque de contacto ABB 1 NC, montaje frontal. 1 contacto normalmente cerrado; torque de apriete 0.9 N·m; IP20; reemplaza CBK-CB01. Construcción/material: Bloque de contacto modular.",
+MAT-000199,Función técnica,Abre el circuito cuando el operador mecánico lo acciona.,
+MAT-000199,Marcado y datos de empaque,Marca: ABB | Modelo: MCB-01 | P/N: 1SFA611610R1010 | Presentación: Bolsa QTY 10,
+MAT-000199,Material y construcción,Bloque de contacto modular,
+MAT-000199,Normas y certificaciones,CE; cULus; UKCA; IP20,
+MAT-000199,País de origen,Suecia,
+MAT-000199,Presentación registrada,Bolsa QTY 10,
+MAT-000200,Alimentación y señal,Sensor resistivo NTC; 2 conductores; sin polaridad funcional,
+MAT-000200,Capacidad o rango,Rango -50 a 200 °C,
+MAT-000200,Clasificación técnica,Sonda NTC de temperatura,
+MAT-000200,Color,Blanco / cápsula metálica,
+MAT-000200,Datos técnicos de catálogo,NTC 10 kΩ a 25 °C; precisión 1% FS; respuesta <10 s según fabricante | Sonda NTC de temperatura,
+MAT-000200,Descripción técnica complementaria,"Sensor de temperatura NTC Full Gauge SB-59, cápsula inoxidable. NTC 10 kΩ a 25 °C; precisión 1% FS; respuesta <10 s según fabricante. Construcción/material: Cápsula de acero inoxidable; cable de silicona blanco.",
+MAT-000200,Dimensiones y espesor,Cápsula aprox. 32 mm; Ø principal aprox. 4.7 mm,
+MAT-000200,Función técnica,Convierte la temperatura en una variación de resistencia leída por el controlador.,
+MAT-000200,Limitación documentada,Longitud total del cable de esta unidad no confirmada.,
+MAT-000200,Marcado y datos de empaque,Marca: Full Gauge Controls | Modelo: SB-59 | P/N: SB-59 | Medida/rango: Rango -50 a 200 °C | Alimentación/señal: Sensor resistivo NTC; 2 conductores; sin polaridad funcional,
+MAT-000200,Material y construcción,Cápsula de acero inoxidable; cable de silicona blanco,
+MAT-000201,Alimentación y señal,2 conductores; tecnología del sensor por determinar,
+MAT-000201,Capacidad o rango,Elemento sensor y rango no determinados,
+MAT-000201,Clasificación técnica,Sonda de temperatura de penetración,
+MAT-000201,Color,Negro / azul / acero,
+MAT-000201,Condición técnica documentada,"125 °C y VW-1 corresponden al tubo termocontraíble, no al rango del sensor.",
+MAT-000201,Conexión e interfaz,"Cable MAXCABLE 8451, 2C x 22 AWG, blindado",
+MAT-000201,Datos técnicos de catálogo,"Vástago metálico rígido terminado en punta; cable de instrumentación 2C x 22 AWG; blindado | VW-1 aplica al termocontraíble, no al sensor | Sonda de temperatura de penetración",
+MAT-000201,Descripción técnica complementaria,Sonda industrial de temperatura de penetración con cable MAXCABLE 8451. Vástago metálico rígido terminado en punta; cable de instrumentación 2C x 22 AWG; blindado. Construcción/material: Vástago metálico; cable MAXCABLE; termocontraíble WOER RSFR-H.,
+MAT-000201,Dimensiones y espesor,Vástago rígido terminado en punta; longitud no medida,
+MAT-000201,Función técnica,Mide temperatura interna mediante inserción del vástago en el producto/material.,
+MAT-000201,Limitación documentada,Elemento sensible pendiente: Pt100/Pt1000/NTC/termopar u otro. Medir resistencia a temperatura ambiente.,
+MAT-000201,Marcado y datos de empaque,Marca: No identificada (sensor) | Código secundario: Cable: MAXCABLE 8451 2C 22; termocontraíble WOER RSFR-H TUBE 125°C VW-1 H(10) | Medida/rango: Elemento sensor y rango no determinados | Alimentación/señal: 2 conductores; tecnología del sensor por determinar,
+MAT-000201,Material y construcción,Vástago metálico; cable MAXCABLE; termocontraíble WOER RSFR-H,
+MAT-000201,Normas y certificaciones,"VW-1 aplica al termocontraíble, no al sensor",
+MAT-000201,Recubrimiento y acabado,Termocontraíble WOER RSFR-H; 125 °C; VW-1,
+MAT-000202,Alimentación y señal,Tensión operacional máxima documentada: 300 V AC/DC,
+MAT-000202,Clasificación técnica,Selector compacto de panel,
+MAT-000202,Color,Negro,
+MAT-000202,Condición técnica documentada,Fecha impresa en el empaque: 25.02.26; no se asume como fecha de fabricación.,
+MAT-000202,Datos técnicos de catálogo,"3 posiciones mantenidas; 2 contactos NA; maneta corta negra; no iluminado | IEC 60947-5-1; GB/T 14048.5; UL Type 1,3R,4,4X,12,13; CE; cULus; UKCA | Selector compacto de panel",
+MAT-000202,Descripción técnica complementaria,"Selector compacto ABB de 3 posiciones mantenidas, 2 NA. 3 posiciones mantenidas; 2 contactos NA; maneta corta negra; no iluminado. Construcción/material: Selector compacto de panel.",
+MAT-000202,Función técnica,Selecciona manualmente tres posiciones mantenidas con dos contactos NA integrados.,
+MAT-000202,Marcado y datos de empaque,Marca: ABB | Modelo: C3SS1-10B-20 | P/N: 1SFA619210R1026 | Alimentación/señal: Tensión operacional máxima documentada: 300 V AC/DC | Presentación: QTY 10 según empaque,
+MAT-000202,Material y construcción,Selector compacto de panel,
+MAT-000202,Normas y certificaciones,"IEC 60947-5-1; GB/T 14048.5; UL Type 1,3R,4,4X,12,13; CE; cULus; UKCA",
+MAT-000202,País de origen,China,
+MAT-000202,Presentación registrada,QTY 10 según empaque,
+MAT-000203,Capacidad o rango,DN32; PN16; Kvs 16 m³/h; 2…130 °C,
+MAT-000203,Clasificación técnica,Válvula de control de asiento de 3 vías,
+MAT-000203,Color,Metálico,
+MAT-000203,Datos técnicos de catálogo,Válvula de asiento 3 vías; rosca interna; Kvs 16 m³/h; función de mezcla | Válvula de control de asiento de 3 vías,
+MAT-000203,Descripción técnica complementaria,"Válvula de control Danfoss VRB 3, 3 vías, DN32, PN16. Válvula de asiento 3 vías; rosca interna; Kvs 16 m³/h; función de mezcla. Construcción/material: Cuerpo de válvula industrial.",
+MAT-000203,Dimensiones y espesor,DN32; PN16; Kvs 16 m³/h,
+MAT-000203,Función técnica,Modula o mezcla caudal en circuitos térmicos mediante un actuador compatible.,
+MAT-000203,Marcado y datos de empaque,Marca: Danfoss | Modelo: VRB 3 | P/N: 065Z0218 | Medida/rango: DN32; PN16; Kvs 16 m³/h; 2…130 °C,
+MAT-000203,Material y construcción,Cuerpo de válvula industrial,
+MAT-000203,País de origen,Eslovenia,
+MAT-000204,Alimentación y señal,Variante documentada: 12 V; confirmar contra etiqueta de equipo antes de montaje,
+MAT-000204,Clasificación técnica,Controlador para rack/central de refrigeración,
+MAT-000204,Color,Negro,
+MAT-000204,Datos técnicos de catálogo,Control de compresores y ventiladores; entradas de presión/temperatura según configuración | CE; EAC; cURus visibles en empaque | Controlador para rack/central de refrigeración,
+MAT-000204,Descripción técnica complementaria,Controlador electrónico para central frigorífica Emerson/Dixell XC650CX-0C05F. Control de compresores y ventiladores; entradas de presión/temperatura según configuración. Construcción/material: Controlador electrónico.,
+MAT-000204,Función técnica,Gestiona secuencias de compresores y ventiladores usando señales de presión/temperatura.,
+MAT-000204,Limitación documentada,Confirmar la alimentación exacta de la variante física antes de instalar.,
+MAT-000204,Marcado y datos de empaque,Marca: Emerson / Dixell | Modelo: XC650CX-0C05F | P/N: XC650CX-0C05F | Código secundario: Lot: 02/2023 | Alimentación/señal: Variante documentada: 12 V; confirmar contra etiqueta de equipo antes de montaje | Lote/serie: Lot: 02/2023,
+MAT-000204,Material y construcción,Controlador electrónico,
+MAT-000204,Normas y certificaciones,CE; EAC; cURus visibles en empaque,
+MAT-000205,Alimentación y señal,10–30 VDC; conector M12,
+MAT-000205,Capacidad o rango,Sn 8 mm,
+MAT-000205,Clasificación técnica,Sensor inductivo de proximidad,
+MAT-000205,Color,Metálico,
+MAT-000205,Datos técnicos de catálogo,No enrasado; distancia nominal 8 mm; salida PNP normalmente abierta; carga máx. 200 mA | CE; UKCA; EAC; UL; Class 2 visibles en empaque | Sensor inductivo de proximidad,
+MAT-000205,Descripción técnica complementaria,"Sensor inductivo Omron E2B-M12KN08-M1-B1, M12, PNP NA. No enrasado; distancia nominal 8 mm; salida PNP normalmente abierta; carga máx. 200 mA. Construcción/material: Sensor cilíndrico M12.",
+MAT-000205,Dimensiones y espesor,M12; Sn 8 mm,
+MAT-000205,Función técnica,Detecta objetos metálicos sin contacto mediante un campo electromagnético.,
+MAT-000205,Marcado y datos de empaque,Marca: Omron | Modelo: E2B-M12KN08-M1-B1 | P/N: E2B-M12KN08-M1-B1 | Medida/rango: Sn 8 mm | Alimentación/señal: 10–30 VDC; conector M12,
+MAT-000205,Material y construcción,Sensor cilíndrico M12,
+MAT-000205,Normas y certificaciones,CE; UKCA; EAC; UL; Class 2 visibles en empaque,
+MAT-000205,País de origen,Indonesia,
+MAT-000206,Clasificación técnica,Kit de reparación de válvula de refrigeración,
+MAT-000206,Color,Mixto,
+MAT-000206,Datos técnicos de catálogo,"Kit de servicio con sellos, juntas y componentes internos de válvula | Kit de reparación de válvula de refrigeración",
+MAT-000206,Descripción técnica complementaria,"Kit de reparación Danfoss para válvulas ICS 50 / ICLX 50. Kit de servicio con sellos, juntas y componentes internos de válvula. Construcción/material: Conjunto de sellos y piezas de servicio.",
+MAT-000206,Función técnica,Restituye sellado y componentes internos de servicio de válvulas ICS/ICLX 50.,
+MAT-000206,Limitación documentada,Mantener el kit completo; no separar componentes internos como ítems maestros.,
+MAT-000206,Marcado y datos de empaque,Marca: Danfoss | Modelo: Repair Kit | P/N: 027H5015 | Presentación: Kit completo | Lote/serie: Etiquetas internas: 520000701308; O.C. 0002341; 002000800016,
+MAT-000206,Material y construcción,Conjunto de sellos y piezas de servicio,
+MAT-000206,País de origen,Dinamarca,
+MAT-000206,Presentación registrada,Kit completo,
+MAT-000207,Capacidad o rango,48 in³,
+MAT-000207,Clasificación técnica,Núcleo desecante reemplazable,
+MAT-000207,Color,Blanco / azul,
+MAT-000207,Condición técnica documentada,"Envase indica uso con CFC, HCFC, HFC, aceite mineral y POE.",
+MAT-000207,Datos técnicos de catálogo,Núcleo desecante de 48 in³; alta capacidad de humedad; remoción de agua y ácido | Núcleo desecante reemplazable,
+MAT-000207,Descripción técnica complementaria,"Núcleo desecante Emerson H-48, alta capacidad de humedad y remoción de ácido. Núcleo desecante de 48 in³; alta capacidad de humedad; remoción de agua y ácido. Construcción/material: Núcleo desecante.",
+MAT-000207,Función técnica,Adsorbe humedad y ayuda a retirar ácidos/contaminantes del circuito frigorífico.,
+MAT-000207,Marcado y datos de empaque,Marca: Emerson Climate Technologies | Modelo: H-48 | P/N: H-48 | Medida/rango: 48 in³,
+MAT-000207,Material y construcción,Núcleo desecante,
+MAT-000208,Capacidad o rango,Familia 48 in³,
+MAT-000208,Clasificación técnica,Núcleo desecante reemplazable,
+MAT-000208,Color,Blanco / azul,
+MAT-000208,Condición técnica documentada,Apto para HCFC/HFC según envase; no usar con amoníaco.,
+MAT-000208,Datos técnicos de catálogo,80% tamiz molecular 3A + 20% alúmina activada; núcleo reemplazable | EAC visible en envase | Núcleo desecante reemplazable,
+MAT-000208,Descripción técnica complementaria,Núcleo desecante Sanhua SH48-A80 para filtro secador reemplazable. 80% tamiz molecular 3A + 20% alúmina activada; núcleo reemplazable. Construcción/material: Desecante 80/20.,
+MAT-000208,Función técnica,Adsorbe humedad y filtra contaminantes en carcasas de filtro secador reemplazable.,
+MAT-000208,Limitación documentada,Envase indica no usar con amoníaco.,
+MAT-000208,Marcado y datos de empaque,Marca: Sanhua | Modelo: SH48-A80 | P/N: 202250009 | Código secundario: HTG-A80-010001 / D03HTGA8010001 | Medida/rango: Familia 48 in³,
+MAT-000208,Material y construcción,Desecante 80/20,
+MAT-000208,Normas y certificaciones,EAC visible en envase,
+MAT-000208,País de origen,China,
+MAT-000209,Clasificación técnica,Arnés eléctrico de interconexión,
+MAT-000209,Color,"Rojo, azul, negro y blanco",
+MAT-000209,Condición técnica documentada,No asignar equivalencia Molex/JST/Tamiya sin dimensiones o referencia.,
+MAT-000209,Conexión e interfaz,Conectores plásticos macho/hembra de 4 vías; terminales planos,
+MAT-000209,Datos técnicos de catálogo,"4 conductores: rojo, azul, negro y blanco; terminales planos; conectores plásticos de 4 vías | Arnés eléctrico de interconexión",
+MAT-000209,Descripción técnica complementaria,"Arnés eléctrico de 4 conductores con conectores macho/hembra de 4 vías. 4 conductores: rojo, azul, negro y blanco; terminales planos; conectores plásticos de 4 vías. Construcción/material: Cableado y conectores plásticos con terminales metálicos.",
+MAT-000209,Función técnica,Interconecta eléctricamente dos subconjuntos del equipo.,
+MAT-000209,Limitación documentada,"No asignar serie de conector, tensión, corriente ni equipo compatible sin referencia adicional.",
+MAT-000209,Marcado y datos de empaque,Marca: Marcación KATO visible (por confirmar),
+MAT-000209,Material y construcción,Cableado y conectores plásticos con terminales metálicos,
+MAT-000210,Alimentación y señal,Entrada 220 V; salida 12 V (tipo AC por confirmar),
+MAT-000210,Capacidad o rango,Potencia indicada: 350 W,
+MAT-000210,Clasificación técnica,Transformador monofásico reductor,
+MAT-000210,Color,Blanco,
+MAT-000210,Datos técnicos de catálogo,Transformador de núcleo laminado con carcasa metálica y orejas de fijación | Transformador monofásico reductor,
+MAT-000210,Descripción técnica complementaria,"Transformador reductor 220 V / 12 V, potencia indicada 350 W. Transformador de núcleo laminado con carcasa metálica y orejas de fijación. Construcción/material: Transformador seco convencional.",
+MAT-000210,Función técnica,Reduce la tensión de entrada para alimentar una carga de baja tensión.,
+MAT-000210,Limitación documentada,Etiqueta expresa 350 W; no convertir automáticamente a VA. Confirmar frecuencia y tipo de salida.,
+MAT-000210,Marcado y datos de empaque,Marca: No identificada | Medida/rango: Potencia indicada: 350 W | Alimentación/señal: Entrada 220 V; salida 12 V (tipo AC por confirmar),
+MAT-000210,Material y construcción,Transformador seco convencional,
+MAT-000211,Alimentación y señal,Entrada 440 V; salida 220 V,
+MAT-000211,Capacidad o rango,80 VA; 60 Hz,
+MAT-000211,Clasificación técnica,Transformador monofásico reductor 2:1,
+MAT-000211,Color,Crema,
+MAT-000211,Datos técnicos de catálogo,Transformador monofásico reductor 2:1 | Transformador monofásico reductor 2:1,
+MAT-000211,Descripción técnica complementaria,"Transformador monofásico AUDAX 80 VA, 440 V / 220 V, 60 Hz. Transformador monofásico reductor 2:1. Construcción/material: Transformador seco con núcleo laminado.",
+MAT-000211,Función técnica,Adapta 440 V a 220 V para circuitos/equipos auxiliares.,
+MAT-000211,Marcado y datos de empaque,Marca: AUDAX S.A. | P/N: RPN 150106850006B | Medida/rango: 80 VA; 60 Hz | Alimentación/señal: Entrada 440 V; salida 220 V,
+MAT-000211,Material y construcción,Transformador seco con núcleo laminado,
+MAT-000211,País de origen,Perú,
+MAT-000212,Capacidad o rango,Tamaño de boquilla 036; presión máx. 300 bar; temperatura máx. 80 °C,
+MAT-000212,Clasificación técnica,Boquilla triple profesional,
+MAT-000212,Color,Gris,
+MAT-000212,Conexión e interfaz,EASY!Lock,
+MAT-000212,Datos técnicos de catálogo,"Patrones 0°, 25° y 40°; selector manual; acero inoxidable según empaque | Boquilla triple profesional",
+MAT-000212,Descripción técnica complementaria,"Boquilla triple Kärcher 036, EASY!Lock. Patrones 0°, 25° y 40°; selector manual; acero inoxidable según empaque. Construcción/material: Conjunto de boquilla profesional.",
+MAT-000212,Dimensiones y espesor,Tamaño 036; máx. 300 bar; máx. 80 °C,
+MAT-000212,Función técnica,"Selecciona chorro puntual, chorro plano de alta presión o chorro de baja presión/detergente.",
+MAT-000212,Marcado y datos de empaque,Marca: Kärcher | Modelo: Triple Nozzle 036 | P/N: 4.117-031.0 | Medida/rango: Tamaño de boquilla 036; presión máx. 300 bar; temperatura máx. 80 °C,
+MAT-000212,Material y construcción,Conjunto de boquilla profesional,
+MAT-000212,País de origen,Alemania,
+MAT-000212,Recubrimiento y acabado,Acero inoxidable según empaque,
+MAT-000213,Capacidad o rango,Boquilla Ø38; presión máx. de familia 300 bar; depósito aprox. 1 L según variante,
+MAT-000213,Clasificación técnica,Lanza generadora de espuma,
+MAT-000213,Color,Gris / blanco,
+MAT-000213,Conexión e interfaz,EASY!Lock 1x360°,
+MAT-000213,Datos técnicos de catálogo,Conexión EASY!Lock; componentes de latón niquelado resistentes a detergente | Lanza generadora de espuma,
+MAT-000213,Descripción técnica complementaria,"Lanza de espuma Kärcher Professional Advanced, boquilla Ø38, EASY!Lock. Conexión EASY!Lock; componentes de latón niquelado resistentes a detergente. Construcción/material: Latón niquelado y componentes resistentes a detergente.",
+MAT-000213,Dimensiones y espesor,Boquilla Ø38; presión máx. de familia 300 bar,
+MAT-000213,Función técnica,Dosifica aire/detergente y genera espuma para limpieza industrial.,
+MAT-000213,Limitación documentada,P/N exacto y variante de caudal pendientes; Kärcher dispone de más de una Advanced Ø38.,
+MAT-000213,Marcado y datos de empaque,Marca: Kärcher | Modelo: Foam Lance Advanced | Medida/rango: Boquilla Ø38; presión máx. de familia 300 bar; depósito aprox. 1 L según variante,
+MAT-000213,Material y construcción,Latón niquelado y componentes resistentes a detergente,
+MAT-000213,País de origen,Alemania,
+MAT-000213,Recubrimiento y acabado,Latón niquelado resistente a detergente,
+MAT-000214,Alimentación y señal,Contacto: 1 A a 30 VDC / 0.1 A a 120 VAC,
+MAT-000214,Clasificación técnica,Estación manual de iniciación de alarma,
+MAT-000214,Color,Rojo,
+MAT-000214,Datos técnicos de catálogo,Simple acción; versión en español; contacto normalmente abierto que cierra al activar | Certificaciones según documentación Mircom; empaque Made in Canada | Estación manual de iniciación de alarma,
+MAT-000214,Descripción técnica complementaria,"Estación manual de alarma contra incendio Mircom MS-401SU, simple acción, español. Simple acción; versión en español; contacto normalmente abierto que cierra al activar. Construcción/material: Estación manual metálica.",
+MAT-000214,Función técnica,Cierra un contacto de alarma al accionarse manualmente para iniciar la señal de incendio.,
+MAT-000214,Marcado y datos de empaque,Marca: Mircom | Modelo: MS-401SU | P/N: MS-401SU | Alimentación/señal: Contacto: 1 A a 30 VDC / 0.1 A a 120 VAC | Presentación: Made in Canada según empaque,
+MAT-000214,Material y construcción,Estación manual metálica,
+MAT-000214,Normas y certificaciones,Certificaciones según documentación Mircom; empaque Made in Canada,
+MAT-000214,País de origen,Canadá,
+MAT-000214,Presentación registrada,Made in Canada según empaque,
+MAT-000215,Capacidad o rango,"3""",
+MAT-000215,Clasificación técnica,Copla para conduit EMT/IMC/Rigid,
+MAT-000215,Color,Zincado,
+MAT-000215,Datos técnicos de catálogo,Copla con 4 tornillos prisioneros; UL/cUL; concrete-tight when taped | UL / cUL Listed; concrete tight when taped | Copla para conduit EMT/IMC/Rigid,
+MAT-000215,Descripción técnica complementaria,"Copla Eaton Crouse-Hinds 467 de 3"", tipo set-screw para EMT/IMC/Rigid. Copla con 4 tornillos prisioneros; UL/cUL; concrete-tight when taped. Construcción/material: Acero zincado.",
+MAT-000215,Dimensiones y espesor,"Tamaño comercial 3""",
+MAT-000215,Función técnica,Une dos tramos de conduit y los fija mediante tornillos prisioneros.,
+MAT-000215,Marcado y datos de empaque,"Marca: Eaton Crouse-Hinds | Modelo: 467 | P/N: 467 | Código secundario: UPC 784564104670 | Medida/rango: 3"" | Presentación: Caja x1; Made in India según etiqueta",
+MAT-000215,Material y construcción,Acero zincado,
+MAT-000215,Normas y certificaciones,UL / cUL Listed; concrete tight when taped,
+MAT-000215,País de origen,India,
+MAT-000215,Presentación registrada,Caja x1; Made in India según etiqueta,
+MAT-000215,Recubrimiento y acabado,Acero zincado,
+MAT-000216,Alimentación y señal,12 V visible en conexiones de placa,
+MAT-000216,Capacidad o rango,Fecha PCB 2019-04-16,
+MAT-000216,Clasificación técnica,Tarjeta de comunicación e interfaz I/O,
+MAT-000216,Color,PCB azul,
+MAT-000216,Conexión e interfaz,Link MAIN.BD; Photo A/B; STOP; START; INTERLOCK; OP1; ALARM.C; METAL; motores sort,
+MAT-000216,Datos técnicos de catálogo,"Entradas/salidas para Photo A/B, START, STOP, INTERLOCK, OP1, ALARM.C, METAL; relés y control de motores | Tarjeta de comunicación e interfaz I/O",
+MAT-000216,Descripción técnica complementaria,"Tarjeta de comunicación e interfaz I/O INTECH INT910S Rev.8. Entradas/salidas para Photo A/B, START, STOP, INTERLOCK, OP1, ALARM.C, METAL; relés y control de motores. Construcción/material: PCB industrial.",
+MAT-000216,Dimensiones y espesor,Fecha PCB 2019.4.16,
+MAT-000216,Función técnica,Expande comunicaciones y E/S de campo del sistema de pesaje/checkweigher.,
+MAT-000216,Marcado y datos de empaque,Marca: INTECH | Modelo: INT910S | P/N: INT910S Rev.8 | Código secundario: BI002560004 | Medida/rango: Fecha PCB 2019-04-16 | Alimentación/señal: 12 V visible en conexiones de placa,
+MAT-000216,Material y construcción,PCB industrial,
+MAT-000217,Alimentación y señal,+12 V / GND / -12 V visible en placa,
+MAT-000217,Capacidad o rango,Fecha PCB 2022-12,
+MAT-000217,Clasificación técnica,Tarjeta principal de control,
+MAT-000217,Color,PCB azul,
+MAT-000217,Conexión e interfaz,RS232; RS485; INVERTER; DOWNLOAD; START/STOP; múltiples E/S,
+MAT-000217,Datos técnicos de catálogo,Main control board; ADC; RS232/RS485; entradas/salidas; microcontrolador principal; interfaz inverter | Tarjeta principal de control,
+MAT-000217,Descripción técnica complementaria,Tarjeta principal de control INTECH INT902 Rev.9. Main control board; ADC; RS232/RS485; entradas/salidas; microcontrolador principal; interfaz inverter. Construcción/material: PCB industrial.,
+MAT-000217,Dimensiones y espesor,Fecha PCB 2022.12,
+MAT-000217,Función técnica,Ejecuta la lógica central y adquisición de señales de pesaje del checkweigher.,
+MAT-000217,Marcado y datos de empaque,Marca: INTECH | Modelo: INT902 | P/N: INT902 Rev.9 | Código secundario: BM402560158 | Medida/rango: Fecha PCB 2022-12 | Alimentación/señal: +12 V / GND / -12 V visible en placa,
+MAT-000217,Material y construcción,PCB industrial,
+MAT-000218,Alimentación y señal,24 Vac auxiliar visible,
+MAT-000218,Clasificación técnica,Tarjeta controladora de cargador de baterías,
+MAT-000218,Color,PCB verde,
+MAT-000218,Conexión e interfaz,Relés; fusibles; jumpers; entradas/salidas de control,
+MAT-000218,Datos técnicos de catálogo,3 relés; microcontrolador; fusibles; configuración mediante jumpers/selectores | Tarjeta controladora de cargador de baterías,
+MAT-000218,Descripción técnica complementaria,Tarjeta controladora Nuova Elettra NR-EPWSA-02 Rev. E. 3 relés; microcontrolador; fusibles; configuración mediante jumpers/selectores. Construcción/material: PCB industrial.,
+MAT-000218,Función técnica,"Supervisa y gobierna etapas de carga, contactores, temporización, ecualización y diagnóstico.",
+MAT-000218,Limitación documentada,No interpretar C.Q. 40/22 ni G.N. EP6 sin documentación específica.,
+MAT-000218,Marcado y datos de empaque,Marca: Nuova Elettra | Modelo: NR-EPWSA-02 | P/N: NR-EPWSA-02 Rev. E | Código secundario: Marcación interna C.Q. 40/22; G.N. EP6 | Alimentación/señal: 24 Vac auxiliar visible,
+MAT-000218,Material y construcción,PCB industrial,
+MAT-000219,Capacidad o rango,Capacidad compatible: 1.5 kg de SO₂; escala 0–1500 g,
+MAT-000219,Clasificación técnica,Kit de mantenimiento para sistema de dosificación SO₂,
+MAT-000219,Color,Mixto,
+MAT-000219,Datos técnicos de catálogo,"Incluye indicador de dosis 0–1500 g, válvula/purga, llave de gas, manguera/chicote y elementos de sellado | Kit de mantenimiento para sistema de dosificación SO₂",
+MAT-000219,Descripción técnica complementaria,"Kit de mantenimiento para sulfodosificador PROQUIVI de SO₂, capacidad 1.5 kg. Incluye indicador de dosis 0–1500 g, válvula/purga, llave de gas, manguera/chicote y elementos de sellado. Construcción/material: Conjunto de válvulas, sellos, manguera y escala.",
+MAT-000219,Dimensiones y espesor,Escala indicadora 0–1500 g,
+MAT-000219,Función técnica,"Restaura elementos de carga, purga, sellado y lectura de dosis del sulfodosificador.",
+MAT-000219,Limitación documentada,Falta código exacto de fabricante del kit completo.,
+MAT-000219,Marcado y datos de empaque,Marca: PROQUIVI | Modelo: Kit de mantenimiento | Medida/rango: Capacidad compatible: 1.5 kg de SO₂; escala 0–1500 g | Presentación: Kit,
+MAT-000219,Material y construcción,"Conjunto de válvulas, sellos, manguera y escala",
+MAT-000219,Presentación registrada,Kit,
+MAT-000220,Clasificación técnica,Válvula hidráulica de descenso tipo cartucho,
+MAT-000220,Color,Negro / latón / acero,
+MAT-000220,Conexión e interfaz,Cuerpo roscado; vástago mecánico; pasos hidráulicos y O-rings,
+MAT-000220,Datos técnicos de catálogo,Cuerpo roscado; vástago mecánico; múltiples pasos hidráulicos y O-rings | Válvula hidráulica de descenso tipo cartucho,
+MAT-000220,Descripción técnica complementaria,Válvula de descenso tipo cartucho para bomba hidráulica de transpaleta UMICRON. Cuerpo roscado; vástago mecánico; múltiples pasos hidráulicos y O-rings. Construcción/material: Cuerpo metálico con sellos elastoméricos.,
+MAT-000220,Función técnica,Abre el retorno de aceite para liberar presión y permitir el descenso de las horquillas.,
+MAT-000220,Limitación documentada,Modelo exacto de bomba/transpaleta compatible,
+MAT-000220,Marcado y datos de empaque,Marca: UMICRON | Modelo: Válvula #321 | P/N: #321 | Código secundario: Equivalente de familia: AC-321,
+MAT-000220,Material y construcción,Cuerpo metálico con sellos elastoméricos,
+MAT-000221,Capacidad o rango,0–2 bar / 0–30 psi,
+MAT-000221,Clasificación técnica,"Manómetro mecánico tipo Bourdon, relleno líquido",
+MAT-000221,Color,Acero / dial blanco,
+MAT-000221,Conexión e interfaz,Conexión radial inferior,
+MAT-000221,Datos técnicos de catálogo,"Manómetro mecánico tipo Bourdon; doble escala bar/psi; conexión radial inferior; relleno líquido | Manómetro mecánico tipo Bourdon, relleno líquido",
+MAT-000221,Descripción técnica complementaria,"Manómetro de presión DCI Dynamic, 0–2 bar / 0–30 psi, relleno líquido. Manómetro mecánico tipo Bourdon; doble escala bar/psi; conexión radial inferior; relleno líquido. Construcción/material: Caja metálica; conexión metálica.",
+MAT-000221,Función técnica,Convierte la presión del fluido en desplazamiento de la aguja mediante tubo Bourdon.,
+MAT-000221,Limitación documentada,"Diámetro de esfera, rosca y modelo exacto pendientes.",
+MAT-000221,Marcado y datos de empaque,Marca: DCI Dynamic | Medida/rango: 0–2 bar / 0–30 psi,
+MAT-000221,Material y construcción,Caja metálica; conexión metálica,
+MAT-000222,Clasificación técnica,Muelle del brazo regulador de tensión,
+MAT-000222,Color,Metálico,
+MAT-000222,Datos técnicos de catálogo,Muelle asociado al brazo regulador del sistema de tensión | Muelle del brazo regulador de tensión,
+MAT-000222,Descripción técnica complementaria,Muelle del brazo regulador de tensión para flejadora Reisopack. Muelle asociado al brazo regulador del sistema de tensión. Construcción/material: Acero inoxidable según registros de suministro.,
+MAT-000222,Función técnica,Aporta fuerza elástica al mecanismo de regulación/tensión del fleje.,
+MAT-000222,Marcado y datos de empaque,Marca: Reisopack | P/N: 290617,
+MAT-000222,Material y construcción,Acero inoxidable según registros de suministro,
+MAT-000222,País de origen,España,
+MAT-000223,Capacidad o rango,Compatible con fleje 12 mm,
+MAT-000223,Clasificación técnica,Mesa deslizante de cabezal de flejado,
+MAT-000223,Color,Metálico,
+MAT-000223,Datos técnicos de catálogo,Pieza deslizante del mecanismo/cabezal para fleje de 12 mm | Mesa deslizante de cabezal de flejado,
+MAT-000223,Descripción técnica complementaria,Mesa deslizante para fleje de 12 mm Reisopack. Pieza deslizante del mecanismo/cabezal para fleje de 12 mm. Construcción/material: Metal (hierro/acero según registros).,
+MAT-000223,Dimensiones y espesor,Compatible con fleje 12 mm,
+MAT-000223,Función técnica,Soporta y guía el fleje dentro del ciclo automático de alimentación/tensado/soldadura.,
+MAT-000223,Marcado y datos de empaque,Marca: Reisopack | P/N: AUT0204N | Medida/rango: Compatible con fleje 12 mm,
+MAT-000223,Material y construcción,Metal (hierro/acero según registros),
+MAT-000223,País de origen,España,
+MAT-000224,Clasificación técnica,Muelle para eje PET,
+MAT-000224,Color,Metálico,
+MAT-000224,Datos técnicos de catálogo,Muelle asociado al eje utilizado para fleje PET | Muelle para eje PET,
+MAT-000224,Descripción técnica complementaria,Muelle para eje de fleje PET Reisopack. Muelle asociado al eje utilizado para fleje PET,
+MAT-000224,Función técnica,Elemento elástico asociado al eje/sistema de fleje PET.,
+MAT-000224,Limitación documentada,"Dimensiones, material exacto y máquina compatible pendientes.",
+MAT-000224,Marcado y datos de empaque,Marca: Reisopack | P/N: AUT19036PET | Código secundario: Código interno visible: 520002100005,
+MAT-000224,País de origen,España,
+MAT-000225,Alimentación y señal,10–30 VDC; carga hasta 200 mA; cable directo aprox. 2 m,
+MAT-000225,Capacidad o rango,Distancia nominal 5 mm,
+MAT-000225,Clasificación técnica,Sensor inductivo de proximidad para árbol de levas,
+MAT-000225,Color,Negro / azul,
+MAT-000225,Datos técnicos de catálogo,PNP normalmente abierto; Sn 5 mm; 600 Hz; LED rojo; IP67; carcasa PBT | IP67 | Sensor inductivo de proximidad para árbol de levas,
+MAT-000225,Descripción técnica complementaria,Sensor inductivo de árbol de levas KFPS TL-E5PE1 para flejadora Reisopack. PNP normalmente abierto; Sn 5 mm; 600 Hz; LED rojo; IP67; carcasa PBT. Construcción/material: Sensor inductivo de proximidad.,
+MAT-000225,Dimensiones y espesor,Sn 5 mm,
+MAT-000225,Función técnica,Detecta la posición/paso del árbol de levas para sincronizar el ciclo de flejado.,
+MAT-000225,Marcado y datos de empaque,Marca: KFPS | Modelo: TL-E5PE1 | P/N: AUT1320NP | Medida/rango: Distancia nominal 5 mm | Alimentación/señal: 10–30 VDC; carga hasta 200 mA; cable directo aprox. 2 m,
+MAT-000225,Material y construcción,Sensor inductivo de proximidad,
+MAT-000225,Normas y certificaciones,IP67,
+MAT-000226,Clasificación técnica,Conjunto calefactor de soldadura térmica,
+MAT-000226,Color,Metálico,
+MAT-000226,Datos técnicos de catálogo,Conjunto montado de resistencia plana y soporte | Conjunto calefactor de soldadura térmica,
+MAT-000226,Descripción técnica complementaria,Kit de resistencia plana corta para soldadura térmica de fleje Reisopack. Conjunto montado de resistencia plana y soporte. Construcción/material: Soporte metálico y elemento calefactor.,
+MAT-000226,Función técnica,Calienta y funde superficialmente el fleje plástico para formar la unión térmica.,
+MAT-000226,Limitación documentada,No registrar 7 V / 100 W hasta confirmar que el elemento montado es exactamente AUT0409.,
+MAT-000226,Marcado y datos de empaque,Marca: Reisopack | Modelo: CNR0409KIT | P/N: CNR0409KIT | Presentación: Kit/conjunto montado,
+MAT-000226,Material y construcción,Soporte metálico y elemento calefactor,
+MAT-000226,País de origen,España,
+MAT-000226,Presentación registrada,Kit/conjunto montado,
+MAT-000227,Clasificación técnica,Transformador de calefacción/soldadura,
+MAT-000227,Color,Metálico,
+MAT-000227,Datos técnicos de catálogo,Transformador dedicado al circuito de calefacción/soldadura del cabezal | Transformador de calefacción/soldadura,
+MAT-000227,Descripción técnica complementaria,Transformador de soldadura/calefacción SABER TR02S-3PF para flejadora Reisopack. Transformador dedicado al circuito de calefacción/soldadura del cabezal. Construcción/material: Transformador industrial.,
+MAT-000227,Función técnica,Alimenta eléctricamente el circuito calefactor del cabezal de soldadura.,
+MAT-000227,Limitación documentada,Tensiones y potencia/VA exactas pendientes.,
+MAT-000227,Marcado y datos de empaque,Marca: SABER | Modelo: TR02S-3PF | P/N: AUT2402,
+MAT-000227,Material y construcción,Transformador industrial,
+MAT-000228,Capacidad o rango,250 mm; máx. 300 bar / 30 MPa / 4350 psi; máx. 155 °C,
+MAT-000228,Clasificación técnica,Lanza pulverizadora profesional,
+MAT-000228,Color,Gris / acero,
+MAT-000228,Conexión e interfaz,EASY!Lock; giro 360° bajo presión,
+MAT-000228,Datos técnicos de catálogo,Acero inoxidable; giro 360° bajo presión; no apta con point jet según empaque | Lanza pulverizadora profesional,
+MAT-000228,Descripción técnica complementaria,"Lanza pulverizadora giratoria Kärcher 250 mm, EASY!Lock. Acero inoxidable; giro 360° bajo presión; no apta con point jet según empaque. Construcción/material: Acero inoxidable.",
+MAT-000228,Dimensiones y espesor,250 mm; máx. 300 bar / 30 MPa / 4350 psi; máx. 155 °C,
+MAT-000228,Función técnica,Conduce el agua a alta presión y permite orientar la lanza durante la limpieza.,
+MAT-000228,Limitación documentada,Empaque indica: no apta con point jet.,
+MAT-000228,Marcado y datos de empaque,Marca: Kärcher | Modelo: Spray Lance 250 mm | P/N: 4.112-027.0 | Medida/rango: 250 mm; máx. 300 bar / 30 MPa / 4350 psi; máx. 155 °C,
+MAT-000228,Material y construcción,Acero inoxidable,
+MAT-000228,País de origen,Alemania,
+MAT-000228,Recubrimiento y acabado,Acero inoxidable,
+MAT-000229,Alimentación y señal,Excitación recomendada 5–10 VDC; máxima 15 V,
+MAT-000229,Capacidad o rango,Capacidad nominal 15 kg; IP67,
+MAT-000229,Clasificación técnica,Celda de carga monopunto,
+MAT-000229,Color,Aluminio,
+MAT-000229,Conexión e interfaz,Puente extensométrico; cable multiconductor,
+MAT-000229,Datos técnicos de catálogo,Single-point; salida nominal 2.0 mV/V; 5000 divisiones single-cell; cable 3 m | IP67; NTEP Class III 5000 divisiones single-cell (configuración indicada) | Celda de carga monopunto,
+MAT-000229,Descripción técnica complementaria,"Celda de carga monopunto Tedea-Huntleigh 1010, 15 kg, aluminio, IP67. Single-point; salida nominal 2.0 mV/V; 5000 divisiones single-cell; cable 3 m. Construcción/material: Aluminio.",
+MAT-000229,Dimensiones y espesor,Capacidad 15 kg; cable 3 m,
+MAT-000229,Función técnica,Convierte la deformación mecánica por carga en una señal eléctrica proporcional al peso.,
+MAT-000229,Marcado y datos de empaque,Marca: Vishay / Tedea-Huntleigh | Modelo: 1010 | P/N: 01010-015K-D5-60X | Código secundario: Lot/SN 90296796; Reference 202151IN | Medida/rango: Capacidad nominal 15 kg; IP67 | Alimentación/señal: Excitación recomendada 5–10 VDC; máxima 15 V | Presentación: QTY 1; Made in India | Lote/serie: Lot/SN 90296796; Reference 202151IN,
+MAT-000229,Material y construcción,Aluminio,
+MAT-000229,Normas y certificaciones,IP67; NTEP Class III 5000 divisiones single-cell (configuración indicada),
+MAT-000229,País de origen,India,
+MAT-000229,Presentación registrada,QTY 1; Made in India,
+MAT-000230,Alimentación auxiliar,24,VAC/DC
+MAT-000230,Ancho,35,mm
+MAT-000230,Condición de identificación,Identificación exacta por caja y placa.,
+MAT-000230,Corriente @25°C,18,A
+MAT-000230,Corriente @70°C,10,A
+MAT-000230,Corriente AC-51 @40°C,15,A
+MAT-000230,Diferenciador técnico,15 A AC-51 @40 °C; 7 modos de control; disipador integrado,
+MAT-000230,Entrada analógica,0–10 / 0–5 / 1–5,VDC
+MAT-000230,Frecuencia de red,45–65,Hz
+MAT-000230,Modos de control,Phase angle; 1x FC; 4x FC; 16x FC; AFC; Soft Start+16x FC; Soft Start+AFC,
+MAT-000230,Número de polos,1,
+MAT-000230,Potencia indicada,1,HP @230 VAC
+MAT-000230,Protección contacto,IP20,
+MAT-000230,Tensión de bloqueo,800,Vp
+MAT-000230,Tensión de carga,85–265,VAC
+MAT-000231,Condición de identificación,La caja física marca 1 hueco; la referencia completa se infiere del catálogo.,
+MAT-000231,Diámetro de perforación,22,mm
+MAT-000231,Diferenciador técnico,1 hueco Ø22 mm,
+MAT-000231,Dimensiones aprox.,70×70×63,mm
+MAT-000231,Material,ABS,
+MAT-000231,Número de puestos,1,
+MAT-000231,Peso aprox.,100,g
+MAT-000231,Resistencia mecánica,IK09,
+MAT-000232,Caudal máx.,21.5,CFM
+MAT-000232,Condición de identificación,La ficha actual de la variante B40-B00 publica 0.09 A nominal; se conserva 0.12 A como dato de placa del equipo inventariado.,
+MAT-000232,Conductores,Rojo (+) / Negro (-),
+MAT-000232,Corriente de placa,0.12,A
+MAT-000232,Diferenciador técnico,Placa 0.12 A; 2 hilos rojo/negro,
+MAT-000232,Dimensiones,60×60×25,mm
+MAT-000232,Presión estática máx.,51.9,Pa
+MAT-000232,Reemplazo sugerido por fabricante,06025SA-24N-AA-D0,
+MAT-000232,Rodamiento,Bolas,
+MAT-000232,Tensión nominal,24,VDC
+MAT-000232,Velocidad aprox.,4550,rpm
+MAT-000232,Vida L10 @25°C,100000,h
+MAT-000233,Caudal máx.,9.5,CFM
+MAT-000233,Condición de identificación,Corriente típica documentada 0.06 A; etiqueta marca 0.12 A.,
+MAT-000233,Corriente máxima/etiqueta,0.12,A
+MAT-000233,Corriente típica,0.06,A
+MAT-000233,Diferenciador técnico,8000 rpm aprox.; 0.12 A marcado como máximo,
+MAT-000233,Dimensiones,40×40×10,mm
+MAT-000233,Presión estática,6.42,mmH2O
+MAT-000233,Rodamiento,Bolas,
+MAT-000233,Ruido,35.5,dBA
+MAT-000233,Tensión nominal,12,VDC
+MAT-000233,Velocidad aprox.,8000,rpm
+MAT-000234,Código de pedido,929000299902,
+MAT-000234,Código producto,871829172928000,
+MAT-000234,Compatibilidad,MASTER LEDtube T8 EM/Mains,
+MAT-000234,Diámetro aprox.,21.5,mm
+MAT-000234,Diferenciador técnico,No es starter fluorescente convencional,
+MAT-000234,Longitud aproximada,34.5,mm
+MAT-000234,Peso aprox.,3,g
+MAT-000235,Altura barrera,25,mm
+MAT-000235,Compatibilidad observada,XT1,
+MAT-000235,Diferenciador técnico,Kit trifásico; altura 25 mm,
+MAT-000235,Familia compatible,SACE Tmax XT,
+MAT-000235,Función,Separación/aislamiento entre fases,
+MAT-000235,Número de polos,3,
+MAT-000236,Capacidad,32,GB
+MAT-000236,Condición de identificación,No se encontró una ficha pública exacta de la variante SLC; no se cargaron velocidades ni endurance no verificadas.,
+MAT-000236,Diferenciador técnico,32 GB; SATA III; SLC,
+MAT-000236,Formato,2.5,in
+MAT-000236,Interfaz,SATA III,
+MAT-000236,Tipo NAND,SLC,
+MAT-000237,Color,Blanco,
+MAT-000237,Corriente nominal,24,A
+MAT-000237,Diferenciador técnico,2.5 mm²; 24 A; 250 V,
+MAT-000237,Normas,EN 60998-2-1,
+MAT-000237,Número de elementos,12,
+MAT-000237,Sección,2.5,mm²
+MAT-000237,Temperatura material,-25 a +100,°C
+MAT-000237,Tensión de aislamiento,250,V
+MAT-000238,Compatibilidad,AF09…AF96,
+MAT-000238,Configuración de contactos,1NO / 0NC,
+MAT-000238,Corriente AC-15 @400/440V,3,A
+MAT-000238,Corriente térmica Ith,16,A
+MAT-000238,Diferenciador técnico,1 NO; montaje frontal,
+MAT-000238,Montaje,Frontal,
+MAT-000238,Tensión de aislamiento Ui,690,V
+MAT-000238,Terminal,Tornillo,
+MAT-000239,Color,Blanco,
+MAT-000239,Condición de identificación,"Referencia inferida por familia, color y sección. Se conservan los valores grabados en la pieza, no los de generaciones modernas.",
+MAT-000239,Corriente de placa,60,A
+MAT-000239,Diferenciador técnico,60 A / 380 V / 25 mm² impresos en la pieza,
+MAT-000239,Sección,25,mm²
+MAT-000239,Tensión de placa,380,V
+MAT-000240,Condición de identificación,La referencia exacta no se ve en la foto; identificación por geometría y familia.,
+MAT-000240,Corriente nominal IEC,16,A
+MAT-000240,Diferenciador técnico,16 polos; CAGE CLAMP; color naranja,
+MAT-000240,Inflamabilidad,UL94 V-0,
+MAT-000240,Material carcasa,PA66,
+MAT-000240,Número de polos,16,
+MAT-000240,Paso,5.08,mm
+MAT-000240,Sección máxima,2.5,mm²
+MAT-000240,Sistema de conexión,CAGE CLAMP,
+MAT-000240,Temperatura límite,-60 a +85,°C
+MAT-000240,Tensión de impulso,4,kV
+MAT-000240,Tensión nominal IEC,320,V
+MAT-000241,Clase de disparo,10,A
+MAT-000241,Compensación temperatura,-20 a +60,°C
+MAT-000241,Contactos auxiliares,1NO + 1NC,
+MAT-000241,Diferenciador técnico,Rango 37–50 A; clase 10A,
+MAT-000241,Rango de ajuste,37–50,A
+MAT-000241,Tensión circuito potencia máx.,690,VAC
+MAT-000241,Terminales,EverLink,
+MAT-000242,Auxiliares integrados,1NO + 1NC,
+MAT-000242,Corriente AC-3,32,A
+MAT-000242,Diferenciador técnico,32 A; bobina M7 = 220 VAC 50/60 Hz,
+MAT-000242,Frecuencia de bobina,50/60 Hz,
+MAT-000242,Polos principales,3,
+MAT-000242,Potencia motor @220/230V,7.5,kW
+MAT-000242,Potencia motor @400V,15,kW
+MAT-000242,Tensión de bobina,220,VAC
+MAT-000242,Terminal potencia,Tornillo,
+MAT-000243,Ancho aprox.,55,mm
+MAT-000243,Auxiliares integrados,1NO + 1NC,
+MAT-000243,Corriente AC-3,65,A
+MAT-000243,Diferenciador técnico,65 A; 30 kW/400 V; EverLink; bobina 220 VAC,
+MAT-000243,Frecuencia de bobina,50/60 Hz,
+MAT-000243,Polos principales,3,
+MAT-000243,Potencia motor @220/230V,18.5,kW
+MAT-000243,Potencia motor @400V,30,kW
+MAT-000243,Potencia motor @500V,37,kW
+MAT-000243,Tensión de bobina,220,VAC
+MAT-000243,Terminal potencia,EverLink,
+MAT-000244,Ancho aprox.,55,mm
+MAT-000244,Auxiliares integrados,1NO + 1NC,
+MAT-000244,Corriente AC-3,40,A
+MAT-000244,Diferenciador técnico,40 A; 18.5 kW/400 V; EverLink; bobina 220 VAC,
+MAT-000244,Frecuencia de bobina,50/60 Hz,
+MAT-000244,Polos principales,3,
+MAT-000244,Potencia motor @220/230V,11,kW
+MAT-000244,Potencia motor @400V,18.5,kW
+MAT-000244,Potencia motor @415/440V,22,kW
+MAT-000244,Tensión de bobina,220,VAC
+MAT-000244,Terminal potencia,EverLink,
+MAT-000245,Clase de disparo,10,A
+MAT-000245,Diferenciador técnico,Rango 48–65 A; clase 10A,
+MAT-000245,Rango de ajuste,48–65,A
+MAT-000245,Terminales,EverLink,
+MAT-000246,Categoría de empleo,AC-6b,
+MAT-000246,Contactos auxiliares,1NO + 2NC,
+MAT-000246,Diferenciador técnico,AC-6b; contactos de cierre anticipado y resistencias de amortiguamiento,
+MAT-000246,Frecuencia de bobina,50/60,Hz
+MAT-000246,Polos principales,3,
+MAT-000246,Potencia reactiva @400V,25,kVAr
+MAT-000246,Potencia reactiva @440V,27,kVAr
+MAT-000246,Potencia reactiva @690V,42,kVAr
+MAT-000246,Protección de inrush,Contactos anticipados + resistencias,
+MAT-000246,Tensión de bobina,220,VAC
+MAT-000246,Terminal,Tornillo,
+MAT-000247,Color,RAL 7035,
+MAT-000247,Corte de montaje,125×125,mm
+MAT-000247,Diferenciador técnico,IP54; corte 125×125 mm; RAL 7035,
+MAT-000247,Filtro,G2 M1,
+MAT-000247,Función,Salida pasiva de aire,
+MAT-000247,Grado de protección,IP54,
+MAT-000248,Conexiones por barra,7,
+MAT-000248,Corriente nominal @40°C,100,A
+MAT-000248,Diferenciador técnico,100 A @40 °C; Ipk 20 kA; 4 polos,
+MAT-000248,Ipk,20,kA
+MAT-000248,Normas,EN 60947-1,
+MAT-000248,Número de polos,4,
+MAT-000248,Tensión de aislamiento Ui,500,V
+MAT-000249,Ancho,8,módulos
+MAT-000249,Conexiones por barra,15,
+MAT-000249,Corriente nominal @40°C,125,A
+MAT-000249,Diferenciador técnico,125 A @40 °C; Ui 500 V; Ipk 26 kA; Icw 4.5 kA,
+MAT-000249,Entrada conductor flexible,6–25,mm²
+MAT-000249,Entrada conductor rígido,10–35,mm²
+MAT-000249,Icw 1s,4.5,kA
+MAT-000249,Ipk,26,kA
+MAT-000249,Número de polos,4,
+MAT-000249,Par de apriete,2,N·m
+MAT-000249,Tensión de aislamiento Ui,500,V
+MAT-000250,Compatibilidad,Harmony XB5,
+MAT-000250,Condición de identificación,La referencia exacta no es visible en la foto.,
+MAT-000250,Diámetro operador,22,mm
+MAT-000250,Diferenciador técnico,1 perforación Ø22 mm,
+MAT-000250,Material,Plástico,
+MAT-000250,Número de perforaciones,1,
+MAT-000251,Auxiliares integrados,1NO + 1NC,
+MAT-000251,Corriente AC-3,18,A
+MAT-000251,Diferenciador técnico,18 A; M7 = 220 VAC 50/60 Hz,
+MAT-000251,Frecuencia de bobina,50/60 Hz,
+MAT-000251,Polos principales,3,
+MAT-000251,Potencia motor @400V,7.5,kW
+MAT-000251,Tensión de bobina,220,VAC
+MAT-000252,Auxiliares integrados,1NO + 1NC,
+MAT-000252,Corriente AC-3,18,A
+MAT-000252,Diferenciador técnico,18 A; R7 = 440 VAC 50/60 Hz,
+MAT-000252,Frecuencia de bobina,50/60 Hz,
+MAT-000252,Polos principales,3,
+MAT-000252,Potencia motor @400V,7.5,kW
+MAT-000252,Tensión de bobina,440,VAC
+MAT-000253,Auxiliares integrados,1NO + 1NC,
+MAT-000253,Corriente AC-3,12,A
+MAT-000253,Diferenciador técnico,12 A; M7 = 220 VAC 50/60 Hz,
+MAT-000253,Frecuencia de bobina,50/60 Hz,
+MAT-000253,Polos principales,3,
+MAT-000253,Potencia motor @400V,5.5,kW
+MAT-000253,Tensión de bobina,220,VAC
+MAT-000254,Auxiliares integrados,1NO + 1NC,
+MAT-000254,Corriente AC-3,12,A
+MAT-000254,Diferenciador técnico,12 A; R7 = 440 VAC 50/60 Hz,
+MAT-000254,Frecuencia de bobina,50/60 Hz,
+MAT-000254,Polos principales,3,
+MAT-000254,Potencia motor @400V,5.5,kW
+MAT-000254,Tensión de bobina,440,VAC
+MAT-000255,Auxiliares integrados,1NO + 1NC,
+MAT-000255,Consumo de bobina,2.4,W
+MAT-000255,Corriente AC-3,12,A
+MAT-000255,Diferenciador técnico,Bobina 24 VDC; 2.4 W,
+MAT-000255,Polos principales,3,
+MAT-000255,Potencia motor @400V,5.5,kW
+MAT-000255,Tensión de bobina,24,VDC
+MAT-000256,Auxiliares integrados,1NO,
+MAT-000256,Corriente AC-3,12,A
+MAT-000256,Diferenciador técnico,12 A; bobina 220 VAC 60 Hz; 1NA auxiliar,
+MAT-000256,Frecuencia de bobina,60,Hz
+MAT-000256,Polos principales,3,
+MAT-000256,Potencia motor @400V,5.5,kW
+MAT-000256,Tensión de bobina,220,VAC
+MAT-000257,Auxiliares integrados,1NO + 1NC,
+MAT-000257,Corriente AC-3,18,A
+MAT-000257,Diferenciador técnico,Q7 = 380 VAC 50/60 Hz,
+MAT-000257,Frecuencia de bobina,50/60 Hz,
+MAT-000257,Polos principales,3,
+MAT-000257,Potencia motor @400V,7.5,kW
+MAT-000257,Tensión de bobina,380,VAC
+MAT-000258,Auxiliares integrados,1NO + 1NC,
+MAT-000258,Corriente AC-3,32,A
+MAT-000258,Diferenciador técnico,Q7 = 380 VAC 50/60 Hz,
+MAT-000258,Frecuencia de bobina,50/60 Hz,
+MAT-000258,Polos principales,3,
+MAT-000258,Potencia motor @400V,15,kW
+MAT-000258,Tensión de bobina,380,VAC
+MAT-000259,Auxiliares integrados,1NO + 1NC,
+MAT-000259,Corriente AC-3,25,A
+MAT-000259,Diferenciador técnico,25 A; M7 = 220 VAC 50/60 Hz,
+MAT-000259,Frecuencia de bobina,50/60 Hz,
+MAT-000259,Polos principales,3,
+MAT-000259,Potencia motor @400V,11,kW
+MAT-000259,Tensión de bobina,220,VAC
+MAT-000260,Auxiliares integrados,1NO + 1NC,
+MAT-000260,Corriente AC-3,9,A
+MAT-000260,Diferenciador técnico,9 A; M7 = 220 VAC 50/60 Hz,
+MAT-000260,Frecuencia de bobina,50/60 Hz,
+MAT-000260,Polos principales,3,
+MAT-000260,Potencia motor @400V,4,kW
+MAT-000260,Tensión de bobina,220,VAC
+MAT-000261,Auxiliares integrados,1NO + 1NC,
+MAT-000261,Corriente AC-3,9,A
+MAT-000261,Diferenciador técnico,9 A; R7 = 440 VAC 50/60 Hz,
+MAT-000261,Frecuencia de bobina,50/60 Hz,
+MAT-000261,Polos principales,3,
+MAT-000261,Potencia motor @400V,4,kW
+MAT-000261,Tensión de bobina,440,VAC
+MAT-000262,Capacidad de corte Icu @415V,36,kA
+MAT-000262,Corriente nominal,63,A
+MAT-000262,Diferenciador técnico,Frame NSX100F; 3P3D; TM-D,
+MAT-000262,Frame,NSX100F,
+MAT-000262,Número de polos,3P3D,
+MAT-000262,Rango térmico Ir,44–63,A
+MAT-000262,Unidad de disparo,TM-D,
+MAT-000263,Capacidad de corte Icu @415V,36,kA
+MAT-000263,Corriente nominal,40,A
+MAT-000263,Diferenciador técnico,Frame NSX100F; 3P3D; TM-D,
+MAT-000263,Frame,NSX100F,
+MAT-000263,Número de polos,3P3D,
+MAT-000263,Rango térmico Ir,28–40,A
+MAT-000263,Unidad de disparo,TM-D,
+MAT-000264,Capacidad de corte Icu @415V,36,kA
+MAT-000264,Corriente nominal,80,A
+MAT-000264,Diferenciador técnico,Frame NSX100F; 3P3D; TM-D,
+MAT-000264,Frame,NSX100F,
+MAT-000264,Número de polos,3P3D,
+MAT-000264,Rango térmico Ir,56–80,A
+MAT-000264,Unidad de disparo,TM-D,
+MAT-000265,Capacidad de corte Icu @415V,36,kA
+MAT-000265,Corriente nominal,100,A
+MAT-000265,Diferenciador técnico,Frame NSX100F; 3P3D; TM-D,
+MAT-000265,Frame,NSX100F,
+MAT-000265,Número de polos,3P3D,
+MAT-000265,Rango térmico Ir,70–100,A
+MAT-000265,Unidad de disparo,TM-D,
+MAT-000266,Capacidad de corte Icu @415V,36,kA
+MAT-000266,Corriente nominal,250,A
+MAT-000266,Diferenciador técnico,250 A; Icu 36 kA @ 415 V; fijo; terminales frontales,
+MAT-000266,Frame,XT3,
+MAT-000266,Montaje,Fijo,
+MAT-000266,Nivel de corte,N,
+MAT-000266,Número de polos,3,
+MAT-000266,Rango térmico,175–250,A
+MAT-000266,Terminales,Frontales,
+MAT-000266,Unidad de disparo,TMD,
+MAT-000267,Capacidad de corte Icu @415V,50,kA
+MAT-000267,Corriente nominal,160,A
+MAT-000267,Diferenciador técnico,160 A; magnético 800–1600 A; Icu 50 kA @ 415 V,
+MAT-000267,Frame,XT2,
+MAT-000267,Montaje,Fijo,
+MAT-000267,Nivel de corte,S,
+MAT-000267,Número de polos,3,
+MAT-000267,Rango magnético,800–1600,A
+MAT-000267,Rango térmico,112–160,A
+MAT-000267,Terminales,Frontales,
+MAT-000267,Unidad de disparo,TMA,
+MAT-000268,Diferenciador técnico,10.4 kVAr @50 Hz; 12.5 kVAr @60 Hz,
+MAT-000268,Fases,3,
+MAT-000268,Normas,IEC 60831-1/-2,
+MAT-000268,Potencia reactiva @50Hz,10.4,kVAr
+MAT-000268,Potencia reactiva @60Hz,12.5,kVAr
+MAT-000268,Servicio,Heavy Duty,
+MAT-000268,Sobrecorriente continua admisible aprox.,1.8,x In
+MAT-000268,Tecnología,Polipropileno metalizado autorregenerativo,
+MAT-000268,Tensión nominal,480,VAC
+MAT-000269,Corriente entrada HD,6.1,A
+MAT-000269,Corriente entrada ND,7.2,A
+MAT-000269,Corriente salida HD,5.5,A
+MAT-000269,Corriente salida ND,6.5,A
+MAT-000269,Diferenciador técnico,ND 6.5 A salida; HD 5.5 A salida; 0–599 Hz,
+MAT-000269,Fases de entrada,3,
+MAT-000269,Filtro EMC integrado,No,
+MAT-000269,Frecuencia de entrada,50/60,Hz
+MAT-000269,Frecuencia de salida,0–599,Hz
+MAT-000269,Grado de protección,IP20,
+MAT-000269,Potencia de motor,2.2,kW
+MAT-000269,Potencia de motor,3,HP
+MAT-000269,Potencia salida HD,4.2,kVA
+MAT-000269,Potencia salida ND,5,kVA
+MAT-000269,Salida tensión,0–460,VAC
+MAT-000269,Tensión de entrada,380–480,VAC
+MAT-000269,Versión,2.02,
+MAT-000270,Corriente de entrada,5.2,A
+MAT-000270,Corriente nominal HD,4.3,A
+MAT-000270,Diferenciador técnico,Frame B; DB = transistor de frenado reostático; H00 sin plug-in,
+MAT-000270,Fases de entrada,3,
+MAT-000270,Frame,B,
+MAT-000270,Frecuencia de salida,0–500,Hz
+MAT-000270,Frenado reostático,Sí - transistor interno DB,
+MAT-000270,Generación,G2,
+MAT-000270,Grado de protección,IP20,
+MAT-000270,Módulo plug-in fábrica,H00 = ninguno,
+MAT-000270,Peso,1.715,kg
+MAT-000270,Resistencia de frenado,Externa,
+MAT-000270,Tensión de entrada,380–480,VAC
+MAT-000271,Bornes motor,U / V / W,
+MAT-000271,Condición de identificación,"Conservar HW-ID, P/N y revisión; no asumir intercambiabilidad por apariencia.",
+MAT-000271,Corriente canal 1,150,A
+MAT-000271,Corriente canal 2,150,A
+MAT-000271,Diferenciador técnico,24 V; 150 A + 150 A; bornes U/V/W visibles,
+MAT-000271,HW-ID,3903504228,
+MAT-000271,ID adicional,248506FF,
+MAT-000271,P/N visible,3903703006,
+MAT-000271,País de fabricación,Alemania,
+MAT-000271,Tensión,24,V
+MAT-000271,Tipo,LAC-02/27CC-1,
+MAT-000272,Corriente nominal HD,4.3,A
+MAT-000272,Diferenciador técnico,Frame A; NB = sin frenado reostático interno; H00 sin plug-in,
+MAT-000272,Fases de entrada,3,
+MAT-000272,Frame,A,
+MAT-000272,Frenado reostático,No - NB,
+MAT-000272,Generación,G2,
+MAT-000272,Grado de protección,IP20,
+MAT-000272,Módulo plug-in fábrica,H00 = ninguno,
+MAT-000272,Peso,1.175,kg
+MAT-000272,Tensión de entrada,380–480,VAC
+MAT-000273,Compatibilidad,LRD01…LRD35 / LR3D01…D35,
+MAT-000273,Diferenciador técnico,3 polos; terminales por tornillo,
+MAT-000273,Función,Montaje independiente de relé térmico,
+MAT-000273,Número de polos,3,
+MAT-000273,Terminal,Tornillo,
+MAT-000274,Corriente nominal,10,A
+MAT-000274,Curva de disparo,C,
+MAT-000274,Diferenciador técnico,3P; 10 A; curva C,
+MAT-000274,Familia,Acti9 iC60N,
+MAT-000274,Número de polos,3,
+MAT-000275,Fotografía de referencia,IMG_0FB7AAA0-4C72-4782-ABDF-AE1B428B3D8A.jpeg,
+MAT-000275,Fotografía de referencia,IMG_D9565513-7FE2-4542-BBC3-64CDEC87DAD6.jpeg,
+MAT-000275,Marcación de fabricante,6201-2Z,
+MAT-000275,País de fabricación observado,Argentina,
+MAT-000275,Diámetro interior,12,mm
+MAT-000275,Diámetro exterior,32,mm
+MAT-000275,Ancho,10,mm
+MAT-000275,Cierre,Dos blindajes metálicos 2Z,
+MAT-000275,Juego radial,CN (normal),
+MAT-000275,Peso,0.037,kg
+MAT-000275,Capacidad de carga dinámica C,7.28,kN
+MAT-000275,Capacidad de carga estática C0,3.1,kN
+MAT-000275,Carga límite de fatiga Pu,0.132,kN
+MAT-000275,Velocidad de referencia,50000,rpm
+MAT-000275,Velocidad límite,26000,rpm
+MAT-000275,Lubricación,Grasa,
+MAT-000275,Código adicional observado,036X; 65; 12 (sin interpretar como modelo),
+MAT-000276,Fotografía de referencia,IMG_1488A60A-BCB9-4AD5-B3F9-C27C600B1E50.jpeg,
+MAT-000276,Marcación de fabricante,6001-2RSH,
+MAT-000276,Diámetro interior,12,mm
+MAT-000276,Diámetro exterior,28,mm
+MAT-000276,Ancho,8,mm
+MAT-000276,Cierre,Dos sellos de contacto 2RSH,
+MAT-000276,Juego radial,CN (normal),
+MAT-000276,Peso,0.022,kg
+MAT-000276,Capacidad de carga dinámica C,5.4,kN
+MAT-000276,Capacidad de carga estática C0,2.36,kN
+MAT-000276,Carga límite de fatiga Pu,0.1,kN
+MAT-000276,Material del sello,NBR,
+MAT-000276,Lubricación,Grasa,
+MAT-000276,Código adicional observado,"294 R; país parcialmente legible, no confirmado",
+MAT-000277,Fotografía de referencia,IMG_58D74634-22FD-4830-93A7-EA4FFE2028A6.jpeg,
+MAT-000277,Marcación de fabricante,6202-2RSH/C3,
+MAT-000277,País de fabricación observado,Italia,
+MAT-000277,Diámetro interior,15,mm
+MAT-000277,Diámetro exterior,35,mm
+MAT-000277,Ancho,11,mm
+MAT-000277,Cierre,Dos sellos de contacto 2RSH,
+MAT-000277,Juego radial,C3,
+MAT-000277,Peso,0.046,kg
+MAT-000277,Capacidad de carga dinámica C,8.06,kN
+MAT-000277,Capacidad de carga estática C0,3.75,kN
+MAT-000277,Carga límite de fatiga Pu,0.16,kN
+MAT-000277,Velocidad límite,13000,rpm
+MAT-000277,Juego radial C3,11–25,µm
+MAT-000277,Juego CN de referencia,3–18,µm
+MAT-000277,Material del sello,NBR,
+MAT-000277,Jaula,Chapa de acero,
+MAT-000277,Lubricación,Grasa,
+MAT-000277,Restricción,Mantener separado del 6202 sin sufijo C3.,
+MAT-000278,Fotografía de referencia,IMG_74CD7B7E-0550-4960-AEE5-ED11F4C41C4D.jpeg,
+MAT-000278,Marcación de fabricante,6201-2RSH,
+MAT-000278,País de fabricación observado,Argentina,
+MAT-000278,Diámetro interior,12,mm
+MAT-000278,Diámetro exterior,32,mm
+MAT-000278,Ancho,10,mm
+MAT-000278,Cierre,Dos sellos de contacto 2RSH,
+MAT-000278,Juego radial,CN (normal),
+MAT-000278,Peso,0.038,kg
+MAT-000278,Capacidad de carga dinámica C,7.28,kN
+MAT-000278,Capacidad de carga estática C0,3.1,kN
+MAT-000278,Carga límite de fatiga Pu,0.132,kN
+MAT-000278,Velocidad límite,15000,rpm
+MAT-000278,Material del sello,NBR,
+MAT-000278,Jaula,Chapa de acero,
+MAT-000278,Lubricación,Grasa,
+MAT-000279,Fotografía de referencia,IMG_4B1A90C5-C66A-4106-9617-CA90C72EA3AA.jpeg,
+MAT-000279,Fotografía de referencia,IMG_B7250BFF-7A11-4B6B-BA92-317F34FAD8D3.jpeg,
+MAT-000279,Marcación de fabricante,"6201ZZ Ø 1/2""",
+MAT-000279,Condición de identificación,Diámetro de eje 1/2 pulgada: no fusionar con el 6201 métrico de 12 mm. Diámetro exterior y ancho pendientes de medición.,
+MAT-000279,Cierre,Dos blindajes metálicos ZZ,
+MAT-000279,Diámetro interior,12.7,mm
+MAT-000279,Diámetro interior en pulgadas,0.5,in
+MAT-000280,Fotografía de referencia,IMG_002EB00A-8677-4B7C-947A-505E1CE7EA30.jpeg,
+MAT-000280,Fotografía de referencia,IMG_E891C5E1-F02C-4100-85DE-7527F64EEDA6.jpeg,
+MAT-000280,Marcación de fabricante,6202ZZ,
+MAT-000280,Diámetro interior,15,mm
+MAT-000280,Diámetro exterior,35,mm
+MAT-000280,Ancho,11,mm
+MAT-000280,Cierre,Dos blindajes metálicos ZZ,
+MAT-000281,Fotografía de referencia,IMG_3CA68017-69D1-43CA-B33E-E359DCEC8B47.jpeg,
+MAT-000281,Fotografía de referencia,IMG_BE8E130B-489D-41DD-962B-E0CD908F2281.jpeg,
+MAT-000281,Marcación de fabricante,LM11749/10 en caja; LM11749 en cono,
+MAT-000281,Condición de identificación,Cotas nominales de la referencia LM11749/LM11710. No trasladar capacidades de carga de NSK a NAS.,
+MAT-000281,Diámetro interior,17.462,mm
+MAT-000281,Diámetro exterior,39.878,mm
+MAT-000281,Ancho total T,13.843,mm
+MAT-000281,Ancho del anillo interior B,14.605,mm
+MAT-000281,Ancho del anillo exterior C,10.668,mm
+MAT-000281,Configuración,Cono y copa separables; una hilera,
+MAT-000281,Referencia del cono,LM11749,
+MAT-000281,Referencia de copa,LM11710,
+MAT-000282,Fotografía de referencia,IMG_07D7ECDB-0B19-46C8-9108-6894876AEF38.jpeg,
+MAT-000282,Fotografía de referencia,IMG_34B56C80-E5AF-4861-AAE2-E3D6695E8BB6.jpeg,
+MAT-000282,Marcación de fabricante,6900LLUC3/5K,
+MAT-000282,Diámetro interior,10,mm
+MAT-000282,Diámetro exterior,22,mm
+MAT-000282,Ancho,6,mm
+MAT-000282,Cierre,Sellos de contacto LLU,
+MAT-000282,Juego radial,C3,
+MAT-000282,Sufijo conservado,/5K,
+MAT-000282,Presentación registrada,10 PCS impreso en caja; no equivale a conteo físico,
+MAT-000283,Fotografía de referencia,IMG_C6DEEB73-D9A4-4493-B4C2-9F18528D9D23.jpeg,
+MAT-000283,Fotografía de referencia,IMG_F1F3CF55-1203-4342-996F-58665A21ABAB.jpeg,
+MAT-000283,Marcación de fabricante,6900LLU/5K,
+MAT-000283,Diámetro interior,10,mm
+MAT-000283,Diámetro exterior,22,mm
+MAT-000283,Ancho,6,mm
+MAT-000283,Cierre,Sellos de contacto LLU,
+MAT-000283,Juego radial,CN (normal),
+MAT-000283,Presentación registrada,10 PCS impreso en caja; anotación 10 und,
+MAT-000283,Código interno observado,52-12-96,
+MAT-000283,Peso,0.009,kg
+MAT-000283,Capacidad de carga dinámica C,2.7,kN
+MAT-000283,Capacidad de carga estática C0,1.27,kN
+MAT-000283,Carga límite de fatiga Cu,0.06,kN
+MAT-000283,Velocidad límite con grasa,21000,rpm
+MAT-000283,Temperatura mínima,-25,°C
+MAT-000283,Temperatura máxima,110,°C
+MAT-000284,Fotografía de referencia,IMG_77CC4AC0-5AAB-470F-A0A4-6BA92655D41C.jpeg,
+MAT-000284,Marcación de fabricante,SS6003 2RS; SK-03,
+MAT-000284,Condición de identificación,Marca y grado exacto del inoxidable sin confirmar. No atribuir SK-03 a SKF.,
+MAT-000284,Diámetro interior,17,mm
+MAT-000284,Diámetro exterior,35,mm
+MAT-000284,Ancho,10,mm
+MAT-000284,Cierre,"Dos sellos 2RS, color azul",
+MAT-000284,Material,Versión inoxidable indicada por SS; grado no confirmado,
+MAT-000285,Fotografía de referencia,IMG_F2B037A5-FD65-4905-9A48-C9DB0FFCC54A.jpeg,
+MAT-000285,Marcación de fabricante,S6002 2RS; MINI R,
+MAT-000285,Condición de identificación,Se conserva la denominación previa SS6002-2RS como referencia alterna. La foto permite leer S6002 2RS. Marca y grado del inoxidable pendientes.,
+MAT-000285,Diámetro interior,15,mm
+MAT-000285,Diámetro exterior,32,mm
+MAT-000285,Ancho,9,mm
+MAT-000285,Cierre,"Dos sellos 2RS, color negro",
+MAT-000285,Material,Versión inoxidable por prefijo S; grado no confirmado,
+MAT-000286,Fotografía de referencia,IMG_AF03A2EC-58C1-41C8-BA14-A62F4DF94FBF.jpeg,
+MAT-000286,Marcación de fabricante,6205-2RSH/C3,
+MAT-000286,País de fabricación observado,Bulgaria,
+MAT-000286,Diámetro interior,25,mm
+MAT-000286,Diámetro exterior,52,mm
+MAT-000286,Ancho,15,mm
+MAT-000286,Cierre,Dos sellos de contacto 2RSH,
+MAT-000286,Juego radial,C3,
+MAT-000286,Fotografía de referencia,IMG_218796BD-216F-401A-B4C6-818547FB9E9C.jpeg,
+MAT-000287,Fotografía de referencia,IMG_6B2FD6D4-AF67-46FF-9FD1-121F12DF022D.jpeg,
+MAT-000287,Marcación de fabricante,6205-2RSH,
+MAT-000287,País de fabricación observado,Argentina,
+MAT-000287,Diámetro interior,25,mm
+MAT-000287,Diámetro exterior,52,mm
+MAT-000287,Ancho,15,mm
+MAT-000287,Cierre,Dos sellos de contacto 2RSH,
+MAT-000287,Juego radial,CN (normal),
+MAT-000287,Fotografía de referencia,IMG_2C1629B9-B847-4152-B281-1410D7D6743B.jpeg,
+MAT-000288,Fotografía de referencia,IMG_ADA95610-E60E-4068-8950-022623BC4C98.jpeg,
+MAT-000288,Marcación de fabricante,6004-2RSH/C3,
+MAT-000288,Condición de identificación,Referencia manuscrita sobre la caja. Confirmar grabado del rodamiento antes de comprar o instalar.,
+MAT-000288,Diámetro interior,20,mm
+MAT-000288,Diámetro exterior,42,mm
+MAT-000288,Ancho,12,mm
+MAT-000288,Cierre,Dos sellos de contacto 2RSH (referencia provisional),
+MAT-000288,Juego radial,C3 según anotación,
+MAT-000288,Fotografía de referencia,IMG_7DC7FC8A-427B-443E-AC01-9B65AE06E563.jpeg,
+MAT-000289,Fotografía de referencia,IMG_D08FFC34-8ACF-4172-B60F-E795C41C81DD.jpeg,
+MAT-000289,Marcación de fabricante,30205 J2/Q,
+MAT-000289,Diámetro interior,25,mm
+MAT-000289,Diámetro exterior,52,mm
+MAT-000289,Ancho total T,16.25,mm
+MAT-000289,Ancho del anillo interior B,15,mm
+MAT-000289,Ancho del anillo exterior C,13,mm
+MAT-000289,Configuración,Cono y copa separables; una hilera,
+MAT-000289,Fotografía de referencia,IMG_003095F6-B627-48CF-98CF-A4DAAFE1368C.jpeg,
+MAT-000289,Sufijo conservado,J2/Q,
+MAT-000290,Fotografía de referencia,IMG_2A3DD9C0-7711-4C3F-B3AB-54C12A61C0D6.jpeg,
+MAT-000290,Marcación de fabricante,30205; 4T-30205,
+MAT-000290,Diámetro interior,25,mm
+MAT-000290,Diámetro exterior,52,mm
+MAT-000290,Ancho total T,16.25,mm
+MAT-000290,Ancho del anillo interior B,15,mm
+MAT-000290,Ancho del anillo exterior C,13,mm
+MAT-000290,Configuración,Cono y copa separables; una hilera,
+MAT-000290,Fotografía de referencia,IMG_706992F9-7B8D-470F-9751-71B98F8C7B7D.jpeg,
+MAT-000290,Peso,0.155,kg
+MAT-000290,Capacidad de carga dinámica C,35,kN
+MAT-000290,Capacidad de carga estática C0,34,kN
+MAT-000290,Velocidad límite con grasa,7300,rpm
+MAT-000290,Material,Acero cementado,
+MAT-000290,Jaula,Chapa,
+MAT-000291,Fotografía de referencia,IMG_F2D92C6C-A579-4916-BE9B-FF93502F9878.jpeg,
+MAT-000291,Marcación de fabricante,32006X; 4T-32006X,
+MAT-000291,Diámetro interior,30,mm
+MAT-000291,Diámetro exterior,55,mm
+MAT-000291,Ancho total T,17,mm
+MAT-000291,Ancho del anillo interior B,17,mm
+MAT-000291,Ancho del anillo exterior C,13,mm
+MAT-000291,Configuración,Cono y copa separables; una hilera,
+MAT-000291,Código adicional observado,132402,
+MAT-000292,Fotografía de referencia,IMG_C58ADC1E-7582-4736-B025-D77613C55B13.jpeg,
+MAT-000292,Marcación de fabricante,30206; 4T-30206,
+MAT-000292,Diámetro interior,30,mm
+MAT-000292,Diámetro exterior,62,mm
+MAT-000292,Ancho total T,17.25,mm
+MAT-000292,Ancho del anillo interior B,16,mm
+MAT-000292,Ancho del anillo exterior C,14,mm
+MAT-000292,Configuración,Cono y copa separables; una hilera,
+MAT-000292,Código adicional observado,132308,
+MAT-000293,Fotografía de referencia,IMG_33467489-D892-4B3A-BACB-9AFFFBBF33A7.jpeg,
+MAT-000293,Marcación de fabricante,30204; 4T-30204,
+MAT-000293,Diámetro interior,20,mm
+MAT-000293,Diámetro exterior,47,mm
+MAT-000293,Ancho total T,15.25,mm
+MAT-000293,Ancho del anillo interior B,14,mm
+MAT-000293,Ancho del anillo exterior C,12,mm
+MAT-000293,Configuración,Cono y copa separables; una hilera,
+MAT-000293,Código interno observado,520001200289,
+MAT-000293,Código adicional observado,132404,
+MAT-000294,Fotografía de referencia,IMG_12BFC927-4D53-4538-8142-CCEAFD24258B.jpeg,
+MAT-000294,Marcación de fabricante,32005 X en etiqueta interna; referencia original tapada,
+MAT-000294,Condición de identificación,Identificación basada en etiqueta interna 520001200290. Destapar la referencia NTN y verificar el rodamiento; no dar por confirmado el prefijo 4T.,
+MAT-000294,Diámetro interior,25,mm
+MAT-000294,Diámetro exterior,47,mm
+MAT-000294,Ancho total T,15,mm
+MAT-000294,Ancho del anillo interior B,15,mm
+MAT-000294,Ancho del anillo exterior C,11.5,mm
+MAT-000294,Configuración,Cono y copa separables; una hilera,
+MAT-000294,Código interno observado,520001200290,
+MAT-000295,Fotografía de referencia,IMG_243F09AA-41DC-4A9F-9CE7-1AB736ED70EF.jpeg,
+MAT-000295,Marcación de fabricante,6006LLU; 6006LLUCM/5K,
+MAT-000295,Diámetro interior,30,mm
+MAT-000295,Diámetro exterior,55,mm
+MAT-000295,Ancho,13,mm
+MAT-000295,Cierre,Sellos de contacto LLU,
+MAT-000295,Juego radial,CM,
+MAT-000295,Código adicional observado,162310,
+MAT-000296,Fotografía de referencia,IMG_9467F9B9-850E-4398-A607-DA73FC7B29B6.jpeg,
+MAT-000296,Marcación de fabricante,6305LLUC3; 6305LLUC3/5K,
+MAT-000296,Diámetro interior,25,mm
+MAT-000296,Diámetro exterior,62,mm
+MAT-000296,Ancho,17,mm
+MAT-000296,Cierre,Sellos de contacto LLU,
+MAT-000296,Juego radial,C3,
+MAT-000296,Código adicional observado,152211,
+MAT-000297,Fotografía de referencia,IMG_8B51B4A4-8B32-4166-9A68-3A4A0EDEDDF4.jpeg,
+MAT-000297,Marcación de fabricante,6306LLU; 6306LLU/2AS,
+MAT-000297,Diámetro interior,30,mm
+MAT-000297,Diámetro exterior,72,mm
+MAT-000297,Ancho,19,mm
+MAT-000297,Cierre,Sellos de contacto LLU,
+MAT-000297,Código adicional observado,101605,
+MAT-000298,Fotografía de referencia,IMG_EAA0140A-16F7-48D1-ABFB-F6DB0C8D8C2F.jpeg,
+MAT-000298,Marcación de fabricante,6009LLU; 6009LLUCM/5K,
+MAT-000298,Diámetro interior,45,mm
+MAT-000298,Diámetro exterior,75,mm
+MAT-000298,Ancho,16,mm
+MAT-000298,Cierre,Sellos de contacto LLU,
+MAT-000298,Juego radial,CM,
+MAT-000298,Código adicional observado,162012,
+MAT-000299,Fotografía de referencia,IMG_5F2F63F8-B515-43F5-92AD-A75CE15F248D.jpeg,
+MAT-000299,Fotografía de referencia,IMG_7AB5E6AB-74D6-436E-A0C3-41A32FC4E857.jpeg,
+MAT-000299,Marcación de fabricante,6006,
+MAT-000299,Diámetro interior,30,mm
+MAT-000299,Diámetro exterior,55,mm
+MAT-000299,Ancho,13,mm
+MAT-000299,Cierre,"Abierto, sin sufijo de cierre",
+MAT-000299,Código adicional observado,T11506; T11409 (cajas distintas de la misma referencia),
+MAT-000300,Fotografía de referencia,IMG_7B76FF6A-E92D-48FB-8ECB-0EFC5393C10B.jpeg,
+MAT-000300,Marcación de fabricante,6008,
+MAT-000300,País de fabricación observado,Italia,
+MAT-000300,Diámetro interior,40,mm
+MAT-000300,Diámetro exterior,68,mm
+MAT-000300,Ancho,15,mm
+MAT-000300,Cierre,"Abierto, sin sufijo de cierre",
+MAT-000300,Código adicional observado,132Y,
+MAT-000301,Fotografía de referencia,IMG_243F3C4A-0A27-4216-B631-AAB567753DAE.jpeg,
+MAT-000301,Marcación de fabricante,6010-2RS1,
+MAT-000301,País de fabricación observado,Italia,
+MAT-000301,Diámetro interior,50,mm
+MAT-000301,Diámetro exterior,80,mm
+MAT-000301,Ancho,16,mm
+MAT-000301,Cierre,Dos sellos de contacto 2RS1,
+MAT-000301,Código adicional observado,285U,
+MAT-000302,Fotografía de referencia,IMG_BF2459B8-FCB8-40BB-A085-F82BE84A5239.jpeg,
+MAT-000302,Fotografía de referencia,IMG_DB39BEC2-8A1D-43BD-9886-9845FEF54912.jpeg,
+MAT-000302,Marcación de fabricante,6010-2RS1/C3,
+MAT-000302,País de fabricación observado,Italia,
+MAT-000302,Condición de identificación,Hay cajas con anotación manual y otras con etiqueta SKF 6010-2RS1/C3 visible. Verificar individualmente las cajas reetiquetadas; conservar separado de 6010-2RS1.,
+MAT-000302,Diámetro interior,50,mm
+MAT-000302,Diámetro exterior,80,mm
+MAT-000302,Ancho,16,mm
+MAT-000302,Cierre,Dos sellos de contacto 2RS1,
+MAT-000302,Juego radial,C3,
+MAT-000302,Código interno observado,520001200033,
+MAT-000302,Etiqueta interna discrepante,En una caja figura 520001200051 y RODAJE 4T-30206 sobre etiqueta SKF 6010-2RS1/C3. No usarla para identificar el contenido.,
+MAT-000303,Fotografía de referencia,IMG_D0F30030-C80A-47D0-8736-4FE09EDACF67.jpeg,
+MAT-000303,Marcación de fabricante,6009-2RS1/C3,
+MAT-000303,País de fabricación observado,Italia,
+MAT-000303,Diámetro interior,45,mm
+MAT-000303,Diámetro exterior,75,mm
+MAT-000303,Ancho,16,mm
+MAT-000303,Cierre,Dos sellos de contacto 2RS1,
+MAT-000303,Juego radial,C3,
+MAT-000304,Fotografía de referencia,IMG_99C342D9-D008-4962-8BAC-6C9A93613B81.jpeg,
+MAT-000304,Marcación de fabricante,6208; 6208U1,
+MAT-000304,Diámetro interior,40,mm
+MAT-000304,Diámetro exterior,80,mm
+MAT-000304,Ancho,18,mm
+MAT-000304,Cierre,"Abierto, sin sufijo de cierre",
+MAT-000304,Código interno observado,52-12-112,
+MAT-000304,Sufijo conservado,U1; no eliminar de la referencia,
+MAT-000305,Fotografía de referencia,IMG_6915DA6A-66FA-49C0-A073-119C13615B6D.jpeg,
+MAT-000305,Marcación de fabricante,6309/C3,
+MAT-000305,País de fabricación observado,Malasia,
+MAT-000305,Diámetro interior,45,mm
+MAT-000305,Diámetro exterior,100,mm
+MAT-000305,Ancho,25,mm
+MAT-000305,Cierre,Abierto,
+MAT-000305,Juego radial,C3,
+MAT-000305,Código interno observado,52-12-151,
+MAT-000305,Código adicional observado,351M,
+MAT-000306,Fotografía de referencia,IMG_FB1718EF-B71D-49AF-BE3D-9AFD5B171E4D.jpeg,
+MAT-000306,Marcación de fabricante,6012-2RS1,
+MAT-000306,País de fabricación observado,Francia,
+MAT-000306,Diámetro interior,60,mm
+MAT-000306,Diámetro exterior,95,mm
+MAT-000306,Ancho,18,mm
+MAT-000306,Cierre,Dos sellos de contacto 2RS1,
+MAT-000306,Código interno observado,52-12-136,
+MAT-000306,Código adicional observado,315U,
+MAT-000307,Fotografía de referencia,IMG_36102332-212D-4E3D-AA6F-A6947157AAD0.jpeg,
+MAT-000307,Marcación de fabricante,6309C3,
+MAT-000307,Diámetro interior,45,mm
+MAT-000307,Diámetro exterior,100,mm
+MAT-000307,Ancho,25,mm
+MAT-000307,Cierre,Abierto,
+MAT-000307,Juego radial,C3,
+MAT-000307,Código adicional observado,201508,
+MAT-000308,Fotografía de referencia,IMG_86750387-3D94-4E6D-B6D3-97C761C7CED7.jpeg,
+MAT-000308,Marcación de fabricante,6309,
+MAT-000308,País de fabricación observado,Corea,
+MAT-000308,Diámetro interior,45,mm
+MAT-000308,Diámetro exterior,100,mm
+MAT-000308,Ancho,25,mm
+MAT-000308,Cierre,Abierto,
+MAT-000308,Código adicional observado,8297M0421/11305894/60369828,
+MAT-000309,Fotografía de referencia,IMG_BFFCB217-334C-4F82-877E-2A7C06DF6245.jpeg,
+MAT-000309,Marcación de fabricante,6309.2ZR.L38,
+MAT-000309,País de fabricación observado,Corea,
+MAT-000309,Diámetro interior,45,mm
+MAT-000309,Diámetro exterior,100,mm
+MAT-000309,Ancho,25,mm
+MAT-000309,Cierre,Dos blindajes metálicos 2ZR,
+MAT-000309,Sufijo conservado,L38; no asumir C3,
+MAT-000309,Código interno observado,520001200062,
+MAT-000309,Código adicional observado,09041312,
+MAT-000310,Fotografía de referencia,IMG_1CC5CA86-C65F-4C52-B486-EA631771AB94.jpeg,
+MAT-000310,Marcación de fabricante,6307.2RSR.L38,
+MAT-000310,País de fabricación observado,Corea,
+MAT-000310,Diámetro interior,35,mm
+MAT-000310,Diámetro exterior,80,mm
+MAT-000310,Ancho,21,mm
+MAT-000310,Cierre,Dos sellos de contacto 2RSR,
+MAT-000310,Sufijo conservado,L38; no asumir C3,
+MAT-000311,Fotografía de referencia,IMG_2B87ADD1-48C2-45D3-80D8-CE03BE134DBD.jpeg,
+MAT-000311,Marcación de fabricante,6307,
+MAT-000311,País de fabricación observado,Corea,
+MAT-000311,Diámetro interior,35,mm
+MAT-000311,Diámetro exterior,80,mm
+MAT-000311,Ancho,21,mm
+MAT-000311,Cierre,Abierto,
+MAT-000312,Fotografía de referencia,IMG_B5F3B5C3-C34F-4BE8-94AC-FE027EE93A9E.jpeg,
+MAT-000312,Marcación de fabricante,6208,
+MAT-000312,País de fabricación observado,Corea,
+MAT-000312,Diámetro interior,40,mm
+MAT-000312,Diámetro exterior,80,mm
+MAT-000312,Ancho,18,mm
+MAT-000312,Cierre,Abierto,
+MAT-000313,Fotografía de referencia,IMG_2D9812E8-F583-403E-9988-9037D65EDD71.jpeg,
+MAT-000313,Fotografía de referencia,IMG_4A356EDA-1E45-4605-8F02-D5F7325CD21D.jpeg,
+MAT-000313,Fotografía de referencia,IMG_AC737CBF-2609-4CFA-9E15-341C0EBBF30D.jpeg,
+MAT-000313,Fotografía de referencia,IMG_CBAEB434-B85C-4D70-9B41-02FC833B562F.jpeg,
+MAT-000313,Marcación de fabricante,NSK; 6202DDU en pieza; Jacto 328781 en empaque,
+MAT-000313,Condición de identificación,Jacto es la marca del repuesto empacado y NSK la marca visible del rodamiento. La etiqueta dice 6202 DDU C; no se interpreta C como C3.,
+MAT-000313,Diámetro interior,15,mm
+MAT-000313,Diámetro exterior,35,mm
+MAT-000313,Ancho,11,mm
+MAT-000313,Cierre,Dos sellos de contacto DDU,
+MAT-000313,Marca del empaque,Jacto,
+MAT-000313,Marcado y datos de empaque,ROL DE ESF. FIXO 1CAR 15 35 11 6202 DDU C; QTDE 1,
+MAT-000314,Fotografía de referencia,IMG_53651086-1E09-468E-82C9-98DC8B1BE8D6.jpeg,
+MAT-000314,Fotografía de referencia,IMG_592D3438-E4D2-4E75-B7F9-B1CCDA830C22.jpeg,
+MAT-000314,Marcación de fabricante,6FUCPA205PB,
+MAT-000314,Condición de identificación,"Cuerpo plástico blanco; grado del polímero, inoxidable y grasa alimentaria pendientes de ficha. No afirmar certificación sanitaria.",
+MAT-000314,Diámetro nominal de eje,25,mm
+MAT-000314,Configuración,Chumacera de pie compacto,
+MAT-000314,Marcación moldeada,PA205; LDI152,
+MAT-000314,Rodamiento,SUC205,
+MAT-000314,Material carcasa,Plástico blanco según etiqueta,
+MAT-000314,Marcado y datos de empaque,FLANGIA PA 205 PLASTICA BIANCA LDI 152; 1.1826; QTY 1 PCS; 2023/2300102,
+MAT-000315,Fotografía de referencia,IMG_2BD6E79A-DA9D-48A8-9954-413A526CBB5A.jpeg,
+MAT-000315,Fotografía de referencia,IMG_F9804F0B-43B8-447F-AABE-F52770508FED.jpeg,
+MAT-000315,Marcación de fabricante,NTN; F204 en soporte; UC204 en inserto,
+MAT-000315,Condición de identificación,Identificada por la pieza. La caja UCF207D1 mostrada durante la comparación no corresponde a esta pieza. No añadir D1 sin verificar.,
+MAT-000315,Diámetro nominal de eje,20,mm
+MAT-000315,Configuración,Chumacera de brida cuadrada,
+MAT-000315,Carcasa,F204,
+MAT-000315,Rodamiento,UC204,
+MAT-000315,Número de perforaciones,4,
+MAT-000316,Fotografía de referencia,IMG_010708DC-89CC-43F4-89B9-85E2C6582D11.jpeg,
+MAT-000316,Marcación de fabricante,NTN; P205 en soporte,
+MAT-000316,Condición de identificación,Identificación por soporte P205 y configuración de pie. Confirmar grabado completo del inserto y sufijos. La caja UCF207D1 no corresponde a esta pieza.,
+MAT-000316,Diámetro nominal de eje,25,mm
+MAT-000316,Configuración,Chumacera de pie,
+MAT-000316,Carcasa,P205,
+MAT-000316,Número de perforaciones,2,
+MAT-000317,Fotografía de referencia,IMG_5A61431A-6595-4E3C-8123-990F59146B02.jpeg,
+MAT-000317,Marcación de fabricante,UCFL204D1,
+MAT-000317,Diámetro nominal de eje,20,mm
+MAT-000317,Configuración,Chumacera de brida ovalada,
+MAT-000317,Código adicional observado,161606,
+MAT-000317,Número de perforaciones,2,
+MAT-000318,Fotografía de referencia,IMG_8179977D-0574-4667-97BA-41BC66A4EC06.jpeg,
+MAT-000318,Marcación de fabricante,UCFL205D1,
+MAT-000318,Diámetro nominal de eje,25,mm
+MAT-000318,Configuración,Chumacera de brida ovalada,
+MAT-000318,Código adicional observado,162401,
+MAT-000318,Número de perforaciones,2,
+MAT-000319,Fotografía de referencia,IMG_BB1B3138-8675-428D-B6F4-2C72980F113C.jpeg,
+MAT-000319,Marcación de fabricante,SUC205; SUC 205,
+MAT-000319,Condición de identificación,"La caja dice Supplied by KMK Slovakia. Esto identifica al proveedor/marca del empaque, no demuestra país de fabricación. Material exacto pendiente.",
+MAT-000319,Diámetro nominal de eje,25,mm
+MAT-000319,Configuración,Rodamiento de inserción,
+MAT-000319,Texto comercial del empaque,Supplied by KMK Slovakia; Key Motion Knowledge; Premium Quality Products,
+MAT-000320,Fotografía de referencia,IMG_D626BCAF-764F-4BEC-9A3F-8904A19F3CB1.jpeg,
+MAT-000320,Marcación de fabricante,UCP205-J7,
+MAT-000320,País de fabricación observado,Vietnam,
+MAT-000320,Diámetro nominal de eje,25,mm
+MAT-000320,Configuración,Chumacera de pie,
+MAT-000320,Código adicional observado,11101401; AZ,
+MAT-000320,Número de perforaciones,2,
+MAT-000321,Fotografía de referencia,IMG_26F488CD-3F90-44B4-843D-688C4369E8E3.jpeg,
+MAT-000321,Marcación de fabricante,SSUCF205,
+MAT-000321,Condición de identificación,Referencia SSUCF205 visible en caja. Material y grado exactos pendientes de ficha o inspección.,
+MAT-000321,Diámetro nominal de eje,25,mm
+MAT-000321,Configuración,Chumacera de brida cuadrada,
+MAT-000321,Número de perforaciones,4,
+MAT-000322,Fotografía de referencia,IMG_F9C96439-80DE-4606-9111-46F75A5300BE.jpeg,
+MAT-000322,Marcación de fabricante,TSS UCFL 204 white; 1 PCS,
+MAT-000322,Condición de identificación,Versión blanca según etiqueta. Confirmar material de carcasa y grado del inserto.,
+MAT-000322,Diámetro nominal de eje,20,mm
+MAT-000322,Configuración,Chumacera de brida ovalada,
+MAT-000322,Color,Blanco,
+MAT-000322,Número de perforaciones,2,
+MAT-000323,Fotografía de referencia,IMG_480A4DA3-66E9-43DE-87F4-1F71F851B58F.jpeg,
+MAT-000323,Marcación de fabricante,TSS UCF 205 white; T SS UCF 205 WHITE; 1 PCS,
+MAT-000323,Condición de identificación,Versión blanca según etiqueta. Confirmar material de carcasa y grado del inserto.,
+MAT-000323,Diámetro nominal de eje,25,mm
+MAT-000323,Configuración,Chumacera de brida cuadrada,
+MAT-000323,Color,Blanco,
+MAT-000323,Número de perforaciones,4,
+MAT-000324,Fotografía de referencia,IMG_8C659DD0-5CF6-4B6D-A259-8B12AA975A77.jpeg,
+MAT-000324,Marcación de fabricante,UCP203J; Made in China,
+MAT-000324,País de fabricación observado,China,
+MAT-000324,Condición de identificación,Diámetro nominal 17 mm por designación 203; verificar el eje. No confundir con UCP204J.,
+MAT-000324,Diámetro nominal de eje,17,mm
+MAT-000324,Configuración,Chumacera de pie,
+MAT-000324,Número de perforaciones,2,
+MAT-000325,Fotografía de referencia,IMG_8DFF7F55-D726-4537-BD23-97687CA2A4DD.jpeg,
+MAT-000325,Marcación de fabricante,UCP204J; NP04A015; anotación 20 mm,
+MAT-000325,Diámetro nominal de eje,20,mm
+MAT-000325,Configuración,Chumacera de pie,
+MAT-000325,Código adicional observado,NP04A015,
+MAT-000325,Número de perforaciones,2,
+MAT-000326,Fotografía de referencia,IMG_AE5E3F09-1AB2-4C3F-A0CA-B5462F10D432.jpeg,
+MAT-000326,Marcación de fabricante,NTN; F206,
+MAT-000326,Condición de identificación,Carcasa vacía observada. No registrarla como chumacera UCF206 completa ni asignar diámetro de eje sin el inserto.,
+MAT-000326,Configuración,Carcasa de brida cuadrada sin rodamiento,
+MAT-000326,Rodamiento,No incluido en la pieza fotografiada,
+MAT-000326,Número de perforaciones,4,
+MAT-000327,Fotografía de referencia,IMG_2201B197-68E1-4BF5-B01B-7EBDCDC98FA8.jpeg,
+MAT-000327,Fotografía de referencia,IMG_C176DA1B-81C5-481A-B3CF-33D784FEB507.jpeg,
+MAT-000327,Marcación de fabricante,UCF207D1 en caja; F207 en soporte; UC207 en inserto,
+MAT-000327,Diámetro nominal de eje,35,mm
+MAT-000327,Configuración,Chumacera de brida cuadrada,
+MAT-000327,Fotografía de referencia,IMG_1E9180D4-7DAD-4EFD-B17C-4597539CAB34.jpeg,
+MAT-000327,Carcasa,F207,
+MAT-000327,Rodamiento,UC207,
+MAT-000327,País de fabricación observado,"Japón, indicado en caja",
+MAT-000327,Código adicional observado,162108,
+MAT-000327,Número de perforaciones,4,
+MAT-000328,Fotografía de referencia,IMG_36CB81A3-14C2-4D59-BAAF-B2A4F7BD851A.jpeg,
+MAT-000328,Marcación de fabricante,DPI; SF207 en soporte; SSUCF207 D1 en caja,
+MAT-000328,Condición de identificación,Versión inoxidable por designación y aspecto. Grado de acero exacto pendiente.,
+MAT-000328,Diámetro nominal de eje,35,mm
+MAT-000328,Configuración,Chumacera de brida cuadrada,
+MAT-000328,Fotografía de referencia,IMG_418D3EC9-A402-4ABC-A18E-F6D2B496F7F6.jpeg,
+MAT-000328,Carcasa,SF207,
+MAT-000328,Número de perforaciones,4,
+MAT-000329,Fotografía de referencia,IMG_074BA2A3-512D-4439-BAB0-78C21BD54569.jpeg,
+MAT-000329,Marcación de fabricante,UCP206D1,
+MAT-000329,Diámetro nominal de eje,30,mm
+MAT-000329,Configuración,Chumacera de pie,
+MAT-000329,Código adicional observado,162211,
+MAT-000329,Número de perforaciones,2,
+MAT-000330,Fotografía de referencia,IMG_45C268FA-BD34-4F4E-BAFA-22F2071F162F.jpeg,
+MAT-000330,Marcación de fabricante,LEKIM BEARING; SSUCP207,
+MAT-000330,Condición de identificación,Etiqueta SSUCP207 superpuesta sobre otra impresión débil. Verificar contenido y grado de material.,
+MAT-000330,Diámetro nominal de eje,35,mm
+MAT-000330,Configuración,Chumacera de pie,
+MAT-000330,Número de perforaciones,2,
+MAT-000331,Fotografía de referencia,IMG_30F452A2-015D-4414-85FD-92B85437D60F.jpeg,
+MAT-000331,Fotografía de referencia,IMG_D47F06BF-EDF0-4F00-8801-C7385AE120BA.jpeg,
+MAT-000331,Marcación de fabricante,SSUCP207 D1,
+MAT-000331,Condición de identificación,Etiqueta interna indica PIE INOX; grado exacto de acero pendiente.,
+MAT-000331,Diámetro nominal de eje,35,mm
+MAT-000331,Configuración,Chumacera de pie,
+MAT-000331,Código interno observado,520001200195,
+MAT-000331,Descripción interna observada,CHUMACERA P 207 – PIE INOX,
+MAT-000331,Número de perforaciones,2,
+MAT-000332,Fotografía de referencia,IMG_3DAC6514-D843-4D26-9263-9046C99FE955.jpeg,
+MAT-000332,Marcación de fabricante,SS-UC-207,
+MAT-000332,Condición de identificación,Empaque indica versión inoxidable. Confirmar grado del acero y marcado de la pieza.,
+MAT-000332,Diámetro nominal de eje,35,mm
+MAT-000332,Configuración,Rodamiento de inserción,
+MAT-000332,Código interno observado,520001200271,
+MAT-000332,Descripción interna observada,RODAMIENTO SS-UC207 INOX P/CHUMACERA DE 35MM,
+MAT-000332,Código adicional observado,A-3,
+MAT-000333,Fotografía de referencia,IMG_5EB21FF1-C9DB-40F1-8AB0-5AD6152E54F8.jpeg,
+MAT-000333,Marcación de fabricante,SS-UC-206 (parcialmente cubierto; etiqueta interna SS-UC206),
+MAT-000333,País de fabricación observado,China (Made in P.R.C.),
+MAT-000333,Condición de identificación,La etiqueta interna tapa parte del modelo comercial. Confirmar grabado completo de la pieza y grado del inoxidable.,
+MAT-000333,Diámetro nominal de eje,30,mm
+MAT-000333,Configuración,Rodamiento de inserción,
+MAT-000333,Código interno observado,520001200272,
+MAT-000333,Descripción interna observada,RODAMIENTO SS-UC206 INOX P/CHUMACERA DE 30MM,
+MAT-000333,Código adicional observado,A-3,
+MAT-000334,Fotografía de referencia,IMG_101C143F-ECA7-40C2-A4E3-CD810BF02825.jpeg,
+MAT-000334,Marcación de fabricante,SUCF207,
+MAT-000334,Condición de identificación,Conservar SUCF207 exactamente. No cambiar a SSUCF207 ni asumir material de carcasa sin ficha.,
+MAT-000334,Diámetro nominal de eje,35,mm
+MAT-000334,Configuración,Chumacera de brida cuadrada,
+MAT-000334,Número de perforaciones,4,
+MAT-000334,Certificación impresa,ISO9001:2008 en empaque; no se valida vigencia ni certificación del producto,
+MAT-000335,Fotografía de referencia,IMG_023A7AFB-50F5-4A2D-9501-DAD590EC4CF0.jpeg,
+MAT-000335,Marcación de fabricante,S-SUCT207,
+MAT-000335,Condición de identificación,Supplied by KMK Slovakia. Material del soporte/inserto y significado específico S-S pendientes; no afirmar grado inoxidable.,
+MAT-000335,Diámetro nominal de eje,35,mm
+MAT-000335,Configuración,Chumacera tensora,
+MAT-000336,Fotografía de referencia,IMG_023A7AFB-50F5-4A2D-9501-DAD590EC4CF0.jpeg,
+MAT-000336,Marcación de fabricante,S-SUCFL207,
+MAT-000336,Condición de identificación,Supplied by KMK Slovakia. Material del soporte/inserto y significado específico S-S pendientes; no afirmar grado inoxidable.,
+MAT-000336,Diámetro nominal de eje,35,mm
+MAT-000336,Configuración,Chumacera de brida ovalada,
+MAT-000336,Número de perforaciones,2,
+MAT-000337,Fotografía de referencia,IMG_2CE42A9F-F277-4861-9B78-91A6CADA1C03.jpeg,
+MAT-000337,Fotografía de referencia,IMG_DE1B5DBB-A777-4A3B-89BE-7BABBB16E631.jpeg,
+MAT-000337,Marcación de fabricante,UCF210; marca RLM confirmada por el usuario,
+MAT-000337,Condición de identificación,Marca RLM confirmada expresamente por Imanol. En la foto frontal el modelo está parcialmente oculto y en la lateral se lee UCF210.,
+MAT-000337,Diámetro nominal de eje,50,mm
+MAT-000337,Configuración,Chumacera de brida cuadrada,
+MAT-000337,Número de perforaciones,4,
+MAT-000338,Fotografía de referencia,IMG_DFB7B95E-24B7-4CE6-ABF1-8F5444810D8D.jpeg,
+MAT-000338,Marcación de fabricante,UCT207,
+MAT-000338,Condición de identificación,Mantener separado de SSUCT207. Material específico pendiente de ficha.,
+MAT-000338,Diámetro nominal de eje,35,mm
+MAT-000338,Configuración,Chumacera tensora,
+MAT-000339,Fotografía de referencia,IMG_DFB7B95E-24B7-4CE6-ABF1-8F5444810D8D.jpeg,
+MAT-000339,Marcación de fabricante,SSUCT207,
+MAT-000339,Condición de identificación,Versión SS indicada por etiqueta. Mantener separado de UCT207; grado exacto de material pendiente.,
+MAT-000339,Diámetro nominal de eje,35,mm
+MAT-000339,Configuración,Chumacera tensora,
+MAT-000340,Fotografía de referencia,IMG_F2AC0BB7-BF8F-4C0C-8FDB-DA5FE31464B0.jpeg,
+MAT-000340,Marcación de fabricante,SSUCFL207 HB,
+MAT-000340,Condición de identificación,"Conservar sufijo HB. Material, grado inoxidable y significado de HB pendientes de ficha.",
+MAT-000340,Diámetro nominal de eje,35,mm
+MAT-000340,Configuración,Chumacera de brida ovalada,
+MAT-000340,Número de perforaciones,2,
+MAT-000341,Fotografía de referencia,IMG_ABEC1F9A-944E-4326-ABF2-28C58EE083E0.jpeg,
+MAT-000341,Marcación de fabricante,UCF211-200; D1,
+MAT-000341,Diámetro nominal de eje,50.8,mm
+MAT-000341,Configuración,Chumacera de brida cuadrada,
+MAT-000341,Diámetro nominal de eje en pulgadas,2,in
+MAT-000341,Restricción,-200 corresponde a eje 2 pulgadas (50.8 mm). No confundir con UCF211 métrica de 55 mm.,
+MAT-000341,Código adicional observado,161808,
+MAT-000341,Número de perforaciones,4,
+MAT-000342,Fotografía de referencia,IMG_AAE2826E-25F6-41E1-8C5C-E29256D899FD.jpeg,
+MAT-000342,Marcación de fabricante,UCF206D1,
+MAT-000342,Diámetro nominal de eje,30,mm
+MAT-000342,Configuración,Chumacera de brida cuadrada,
+MAT-000342,Código adicional observado,161810,
+MAT-000342,Número de perforaciones,4,
