@@ -1,0 +1,6 @@
+entorno/
+__pycache__
+*.pyc
+.env
+.git
+bruno/

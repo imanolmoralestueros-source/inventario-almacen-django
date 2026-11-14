@@ -1,0 +1,28 @@
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    env_file: .env
+    # La api espera a que postgres este "sano" antes de arrancar
+    depends_on:
+      base_de_datos:
+        condition: service_healthy
+
+  base_de_datos:
+    image: postgres:18
+    env_file: .env
+    volumes:
+      - pgdata:/var/lib/postgresql
+    ports:
+      # Desde fuera (DBeaver) nos conectamos por el 5433, dentro de docker es el 5432
+      - "5433:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+# El volumen guarda la data de postgres aunque se elimine el contenedor
+volumes:
+  pgdata:
