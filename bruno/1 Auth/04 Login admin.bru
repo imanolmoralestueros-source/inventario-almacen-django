@@ -1,0 +1,24 @@
+meta {
+  name: Login admin
+  type: http
+  seq: 4
+}
+
+post {
+  url: {{baseUrl}}/auth/login
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "correo": "{{adminCorreo}}",
+    "password": "{{adminPassword}}"
+  }
+}
+
+script:post-response {
+  if (res.status === 200) {
+    bru.setEnvVar("tokenAdmin", res.body.content.accessToken);
+  }
+}

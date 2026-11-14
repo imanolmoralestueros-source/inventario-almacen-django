@@ -1,0 +1,28 @@
+meta {
+  name: Asociar foto al material
+  type: http
+  seq: 2
+}
+
+post {
+  url: {{baseUrl}}/catalogo/materiales/{{materialFotoId}}/foto
+  body: json
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{tokenAdmin}}
+}
+
+body:json {
+  {
+    "nombre": "{{fotoNombre}}",
+    "ext": "{{fotoExt}}",
+    "ruta": "{{fotoRuta}}",
+    "mimeType": "{{fotoMime}}"
+  }
+}
+
+docs {
+  Paso 3. Usa los datos guardados en el paso 1. materialFotoId es un material activo (ej. 280).
+}

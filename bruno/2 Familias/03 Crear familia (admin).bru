@@ -1,0 +1,27 @@
+meta {
+  name: Crear familia (admin)
+  type: http
+  seq: 3
+}
+
+post {
+  url: {{baseUrl}}/catalogo/familias
+  body: json
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{tokenAdmin}}
+}
+
+body:json {
+  {
+    "nombre": "Lubricantes"
+  }
+}
+
+script:post-response {
+  if (res.status === 201) {
+    bru.setEnvVar("familiaNuevaId", res.body.content.id);
+  }
+}

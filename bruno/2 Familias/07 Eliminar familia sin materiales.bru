@@ -1,0 +1,15 @@
+meta {
+  name: Eliminar familia sin materiales
+  type: http
+  seq: 7
+}
+
+delete {
+  url: {{baseUrl}}/catalogo/familias/{{familiaNuevaId}}
+  body: none
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{tokenAdmin}}
+}

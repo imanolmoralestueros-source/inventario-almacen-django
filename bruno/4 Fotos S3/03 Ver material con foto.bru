@@ -1,0 +1,19 @@
+meta {
+  name: Ver material con foto
+  type: http
+  seq: 3
+}
+
+get {
+  url: {{baseUrl}}/catalogo/materiales/{{materialFotoId}}
+  body: none
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{tokenConsulta}}
+}
+
+docs {
+  Paso 4. El campo url es una url firmada que abre la foto por 15 minutos.
+}

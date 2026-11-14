@@ -1,0 +1,23 @@
+meta {
+  name: Crear material (consulta - 403)
+  type: http
+  seq: 8
+}
+
+post {
+  url: {{baseUrl}}/catalogo/materiales
+  body: json
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{tokenConsulta}}
+}
+
+body:json {
+  {
+    "descripcion": "NO PERMITIDO",
+    "unidad": "UND",
+    "familia": 1
+  }
+}

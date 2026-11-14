@@ -1,0 +1,25 @@
+meta {
+  name: Salida con stock insuficiente (400)
+  type: http
+  seq: 11
+}
+
+post {
+  url: {{baseUrl}}/catalogo/materiales/{{materialId}}/salida
+  body: json
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{tokenAdmin}}
+}
+
+body:json {
+  {
+    "cantidad": 500
+  }
+}
+
+docs {
+  Regla de negocio: no se permite dejar el stock en negativo.
+}

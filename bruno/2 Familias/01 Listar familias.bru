@@ -1,0 +1,15 @@
+meta {
+  name: Listar familias
+  type: http
+  seq: 1
+}
+
+get {
+  url: {{baseUrl}}/catalogo/familias
+  body: none
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{tokenConsulta}}
+}

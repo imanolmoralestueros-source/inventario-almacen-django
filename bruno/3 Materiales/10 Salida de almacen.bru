@@ -1,0 +1,26 @@
+meta {
+  name: Salida de almacen
+  type: http
+  seq: 10
+}
+
+post {
+  url: {{baseUrl}}/catalogo/materiales/{{materialId}}/salida
+  body: json
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{tokenAdmin}}
+}
+
+body:json {
+  {
+    "cantidad": 4,
+    "motivo": "Mantenimiento bomba"
+  }
+}
+
+docs {
+  Regla de negocio: descuenta el stock.
+}

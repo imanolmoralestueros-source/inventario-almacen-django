@@ -1,0 +1,22 @@
+meta {
+  name: Actualizar material (PATCH)
+  type: http
+  seq: 9
+}
+
+patch {
+  url: {{baseUrl}}/catalogo/materiales/{{materialId}}
+  body: json
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{tokenAdmin}}
+}
+
+body:json {
+  {
+    "cantidad": 20,
+    "modelo": "6205-2RSH/C3"
+  }
+}

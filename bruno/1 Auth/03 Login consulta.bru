@@ -1,0 +1,24 @@
+meta {
+  name: Login consulta
+  type: http
+  seq: 3
+}
+
+post {
+  url: {{baseUrl}}/auth/login
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "correo": "{{consultaCorreo}}",
+    "password": "{{consultaPassword}}"
+  }
+}
+
+script:post-response {
+  if (res.status === 200) {
+    bru.setEnvVar("tokenConsulta", res.body.content.accessToken);
+  }
+}

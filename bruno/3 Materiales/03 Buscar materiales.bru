@@ -1,0 +1,15 @@
+meta {
+  name: Buscar materiales
+  type: http
+  seq: 3
+}
+
+get {
+  url: {{baseUrl}}/catalogo/materiales?buscar=rodamiento
+  body: none
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{tokenConsulta}}
+}

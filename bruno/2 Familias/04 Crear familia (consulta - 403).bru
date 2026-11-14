@@ -1,0 +1,21 @@
+meta {
+  name: Crear familia (consulta - 403)
+  type: http
+  seq: 4
+}
+
+post {
+  url: {{baseUrl}}/catalogo/familias
+  body: json
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{tokenConsulta}}
+}
+
+body:json {
+  {
+    "nombre": "No permitida"
+  }
+}

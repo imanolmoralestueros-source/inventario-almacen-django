@@ -1,0 +1,38 @@
+meta {
+  name: Generar url de subida
+  type: http
+  seq: 1
+}
+
+post {
+  url: {{baseUrl}}/catalogo/generar-url
+  body: json
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{tokenAdmin}}
+}
+
+body:json {
+  {
+    "fileName": "rodamiento",
+    "ext": "jpg",
+    "contentType": "image/jpeg"
+  }
+}
+
+script:post-response {
+  if (res.status === 200) {
+    const c = res.body.content;
+    bru.setEnvVar("urlSubida", c.url);
+    bru.setEnvVar("fotoNombre", c.nombre);
+    bru.setEnvVar("fotoExt", c.ext);
+    bru.setEnvVar("fotoRuta", c.ruta);
+    bru.setEnvVar("fotoMime", c.mimeType);
+  }
+}
+
+docs {
+  Paso 1. Despues subir la imagen a la url devuelta (ver README, paso 2 con curl). La url vence en 5 minutos.
+}

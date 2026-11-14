@@ -1,0 +1,25 @@
+meta {
+  name: Registro usuario consulta
+  type: http
+  seq: 2
+}
+
+post {
+  url: {{baseUrl}}/auth/registro
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "nombre": "Tecnico",
+    "apellido": "Almacen",
+    "correo": "{{consultaCorreo}}",
+    "password": "{{consultaPassword}}",
+    "rol": "ADMIN"
+  }
+}
+
+docs {
+  Aunque se envie rol ADMIN, todo usuario registrado queda como CONSULTA (rol es solo lectura en el serializer).
+}

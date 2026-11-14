@@ -1,0 +1,19 @@
+meta {
+  name: Material dado de baja (404)
+  type: http
+  seq: 13
+}
+
+get {
+  url: {{baseUrl}}/catalogo/materiales/{{materialId}}
+  body: none
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{tokenConsulta}}
+}
+
+docs {
+  Despues de la baja ya no aparece en el detalle ni en el listado, pero sigue en la bd.
+}

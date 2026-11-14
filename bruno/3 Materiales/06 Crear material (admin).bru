@@ -1,0 +1,37 @@
+meta {
+  name: Crear material (admin)
+  type: http
+  seq: 6
+}
+
+post {
+  url: {{baseUrl}}/catalogo/materiales
+  body: json
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{tokenAdmin}}
+}
+
+body:json {
+  {
+    "descripcion": "RODAMIENTO RIGIDO DE BOLAS 6205-2RS",
+    "cantidad": 10,
+    "unidad": "UND",
+    "familia": {{familiaId}},
+    "marca": "SKF",
+    "modelo": "6205-2RSH",
+    "tipoMaterial": "Rodamiento rígido de bolas"
+  }
+}
+
+script:post-response {
+  if (res.status === 201) {
+    bru.setEnvVar("materialId", res.body.content.id);
+  }
+}
+
+docs {
+  El codigo MAT-xxxxxx lo genera la API. Guarda el id en materialId para las siguientes pruebas.
+}
