@@ -4,7 +4,7 @@ API REST para consultar y gestionar el catálogo de materiales y repuestos de un
 
 Proyecto final del módulo **Python Django Advanced** — Desarrollo Web Fullstack, Tecsup.
 
-**Producción:** `https://CAMBIAR.onrender.com`
+**Producción:** `https://inventario-almacen-django.onrender.com`
 
 ## Stack
 
